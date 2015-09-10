@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	1
+#@/user_id	sky_win
+smile,happy;biao'qing 	😊	c=1 d=1 t=1

@@ -1,0 +1,50 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	44
+#@/user_id	sky_win
+bei 	被	c=1 d=0.895834 t=44
+ce shi 	測試	c=1 d=0.882497 t=44
+chi 	吃	c=0 d=0.0831104 t=44
+chi yi ci 	吃一次	c=1 d=0.83527 t=44
+de 	的	c=2 d=1.88014 t=44
+duo fo er 	多佛爾	c=0 d=0.0960789 t=44
+fang fa 	方法	c=1 d=0.852144 t=44
+gan dao 	感到	c=1 d=0.873716 t=44
+gan jue 	感覺	c=1 d=0.891366 t=44
+jiu 	就	c=1 d=0.913931 t=44
+jiu shi 	就是	c=0 d=0.0960789 t=44
+jiu shi duo fo er 	就是多佛爾	c=1 d=0.965605 t=44
+jue de 	覺得	c=0 d=0.0980199 t=44
+ke li si 	克里斯	c=0 d=0.0980199 t=44
+ni kan 	你看	c=1 d=0.946485 t=44
+pin yin 	拼音	c=0 d=0.0937067 t=44
+pin yin shu ru fa 	拼音輸入法	c=1 d=0.941765 t=44
+rang ren 	讓人	c=1 d=0.869358 t=44
+rime 	Rime	c=1 d=0.995012 t=44
+san deng fen jiao 	三等分角	c=0 d=0.0980199 t=44
+san deng fen jiao ke li si jue de 	三等分角克里斯覺得	c=1 d=0.985112 t=44
+she zhi 	設置	c=1 d=0.810584 t=44
+shi hou 	時候	c=1 d=0.909373 t=44
+shi yi shi 	試一試	c=1 d=0.843665 t=44
+shu ru fa 	輸入法	c=4 d=3.89061 t=44
+shu xu guan 	鼠鬚管	c=1 d=0.814647 t=44
+shuang 	爽	c=1 d=0.878095 t=44
+ta 	它	c=1 d=0.923116 t=44
+wo 	我	c=1 d=0.929043 t=44
+wo ai 	我愛	c=1 d=0.99005 t=44
+wo jue de 	我覺得	c=1 d=0.932394 t=44
+wo shi 	我是	c=1 d=0.818731 t=44
+wo xie zuo 	我寫作	c=1 d=0.900325 t=44
+xiao 	小	c=1 d=0.826959 t=44
+xie zuo 	寫作	c=0 d=0.0895834 t=44
+xue jie 	學姐	c=1 d=0.960789 t=44
+yi ci 	一次	c=0 d=0.0831104 t=44
+yi ge 	一個	c=1 d=0.822835 t=44
+yi xia 	一下	c=1 d=0.88692 t=44
+yong 	用	c=1 d=0.918512 t=44
+zhe ge 	這個	c=6 d=5.35146 t=44
+zhong zhou yun 	中州韻	c=1 d=0.806541 t=44
+zhuo shi 	着實	c=1 d=0.865022 t=44
+zi ji 	自己	c=1 d=0.970446 t=44

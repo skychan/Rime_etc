@@ -1,0 +1,30 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Sep 09 23:01:56 2015"
+  rime_version: 1.1.2
+patch:
+  schema_list:
+    - {schema: double_pinyin_flypy_fluency}
+    - {schema: luna_pinyin}
+    - {schema: luna_pinyin_simp}
+    - {schema: luna_pinyin_tw}
+    - {schema: double_pinyin_flypy}
+  
+  key_binder/bindings:
+    - when: paging
+      accept: bracketleft
+      send: Page_Up
+    - when: has_menu
+      accept: bracketright
+      send: Page_Down
+
+  ascii_composer/good_old_caps_lock: true   # 中西文切换快捷键
+  ascii_composer/switch_key:
+    Caps_Lock: noop
+    Shift_L: inline_ascii
+    Shift_R: noop
+    Control_L: noop
+    Control_R: noop
+

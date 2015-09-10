@@ -1,0 +1,100 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	1.1.2
+#@/tick	118
+#@/user_id	sky_win
+ba 	吧	c=2 d=1.41144 t=118
+bao dao 	報道	c=1 d=0.666977 t=118
+bian hua 	變化	c=1 d=0.582748 t=118
+chang du 	長度	c=1 d=0.615697 t=118
+chu 	出	c=2 d=1.79818 t=118
+cong 	從	c=1 d=0.600496 t=118
+da xiao 	大小	c=1 d=0.631284 t=118
+dao 	到	c=6 d=3.88126 t=118
+de 	的	c=4 d=2.81507 t=118
+dian 	點	c=1 d=0.860708 t=118
+dong xi 	東西	c=1 d=0.865022 t=118
+dou 	都	c=1 d=0.965605 t=118
+dou shi 	都是	c=1 d=0.637628 t=118
+dui 	對	c=2 d=1.57522 t=118
+en 	恩	c=1 d=0.722527 t=118
+er qi 	二期	c=1 d=0.71177 t=118
+fan ye 	翻頁	c=2 d=1.99501 t=118
+fang 	方	c=0 d=0.0763379 t=118
+fang lao shi 	方老師	c=1 d=0.767206 t=118
+gan jue 	感覺	c=2 d=1.83409 t=118
+ge 	個	c=1 d=0.810584 t=118
+gu ji 	估計	c=1 d=0.680451 t=118
+guan jian 	關鍵	c=1 d=0.83527 t=118
+guo jia 	國家	c=1 d=0.786628 t=118
+hai 	還	c=1 d=0.970446 t=118
+hai mei 	還沒	c=1 d=0.66034 t=118
+hai shi 	還是	c=1 d=0.839457 t=118
+hao 	好	c=1 d=0.650509 t=118
+hen 	很	c=2 d=1.83258 t=118
+hen duo 	很多	c=1 d=0.960789 t=118
+hou 	後	c=1 d=0.677057 t=118
+hui you 	會有	c=1 d=0.57695 t=118
+ji jin 	基金	c=1 d=0.794534 t=118
+jin nian 	今年	c=1 d=0.763379 t=118
+jiu 	就	c=1 d=0.687289 t=118
+kai zhan 	開展	c=1 d=0.715338 t=118
+kan 	看	c=0 d=0.0878095 t=118
+kan de 	看得	c=1 d=0.900325 t=118
+kan wen xian 	看文獻	c=1 d=0.882497 t=118
+lai 	來	c=1 d=0.869358 t=118
+lao shi 	老師	c=1 d=0.774013 t=118
+le 	了	c=5 d=3.68434 t=118
+lu jing 	路徑	c=1 d=0.597501 t=118
+mei you 	沒有	c=1 d=0.88692 t=118
+neng 	能	c=1 d=0.847894 t=118
+qu 	去	c=1 d=0.644036 t=118
+san 	散	c=1 d=0.909373 t=118
+shang 	上	c=1 d=0.603506 t=118
+shen du 	深度	c=1 d=0.634448 t=118
+shen me 	什麼	c=1 d=0.752014 t=118
+shen qing 	申請	c=1 d=0.771052 t=118
+shi 	是	c=3 d=2.40774 t=118
+shi hou 	時候	c=1 d=0.618783 t=118
+shuo 	說	c=1 d=0.574072 t=118
+ta 	他	c=1 d=0.657047 t=118
+wen wen 	問問	c=1 d=0.647265 t=118
+wen xian 	文獻	c=0 d=0.0878095 t=118
+wen zhang 	文章	c=1 d=0.946485 t=118
+wo 	我	c=3 d=1.92687 t=118
+wo 	涴	c=1 d=1 t=118
+wo shi 	我是	c=1 d=0.56836 t=118
+xia 	下	c=2 d=1.38449 t=118
+xian zai 	現在	c=2 d=1.67623 t=118
+xiang 	想	c=2 d=1.67321 t=118
+xiang mu 	項目	c=1 d=0.798516 t=118
+xiao lang hao 	小狼毫	c=1 d=0.562705 t=118
+xie 	寫	c=1 d=0.937067 t=118
+xin ku 	辛苦	c=1 d=0.701173 t=118
+xu yao 	需要	c=1 d=0.97531 t=118
+xue 	學	c=1 d=0.980199 t=118
+yao 	要	c=1 d=0.843665 t=118
+ye 	也	c=2 d=1.64372 t=118
+yi ci shi 	依次是	c=1 d=0.612626 t=118
+yi fang mian 	一方面	c=2 d=1.87435 t=118
+yi ge 	一個	c=1 d=0.782705 t=118
+yi xie 	一些	c=1 d=0.579842 t=118
+yong 	用	c=1 d=0.565525 t=118
+you 	有	c=1 d=0.806541 t=118
+you de 	有的	c=1 d=0.591555 t=118
+yun 	雲	c=0 d=0.0704688 t=118
+yun zhi zao 	雲製造	c=1 d=0.70822 t=118
+zhe ge 	這個	c=1 d=0.594521 t=118
+zhe liang tian 	這兩天	c=1 d=0.683861 t=118
+zhe me 	這麼	c=2 d=1.30834 t=118
+zhi bo 	直博	c=1 d=0.814647 t=118
+zhi zao 	製造	c=0 d=0.0704688 t=118
+zhong dian 	重點	c=1 d=0.895834 t=118
+zhong zhou yun 	中州韻	c=2 d=1.97516 t=118
+zhua zhu 	抓住	c=1 d=0.891366 t=118
+zi 	字	c=1 d=0.625002 t=118
+zi ran 	自然	c=1 d=0.790571 t=118
+zong xiang 	縱向	c=1 d=0.759572 t=118
+zui jin 	最近	c=1 d=0.704688 t=118
+zuo 	做	c=1 d=0.852144 t=118
