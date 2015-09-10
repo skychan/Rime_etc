@@ -1,0 +1,4 @@
+# double_pinyin_flypy_fluency.custom.yaml
+patch:
+  translator/dictionary: luna_pinyin.extended
+  translator/dictionary: luna_pinyin.cn_en
