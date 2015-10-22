@@ -2,141 +2,1194 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	118
+#@/tick	2646
 #@/user_id	sky_mac
-ba 	吧	c=2 d=1.41144 t=118
-bao dao 	報道	c=1 d=0.666977 t=118
-bei 	被	c=1 d=0.644036 t=118
-bian hua 	變化	c=1 d=0.582748 t=118
-ce shi 	測試	c=1 d=0.634448 t=118
-chang du 	長度	c=1 d=0.615697 t=118
-chi 	吃	c=0 d=0.05975 t=118
-chi yi ci 	吃一次	c=1 d=0.600495 t=118
-chu 	出	c=2 d=1.79818 t=118
-cong 	從	c=1 d=0.600496 t=118
-da xiao 	大小	c=1 d=0.631284 t=118
-dao 	到	c=6 d=3.88126 t=118
-de 	的	c=4 d=2.81507 t=118
-dian 	點	c=1 d=0.860708 t=118
-dong xi 	東西	c=1 d=0.865022 t=118
-dou 	都	c=1 d=0.965605 t=118
-dou shi 	都是	c=1 d=0.637628 t=118
-dui 	對	c=2 d=1.57522 t=118
-duo fo er 	多佛爾	c=0 d=0.0690734 t=118
-en 	恩	c=1 d=0.722527 t=118
-er qi 	二期	c=1 d=0.71177 t=118
-fan ye 	翻頁	c=2 d=1.99501 t=118
-fang 	方	c=0 d=0.0763379 t=118
-fang fa 	方法	c=1 d=0.612627 t=118
-fang lao shi 	方老師	c=1 d=0.767206 t=118
-gan dao 	感到	c=1 d=0.628135 t=118
-gan jue 	感覺	c=2 d=1.83409 t=118
-ge 	個	c=1 d=0.810584 t=118
-gu ji 	估計	c=1 d=0.680451 t=118
-guan jian 	關鍵	c=1 d=0.83527 t=118
-guo jia 	國家	c=1 d=0.786628 t=118
-hai 	還	c=1 d=0.970446 t=118
-hai mei 	還沒	c=1 d=0.66034 t=118
-hai shi 	還是	c=1 d=0.839457 t=118
-hao 	好	c=1 d=0.650509 t=118
-hen 	很	c=2 d=1.83258 t=118
-hen duo 	很多	c=1 d=0.960789 t=118
-hou 	後	c=1 d=0.677057 t=118
-hui you 	會有	c=1 d=0.57695 t=118
-ji jin 	基金	c=1 d=0.794534 t=118
-jin nian 	今年	c=1 d=0.763379 t=118
-jiu 	就	c=1 d=0.913931 t=118
-jiu shi 	就是	c=0 d=0.0690734 t=118
-jiu shi duo fo er 	就是多佛爾	c=1 d=0.694196 t=118
-jue de 	覺得	c=0 d=0.0704688 t=118
-kai zhan 	開展	c=1 d=0.715338 t=118
-kan 	看	c=0 d=0.0878095 t=118
-kan de 	看得	c=1 d=0.900325 t=118
-kan wen xian 	看文獻	c=1 d=0.882497 t=118
-ke li si 	克里斯	c=0 d=0.0704688 t=118
-lai 	來	c=1 d=0.869358 t=118
-lao shi 	老師	c=1 d=0.774013 t=118
-le 	了	c=5 d=3.68434 t=118
-liu 	流	c=0 d=0.070822 t=118
-lu jing 	路徑	c=1 d=0.597501 t=118
-mei you 	沒有	c=1 d=0.88692 t=118
-neng 	能	c=1 d=0.847894 t=118
-ni kan 	你看	c=1 d=0.680451 t=118
-pei zhi 	配置	c=2 d=1.41301 t=118
-pin yin 	拼音	c=0 d=0.067368 t=118
-pin yin shu ru fa 	拼音輸入法	c=1 d=0.677057 t=118
-qu 	去	c=1 d=0.644036 t=118
-rang ren 	讓人	c=1 d=0.625002 t=118
-rime 	Rime	c=1 d=0.715338 t=118
-san 	散	c=1 d=0.909373 t=118
-san deng fen jiao 	三等分角	c=0 d=0.0704688 t=118
-san deng fen jiao ke li si jue de 	三等分角克里斯覺得	c=1 d=0.70822 t=118
-shang 	上	c=1 d=0.603506 t=118
-she zhi 	設置	c=1 d=0.582748 t=118
-shen du 	深度	c=1 d=0.634448 t=118
-shen me 	什麼	c=1 d=0.752014 t=118
-shen qing 	申請	c=1 d=0.771052 t=118
-shi 	是	c=3 d=2.40774 t=118
-shi hou 	時候	c=1 d=0.909373 t=118
-shi yi shi 	試一試	c=1 d=0.606531 t=118
-shu ru fa 	輸入法	c=4 d=2.79705 t=118
-shu xu guan 	鼠鬚管	c=1 d=0.585669 t=118
-shuang 	爽	c=1 d=0.631283 t=118
-shuo 	說	c=1 d=0.574072 t=118
-ta 	他	c=1 d=0.657047 t=118
-ta 	它	c=1 d=0.66365 t=118
-tian jia 	添加	c=2 d=1.40586 t=118
-wan cheng 	完成	c=1 d=0.718924 t=118
-wen wen 	問問	c=1 d=0.647265 t=118
-wen xian 	文獻	c=0 d=0.0878095 t=118
-wen zhang 	文章	c=1 d=0.946485 t=118
-wo 	我	c=3 d=1.92687 t=118
-wo 	涴	c=1 d=1 t=118
-wo ai 	我愛	c=1 d=0.71177 t=118
-wo de 	我的	c=1 d=0.694197 t=118
-wo jue de 	我覺得	c=1 d=0.67032 t=118
-wo shi 	我是	c=1 d=0.818731 t=118
-wo xie zuo 	我寫作	c=1 d=0.647265 t=118
-xia 	下	c=2 d=1.38449 t=118
-xian zai 	現在	c=2 d=1.67623 t=118
-xiang 	想	c=2 d=1.67321 t=118
-xiang mu 	項目	c=1 d=0.798516 t=118
-xiao 	小	c=1 d=0.59452 t=118
-xiao he 	小鶴	c=1 d=0.70822 t=118
-xiao lang hao 	小狼毫	c=1 d=0.562705 t=118
-xie 	寫	c=1 d=0.937067 t=118
-xie zuo 	寫作	c=0 d=0.0644036 t=118
-xin ku 	辛苦	c=1 d=0.701173 t=118
-xu yao 	需要	c=1 d=0.97531 t=118
-xue 	學	c=1 d=0.980199 t=118
-xue jie 	學姐	c=1 d=0.690734 t=118
-yao 	要	c=1 d=0.843665 t=118
-ye 	也	c=2 d=1.64372 t=118
-yi ci 	一次	c=0 d=0.05975 t=118
-yi ci shi 	依次是	c=1 d=0.612626 t=118
-yi fang mian 	一方面	c=2 d=1.87435 t=118
-yi ge 	一個	c=1 d=0.822835 t=118
-yi xia 	一下	c=1 d=0.637628 t=118
-yi xie 	一些	c=1 d=0.579842 t=118
-yong 	用	c=1 d=0.918512 t=118
-you 	有	c=1 d=0.806541 t=118
-you de 	有的	c=1 d=0.591555 t=118
-yu ju 	語句	c=0 d=0.070822 t=118
-yu ju liu 	語句流	c=1 d=0.71177 t=118
-yun 	雲	c=0 d=0.0704688 t=118
-yun zhi zao 	雲製造	c=1 d=0.70822 t=118
-zhe ge 	這個	c=6 d=5.35146 t=118
-zhe liang tian 	這兩天	c=1 d=0.683861 t=118
-zhe me 	這麼	c=2 d=1.30834 t=118
-zhi bo 	直博	c=1 d=0.814647 t=118
-zhi zao 	製造	c=0 d=0.0704688 t=118
-zhong dian 	重點	c=1 d=0.895834 t=118
-zhong zhou yun 	中州韻	c=2 d=1.97516 t=118
-zhua zhu 	抓住	c=1 d=0.891366 t=118
-zhuo shi 	着實	c=1 d=0.621885 t=118
-zi 	字	c=1 d=0.625002 t=118
-zi ji 	自己	c=1 d=0.697677 t=118
-zi ran 	自然	c=1 d=0.790571 t=118
-zong xiang 	縱向	c=1 d=0.759572 t=118
-zui jin 	最近	c=1 d=0.704688 t=118
-zuo 	做	c=1 d=0.852144 t=118
+an 	安	c=1 d=2.20985e-05 t=2646
+an 	按	c=1 d=0.00271219 t=2646
+an bu 	岸部	c=1 d=2.10208e-05 t=2646
+an zhao 	按照	c=1 d=0.891366 t=2646
+an zhuo 	安卓	c=1 d=0.0376283 t=2646
+ang 	昂	c=1 d=0.100761 t=2646
+ba 	吧	c=5 d=1.41144 t=2646
+ba 	把	c=4 d=0.772493 t=2646
+bai ban 	白板	c=1 d=0.537944 t=2646
+bai shi 	百事	c=0 d=0.0142987 t=2646
+bai shi hui tong 	百事匯通	c=1 d=0.143704 t=2646
+ban 	版	c=3 d=0.798516 t=2646
+ban 	辦	c=1 d=0.0632918 t=2646
+ban ji 	班級	c=1 d=0.0366992 t=2646
+ban shi 	辦事	c=1 d=0.000352662 t=2646
+ban shi chu 	辦事處	c=1 d=0.000293099 t=2646
+ban zheng 	辦證	c=2 d=0.00145564 t=2646
+bang 	幫	c=1 d=0.0168231 t=2646
+bang mang 	幫忙	c=1 d=0.000652304 t=2646
+bang wang 	幫忘	c=1 d=0.00663763 t=2646
+bao 	保	c=2 d=0.00229955 t=2646
+bao 	包	c=4 d=0.0571681 t=2646
+bao cun 	保存	c=1 d=1 t=135
+bao dan 	保單	c=1 d=0.00173804 t=2646
+bao dao 	報道	c=1 d=0.666977 t=2646
+bao gao 	報告	c=2 d=0.115021 t=2646
+bao kuo 	包括	c=2 d=0.128788 t=2646
+bao ma 	寶馬	c=2 d=0.00654322 t=2646
+bao xian 	保險	c=7 d=0.0114335 t=2646
+bao xian gong si 	保險公司	c=1 d=0.00244185 t=2646
+bao xiao 	報銷	c=7 d=0.182554 t=2646
+bei 	北	c=1 d=0.0776922 t=2646
+bei 	被	c=2 d=0.644036 t=2646
+bei jing 	背景	c=2 d=0.110834 t=2646
+ben 	本	c=1 d=0.000434081 t=2646
+ben di 	本地	c=1 d=5.3952e-06 t=2646
+ben shen 	本身	c=1 d=5.11883e-05 t=2646
+ben teng 	奔騰	c=1 d=0.00980366 t=2646
+bi jiao 	比較	c=1 d=0.000101546 t=2646
+bi tian 	必填	c=1 d=0.00018046 t=2646
+bian hua 	變化	c=1 d=0.582748 t=2646
+bian ji qi 	編輯器	c=1 d=1 t=140
+bian liang 	變量	c=1 d=5.10648e-06 t=2646
+bian ma 	編碼	c=1 d=1 t=162
+bian yi 	編譯	c=1 d=5.262e-06 t=2646
+bian zheng fa 	辯證法	c=1 d=0.0220377 t=2646
+biao 	表	c=1 d=0.380983 t=2646
+biao ge 	表格	c=1 d=0.000202454 t=2646
+bin guan 	賓館	c=1 d=0.00023056 t=2646
+bing 	並	c=4 d=0.0309097 t=2646
+bing bu 	並不	c=1 d=3.46574e-05 t=2646
+bing bu neng 	並不能	c=1 d=7.26396e-05 t=2646
+bing qie 	並且	c=1 d=9.09683e-05 t=2646
+bing zai 	並在	c=1 d=0.000561443 t=2646
+bo he 	薄荷	c=1 d=0.101774 t=2646
+bo shi 	博士	c=5 d=0.0323792 t=2646
+bo shi yan jiu sheng 	博士研究生	c=3 d=0.00200728 t=2646
+bu 	不	c=4 d=0.268937 t=2646
+bu 	部	c=1 d=0.0365162 t=2646
+bu bian 	不便	c=1 d=0.162026 t=2646
+bu da 	不大	c=1 d=3.38017e-05 t=2646
+bu dui 	不對	c=1 d=0.00557201 t=2646
+bu fen 	部分	c=1 d=2.3465e-05 t=2646
+bu fu 	不服	c=0 d=9.30303e-05 t=2646
+bu guo 	不過	c=1 d=1.54176e-05 t=2646
+bu hao 	不好	c=1 d=0.157237 t=2646
+bu jian rong 	不兼容	c=1 d=0.0100017 t=2646
+bu kan 	不看	c=1 d=0.000898306 t=2646
+bu neng 	不能	c=2 d=0.826959 t=2646
+bu qu 	不去	c=1 d=0.00509243 t=2646
+bu yao 	不要	c=1 d=0.00425356 t=2646
+bu yong 	不用	c=1 d=0.449329 t=2646
+bu zai 	不在	c=1 d=0.000140543 t=2646
+bu zhang 	部長	c=1 d=0.0361528 t=2646
+bu zhi fu 	不支付	c=1 d=0.0119742 t=2646
+cai neng 	才能	c=2 d=0.0471326 t=2646
+cai se 	彩色	c=1 d=0.00582847 t=2646
+cai you 	纔有	c=1 d=3.55347e-05 t=2646
+can jia 	參加	c=3 d=0.00169857 t=2646
+can kao 	參考	c=1 d=1.74704e-05 t=2646
+can yu 	參與	c=2 d=0.0013482 t=2646
+ce lve 	策略	c=1 d=5.42225e-06 t=2646
+ce shi 	測試	c=2 d=1.25153 t=2646
+cha bie 	差別	c=1 d=1.22498e-05 t=2646
+cha bu dao 	查不到	c=1 d=0.918512 t=2646
+cha cha 	查查	c=1 d=0.0645703 t=2646
+cha dao 	查到	c=2 d=0.0475678 t=2646
+cha kan 	查看	c=6 d=1.72646 t=2646
+cha xun 	查詢	c=1 d=0.045502 t=2646
+chai 	拆	c=1 d=0.831104 t=2646
+chan pin 	產品	c=1 d=0.0278757 t=2646
+chang du 	長度	c=1 d=0.615697 t=2646
+chang jing 	場景	c=1 d=5.61539e-06 t=2646
+chang qi 	長期	c=1 d=0.000411789 t=2646
+chang sha 	長沙	c=1 d=0.138761 t=2646
+chang shi jian 	長時間	c=1 d=0.0119145 t=2646
+chen 	晨	c=1 d=0.000626727 t=2646
+chen 	陳	c=11 d=0.99005 t=2646
+chen qi zhen 	陳綺貞	c=2 d=0.504418 t=2646
+chen sheng kai 	陳晟愷	c=9 d=0.20083 t=2646
+cheng gong 	成功	c=1 d=0.00190171 t=2646
+cheng guo 	成果	c=1 d=0.000863083 t=2646
+chi 	吃	c=0 d=0.05975 t=172
+chi yi ci 	吃一次	c=1 d=0.600495 t=172
+chong pai 	重拍	c=1 d=0.00647375 t=2646
+chong xin 	重新	c=1 d=0.00128757 t=2646
+chu 	出	c=5 d=1.79818 t=2646
+chu 	處	c=1 d=0.0590129 t=2646
+chu cuo 	出錯	c=1 d=5.28837e-06 t=2646
+chu guo 	出國	c=2 d=0.000503783 t=2646
+chu jing 	出境	c=0 d=0.000162866 t=2646
+chu jing 	處境	c=0 d=0.000162053 t=2646
+chu jing xian 	出境險	c=1 d=0.00163682 t=2646
+chu jing xian 	處境險	c=1 d=0.00162866 t=2646
+chu xuan 	初選	c=1 d=5.4626e-05 t=2646
+chuan tong 	傳統	c=1 d=9.18825e-05 t=2646
+ci 	次	c=1 d=0.000359786 t=2646
+ci ci 	此次	c=3 d=0.00164401 t=2646
+ci pin 	詞頻	c=1 d=1 t=121
+ci shu 	次數	c=1 d=0.00130051 t=2646
+cong 	從	c=3 d=0.600496 t=2646
+cong xia 	從下	c=1 d=4.65492e-05 t=2646
+cui ruo 	脆弱	c=1 d=5.7864e-06 t=2646
+cun 	寸	c=3 d=1.26116 t=2646
+cun zai 	存在	c=4 d=0.355073 t=2646
+da 	大	c=2 d=0.0669664 t=2646
+da 	達	c=1 d=0.752014 t=2646
+da du 	打賭	c=1 d=0.45612 t=2646
+da gai 	大概	c=1 d=0.075774 t=2646
+da kai 	打開	c=1 d=0.856415 t=2646
+da la si 	達拉斯	c=1 d=0.212248 t=2646
+da shi guan 	大使館	c=0 d=2.94568e-05 t=2646
+da shu ju 	大數據	c=3 d=0.34321 t=2646
+da suan 	打算	c=1 d=1.46657e-05 t=2646
+da xiao 	大小	c=1 d=0.631284 t=2646
+da xue 	大學	c=5 d=0.0117233 t=2646
+da yue 	大約	c=1 d=0.0002139 t=2646
+da zhan 	大戰	c=3 d=2.94605 t=2646
+da zhi 	大致	c=1 d=0.000127168 t=2646
+dai 	帶	c=2 d=0.62165 t=2646
+dai fu 	代付	c=1 d=0.0135686 t=2646
+dai lai 	帶來	c=3 d=0.268814 t=2646
+dai ye 	待業	c=1 d=4.55174e-06 t=2646
+dai you 	帶有	c=1 d=3.8594e-06 t=2646
+dan 	單	c=4 d=2.14709 t=2646
+dan ci 	單次	c=2 d=8.95203e-05 t=2646
+dan hao 	單號	c=2 d=1.04165 t=2646
+dan jia 	單價	c=3 d=0.011428 t=2646
+dan shi 	但是	c=2 d=0.0441611 t=2646
+dan wei 	單位	c=2 d=0.00222389 t=2646
+dang dai 	當代	c=1 d=0.0258615 t=2646
+dao 	到	c=14 d=3.88126 t=2646
+dao chu 	導出	c=1 d=0.0500366 t=2646
+dao da 	到達	c=1 d=0.0186856 t=2646
+dao shi 	導師	c=4 d=0.00162386 t=2646
+dao yan 	導言	c=1 d=1 t=149
+de 	的	c=131 d=10.8561 t=2646
+de zhou 	德州	c=0 d=0.0408608 t=2646
+de zhou pa ji 	德州扒雞	c=1 d=0.410656 t=2646
+deng 	等	c=3 d=0.137431 t=2646
+deng deng 	等等	c=1 d=0.433874 t=2646
+deng zuo 	燈座	c=1 d=0.0523397 t=2646
+di er 	第二	c=0 d=1.01301e-06 t=2646
+di er fang 	第二方	c=1 d=1.01809e-05 t=2646
+di fang 	地方	c=1 d=5.84456e-06 t=2646
+di san fang 	第三方	c=1 d=1.00796e-05 t=2646
+di si 	第四	c=0 d=1.10288e-06 t=2646
+di si fang 	第四方	c=1 d=1.10841e-05 t=2646
+di tie zhan 	地鐵站	c=1 d=0.0692522 t=2646
+di yi ge 	第一個	c=1 d=1.83662e-05 t=2646
+di zhi 	地址	c=3 d=0.314958 t=2646
+dian 	店	c=1 d=2.09159e-05 t=2646
+dian 	點	c=2 d=0.860708 t=2646
+dian hua 	電話	c=5 d=2.11351 t=2646
+dian nao 	電腦	c=1 d=0.211189 t=2646
+dian ya 	電壓	c=2 d=0.215612 t=2646
+dian zi ban 	電子版	c=1 d=0.000662162 t=2646
+diao du 	調度	c=1 d=0.000109455 t=2646
+ding 	定	c=1 d=0.000218221 t=2646
+ding dan 	訂單	c=10 d=1.08392 t=2646
+ding e 	定額	c=1 d=0.0026189 t=2646
+ding gou 	訂購	c=1 d=0.000227127 t=2646
+ding hang 	頂行	c=1 d=1 t=156
+ding yi 	定義	c=1 d=0.304221 t=2646
+diu 	丟	c=0 d=4.25704e-06 t=2646
+diu fan shu 	丟番薯	c=1 d=2.13384e-05 t=2646
+diu fan shu 	丟蕃薯	c=1 d=2.14454e-05 t=2646
+dong 	動	c=1 d=0.00511796 t=2646
+dong 	董	c=1 d=2.56748e-05 t=2646
+dong tai 	動態	c=3 d=0.307306 t=2646
+dong xi 	東西	c=2 d=0.865022 t=2646
+dong zhi 	東芝	c=1 d=8.17034e-06 t=2646
+dou 	都	c=6 d=0.965605 t=2646
+dou shi 	都是	c=3 d=0.637628 t=2646
+du 	度	c=0 d=1.00535e-05 t=2646
+duan qi 	短期	c=2 d=0.000651171 t=2646
+duan xin 	短信	c=1 d=0.178173 t=2646
+duan zan 	短暫	c=1 d=0.0322254 t=2646
+dui 	對	c=10 d=1.57522 t=2646
+dui bi 	對比	c=2 d=0.000172524 t=2646
+duo fo er 	多佛爾	c=0 d=0.0690734 t=172
+duo shao nian 	多少年	c=1 d=9.78167e-06 t=2646
+en 	恩	c=5 d=0.722527 t=2646
+er 	兒	c=2 d=0.00235772 t=2646
+er qi 	二期	c=1 d=0.71177 t=2646
+er tong yi yuan 	兒童醫院	c=1 d=0.000285862 t=2646
+fa 	發	c=5 d=1.06547 t=2646
+fa bu 	發佈	c=1 d=1.97966e-05 t=2646
+fa huo 	發貨	c=1 d=0.321422 t=2646
+fa piao 	發票	c=28 d=4.85598 t=2646
+fa wan 	發晚	c=1 d=0.158817 t=2646
+fan 	帆	c=2 d=0.00232153 t=2646
+fan hua 	泛化	c=1 d=2.03995e-05 t=2646
+fan kui 	反饋	c=2 d=0.000113746 t=2646
+fan shu 	番薯	c=0 d=2.1232e-06 t=2646
+fan shu 	蕃薯	c=1 d=2.36866e-05 t=2646
+fan ye 	翻頁	c=2 d=1.99501 t=2646
+fan yi 	翻譯	c=1 d=0.0948935 t=2646
+fang 	方	c=14 d=0.113266 t=2646
+fang an 	方案	c=1 d=7.19168e-05 t=2646
+fang bian 	方便	c=2 d=0.71506 t=2646
+fang fa 	方法	c=3 d=0.612627 t=2646
+fang jia 	放假	c=1 d=0.484325 t=2646
+fang lao shi 	方老師	c=9 d=0.767206 t=2646
+fang shi 	方式	c=1 d=1 t=168
+fang shui 	方水	c=4 d=0.939422 t=2646
+fang xiang 	方向	c=1 d=1.67854e-05 t=2646
+fei 	非	c=1 d=4.28667e-06 t=2646
+fei 	飛	c=2 d=0.00230995 t=2646
+fei cheng 	費城	c=11 d=0.985112 t=2646
+fei ji 	飛機	c=1 d=0.0824965 t=2646
+fei xiao tong 	費孝通	c=2 d=1.96637e-05 t=2646
+fei yong 	費用	c=6 d=0.0035589 t=2646
+fen bu shi 	分佈式	c=1 d=1.40906e-05 t=2646
+fen ge 	分割	c=1 d=5.99251e-06 t=2646
+fen lei 	分類	c=3 d=5.43761e-05 t=2646
+fen lei qi 	分類器	c=1 d=2.26579e-05 t=2646
+fen pei 	分配	c=2 d=8.47672e-05 t=2646
+fen san 	分散	c=1 d=4.49482e-05 t=2646
+fen xi 	分析	c=1 d=0.12307 t=2646
+fo jiao 	佛教	c=0 d=0.00269169 t=2646
+fo jiao wen hua 	佛教文化	c=1 d=0.0270518 t=2646
+fou 	否	c=1 d=4.26529e-06 t=2646
+fu 	付	c=1 d=0.794534 t=2646
+fu 	赴	c=1 d=0.000311223 t=2646
+fu hao 	符號	c=1 d=9.35125e-06 t=2646
+fu jian 	附件	c=5 d=0.000219614 t=2646
+fu lan ke 	福蘭克	c=1 d=0.000300519 t=2646
+fu qin 	父親	c=1 d=4.43936e-06 t=2646
+fu wu 	服務	c=3 d=6.85586e-05 t=2646
+fu wu ping tai 	服務平臺	c=1 d=0.000837575 t=2646
+fu za 	複雜	c=0 d=2.24325e-06 t=2646
+fu za de 	複雜的	c=1 d=2.25449e-05 t=2646
+fu zhi 	複製	c=1 d=0.806541 t=2646
+gai 	改	c=3 d=0.103561 t=2646
+gai 	該	c=1 d=0.0549858 t=2646
+gai le ma 	該了嗎	c=1 d=0.090718 t=2646
+gai sheng 	該生	c=1 d=0.000710174 t=2646
+gan dao 	感到	c=1 d=0.628135 t=172
+gan jue 	感覺	c=4 d=1.83409 t=2646
+gang bi 	港幣	c=1 d=0.105399 t=2646
+gang gang 	剛剛	c=1 d=0.715338 t=2646
+gao 	高	c=1 d=0.000102055 t=2646
+gao xiao 	搞笑	c=1 d=0.26982 t=2646
+gao xiao 	高效	c=1 d=5.87385e-06 t=2646
+ge 	個	c=8 d=0.810584 t=2646
+ge 	割	c=0 d=5.47674e-07 t=2646
+ge 	各	c=5 d=0.0248141 t=2646
+ge 	哥	c=2 d=0.288577 t=2646
+ge lei 	各類	c=1 d=5.32773e-05 t=2646
+ge lu ji ya 	格魯吉亞	c=0 d=3.02025e-05 t=2646
+ge ren 	個人	c=4 d=0.000597232 t=2646
+ge shi 	格式	c=1 d=6.75654e-06 t=2646
+ge zhong 	各種	c=0 d=9.30303e-05 t=2646
+ge zhong bu fu 	各種不服	c=1 d=0.000934966 t=2646
+gei 	給	c=3 d=1.38714 t=2646
+gei chu 	給出	c=2 d=8.86296e-05 t=2646
+gei nin 	給您	c=1 d=0.160414 t=2646
+geng 	更	c=1 d=2.24325e-05 t=2646
+geng da 	更大	c=1 d=0.0349094 t=2646
+geng duo 	更多	c=1 d=0.0342181 t=2646
+geng wei 	更爲	c=1 d=3.88812e-05 t=2646
+gong cheng 	工程	c=13 d=0.131595 t=2646
+gong lve 	攻略	c=1 d=0.00136719 t=2646
+gong si 	公司	c=1 d=0.00252883 t=2646
+gong ye 	工業	c=4 d=0.107548 t=2646
+gong ye gong cheng 	工業工程	c=2 d=0.0515912 t=2646
+google 	Google	c=2 d=0.0837483 t=2646
+gou jian 	構建	c=2 d=4.05952e-05 t=2646
+gou wu 	購物	c=2 d=0.615656 t=2646
+gu 	股	c=1 d=0.000939653 t=2646
+gu du 	孤獨	c=1 d=0.261846 t=2646
+gu ji 	估計	c=3 d=0.680451 t=2646
+gu piao 	股票	c=1 d=0.000902809 t=2646
+guan bi 	關閉	c=3 d=0.822835 t=2646
+guan dian 	觀點	c=1 d=3.84943e-05 t=2646
+guan jia 	管家	c=1 d=0.177284 t=2646
+guan jian 	關鍵	c=2 d=0.83527 t=2646
+guan jian ji shu 	關鍵技術	c=1 d=0.000841773 t=2646
+guan lan gao shou 	灌籃高手	c=1 d=0.000305061 t=2646
+guan li 	管理	c=3 d=0.0993203 t=2646
+guan lian 	關聯	c=1 d=0.000435072 t=2646
+guan yu 	關於	c=3 d=0.000335724 t=2646
+guang chang 	廣場	c=2 d=0.0632818 t=2646
+guang qu 	光驅	c=1 d=0.83527 t=2646
+guang zhou 	廣州	c=2 d=0.286698 t=2646
+gui na 	歸納	c=1 d=8.9167e-05 t=2646
+guo 	過	c=1 d=0.722527 t=2646
+guo cheng 	過程	c=4 d=0.0238783 t=2646
+guo ji 	國際	c=3 d=0.000581248 t=2646
+guo ji ji chang 	國際機場	c=1 d=0.172907 t=2646
+guo ji lv fei 	國際旅費	c=1 d=0.000116223 t=2646
+guo jia 	國家	c=2 d=0.786628 t=2646
+guo le 	過了	c=0 d=9.49097e-05 t=2646
+guo nei 	國內	c=1 d=1.96979e-05 t=2646
+guo shu 	國書	c=2 d=0.558869 t=2646
+guo wai 	國外	c=1 d=0.000323925 t=2646
+hai 	還	c=5 d=1.04603 t=2646
+hai guan 	海關	c=1 d=0.22091 t=2646
+hai mei 	還沒	c=1 d=0.66034 t=2646
+hai mei you 	還沒有	c=1 d=0.000153011 t=2646
+hai shi 	還是	c=5 d=0.839457 t=2646
+hai you 	還有	c=1 d=0.367879 t=2646
+hai zei wang 	海賊王	c=2 d=0.28366 t=2646
+han shu 	函數	c=1 d=2.43008e-05 t=2646
+han shui 	含稅	c=1 d=0.000212834 t=2646
+hang zhou 	杭州	c=7 d=0.582432 t=2646
+hang zhou shi 	杭州市	c=2 d=0.00315356 t=2646
+hao 	好	c=17 d=3.47365 t=2646
+hao 	號	c=11 d=1.91987 t=2646
+hao cai 	耗材	c=1 d=8.89519e-06 t=2646
+hao chu 	好處	c=1 d=6.80682e-05 t=2646
+hao de 	好的	c=3 d=0.0116526 t=2646
+hao ma 	號碼	c=4 d=0.0190364 t=2646
+hao xiang 	好像	c=2 d=0.0624835 t=2646
+he 	和	c=6 d=0.000390497 t=2646
+he bing 	合併	c=1 d=4.58562e-05 t=2646
+he li 	合理	c=1 d=4.4279e-05 t=2646
+hei se 	黑色	c=1 d=0.00588705 t=2646
+hen 	很	c=5 d=1.83258 t=2646
+hen da 	很大	c=1 d=0.000432902 t=2646
+hen duo 	很多	c=1 d=0.960789 t=2646
+hen nan 	很難	c=1 d=1.55726e-05 t=2646
+hen qiang 	很強	c=1 d=4.96754e-05 t=2646
+hong 	洪	c=1 d=0.0608289 t=2646
+hong lao ban 	洪老闆	c=1 d=0.0555762 t=2646
+hong qiao 	虹橋	c=2 d=0.161204 t=2646
+hou 	後	c=5 d=1.35212 t=2646
+hou mian 	後面	c=1 d=0.00433948 t=2646
+hou xu 	後續	c=1 d=0.000159256 t=2646
+hu nan 	湖南	c=1 d=0.138069 t=2646
+hu yan 	護眼	c=1 d=5.13208e-06 t=2646
+hu zhao 	護照	c=0 d=2.63884e-05 t=2646
+hu zhao ben 	護照本	c=1 d=0.000265207 t=2646
+hua 	化	c=2 d=7.93432e-05 t=2646
+hua 	話	c=2 d=0.421148 t=2646
+hua fen 	劃分	c=2 d=3.62506e-05 t=2646
+hua wei 	華爲	c=1 d=0.037068 t=2646
+huan cheng 	換乘	c=1 d=0.0788664 t=2646
+huan jing 	環境	c=4 d=0.000156055 t=2646
+huang 	黃	c=1 d=2.44226e-05 t=2646
+hui 	慧	c=1 d=4.6437e-06 t=2646
+hui 	會	c=2 d=0.000116272 t=2646
+hui dao 	回到	c=1 d=5.06789e-05 t=2646
+hui fu 	恢復	c=2 d=1.06564e-05 t=2646
+hui guo 	回國	c=1 d=0.219808 t=2646
+hui hou 	會後	c=1 d=0.154124 t=2646
+hui hua 	會話	c=1 d=1 t=139
+hui ji 	彙集	c=1 d=1.16524e-05 t=2646
+hui tong 	匯通	c=0 d=0.0142987 t=2646
+hui yi 	會議	c=11 d=0.00385327 t=2646
+hui you 	會有	c=1 d=0.57695 t=2646
+huo 	或	c=1 d=4.60861e-05 t=2646
+huo che 	火車	c=1 d=0.0706512 t=2646
+huo xu 	或許	c=1 d=7.22773e-05 t=2646
+huo ying 	火影	c=1 d=5.05567e-06 t=2646
+huo ying ren zhe 	火影忍者	c=1 d=0.285076 t=2646
+huo zhe 	或者	c=2 d=8.30018e-05 t=2646
+ji 	及	c=10 d=1.54708 t=2646
+ji 	姬	c=2 d=0.287138 t=2646
+ji 	寄	c=1 d=0.00276698 t=2646
+ji 	機	c=1 d=0.00290884 t=2646
+ji 	雞	c=0 d=0.0408608 t=2646
+ji ben 	基本	c=3 d=0.507907 t=2646
+ji chang 	機場	c=2 d=0.216294 t=2646
+ji chu 	基礎	c=1 d=3.02807e-05 t=2646
+ji chuang 	機牀	c=1 d=2.98299e-05 t=2646
+ji he 	集合	c=1 d=0.400159 t=2646
+ji jin 	基金	c=1 d=0.794534 t=2646
+ji ke 	即可	c=1 d=1.89255e-05 t=2646
+ji piao 	機票	c=6 d=0.177967 t=2646
+ji qi 	機器	c=1 d=6.39496e-06 t=2646
+ji shu 	技術	c=6 d=0.457577 t=2646
+ji shu bao gao 	技術報告	c=1 d=0.155673 t=2646
+ji song 	寄送	c=1 d=0.00264522 t=2646
+ji suan 	計算	c=1 d=0.0291614 t=2646
+ji suan ji 	計算機	c=1 d=0.0273237 t=2646
+ji tian 	幾天	c=2 d=0.46863 t=2646
+ji xie 	機械	c=1 d=0.790571 t=2646
+ji yu 	基於	c=1 d=0.0992613 t=2646
+ji zhi 	機制	c=2 d=0.134728 t=2646
+jia 	價	c=1 d=0.00673795 t=2646
+jia 	家	c=1 d=2.17695e-05 t=2646
+jia ji 	加急	c=1 d=0.00109719 t=2646
+jia mu 	價目	c=1 d=0.379083 t=2646
+jia mu biao 	價目表	c=1 d=0.349938 t=2646
+jia quan 	加權	c=1 d=1.32039e-05 t=2646
+jia zhi 	價值	c=2 d=0.11885 t=2646
+jian dan 	簡單	c=1 d=0.120032 t=2646
+jian jie 	見解	c=1 d=0.000520875 t=2646
+jian kong 	監控	c=2 d=0.00657602 t=2646
+jian lve 	簡略	c=1 d=0.494109 t=2646
+jian mo 	建模	c=1 d=0.0224829 t=2646
+jian pan 	鍵盤	c=3 d=0.00772725 t=2646
+jian rong 	兼容	c=2 d=0.0198083 t=2646
+jiang 	將	c=3 d=0.00155386 t=2646
+jiang cun 	江村	c=1 d=2.04703e-05 t=2646
+jiang cun jing ji 	江村經濟	c=2 d=1.97622e-05 t=2646
+jiang ning qu 	江寧區	c=1 d=0.0655462 t=2646
+jiao cheng 	教程	c=5 d=0.786491 t=2646
+jiao gei 	交給	c=2 d=0.014283 t=2646
+jiao hao 	較好	c=1 d=0.00051312 t=2646
+jiao huan ji 	交換機	c=3 d=2.32419e-05 t=2646
+jiao huan qi 	交換器	c=1 d=0.00346515 t=2646
+jiao liu 	交流	c=2 d=0.0317456 t=2646
+jiao qiang 	較強	c=1 d=0.000490542 t=2646
+jiao tong wang 	交通網	c=1 d=5.93288e-06 t=2646
+jiao yi 	交易	c=1 d=0.0120342 t=2646
+jiao zuo 	叫做	c=1 d=0.00423234 t=2646
+jie 	姐	c=0 d=0.0226502 t=2646
+jie duan xing 	階段性	c=1 d=0.000858778 t=2646
+jie gou 	結構	c=2 d=2.94916e-05 t=2646
+jie guo 	結果	c=3 d=0.000188882 t=2646
+jie jian 	借鑑	c=1 d=8.43952e-05 t=2646
+jie jue 	解決	c=1 d=9.75642e-05 t=2646
+jie shi 	解釋	c=1 d=0.360595 t=2646
+jie shou 	接收	c=3 d=0.000472067 t=2646
+jie xia lai 	接下來	c=1 d=0.0332068 t=2646
+jin hua 	進化	c=1 d=0.000111109 t=2646
+jin jin 	僅僅	c=2 d=8.27984e-05 t=2646
+jin nian 	今年	c=1 d=0.763379 t=2646
+jin shi dun 	金士頓	c=2 d=1.58206e-05 t=2646
+jin xing 	進行	c=1 d=1.80927e-05 t=2646
+jing 	精	c=1 d=0.0232837 t=2646
+jing an qu 	靜安區	c=1 d=0.066205 t=2646
+jing dian 	經典	c=2 d=0.000195941 t=2646
+jing fei 	經費	c=4 d=0.000729832 t=2646
+jing ji 	經濟	c=1 d=2.0568e-05 t=2646
+jing wai 	境外	c=1 d=0.000257369 t=2646
+jiu 	九	c=1 d=0.00229965 t=2646
+jiu 	就	c=7 d=1.05628 t=2646
+jiu fen 	九份	c=1 d=2.06045e-05 t=2646
+jiu li 	九歷	c=1 d=0.0121552 t=2646
+jiu shi 	就是	c=5 d=0.0690734 t=2646
+jiu shi duo fo er 	就是多佛爾	c=1 d=0.694196 t=172
+jiu you 	就有	c=2 d=0.00019908 t=2646
+ju 	具	c=1 d=0.0156076 t=2646
+ju 	據	c=1 d=0.000731802 t=2646
+ju ti 	具體	c=1 d=1.59668e-05 t=2646
+ju you 	具有	c=1 d=0.000488095 t=2646
+jue ce 	決策	c=1 d=0.136014 t=2646
+jue de 	覺得	c=1 d=0.0704688 t=2646
+jue ding 	決定	c=1 d=0.000162473 t=2646
+ka 	卡	c=3 d=0.0428364 t=2646
+ka fa piao 	卡發票	c=1 d=0.00198925 t=2646
+ka fei 	咖啡	c=1 d=2.08116e-05 t=2646
+kai 	愷	c=7 d=1 t=2646
+kai 	開	c=5 d=1.20399 t=2646
+kai ju 	開具	c=4 d=0.0258031 t=2646
+kai qi 	開啓	c=1 d=1 t=137
+kai shi 	開始	c=1 d=6.11357e-06 t=2646
+kai yuan 	開源	c=1 d=9.07488e-06 t=2646
+kai zhan 	開展	c=1 d=0.715338 t=2646
+kan 	看	c=3 d=0.0878095 t=2646
+kan chu 	看出	c=2 d=7.97746e-05 t=2646
+kan dao 	看到	c=1 d=0.0347353 t=2646
+kan de 	看得	c=1 d=0.900325 t=2646
+kan kan 	看看	c=1 d=0.000642592 t=2646
+kan wen xian 	看文獻	c=1 d=0.882497 t=2646
+kao lv 	考慮	c=3 d=0.46081 t=2646
+kao lv dao 	考慮到	c=1 d=0.000158461 t=2646
+ke cheng 	課程	c=2 d=0.0303688 t=2646
+ke fu 	客服	c=3 d=0.0520099 t=2646
+ke hu 	客戶	c=2 d=0.000125684 t=2646
+ke jian rong 	可兼容	c=1 d=7.13856e-06 t=2646
+ke li si 	克里斯	c=0 d=0.0704688 t=172
+ke neng 	可能	c=1 d=0.123687 t=2646
+ke pu 	科普	c=1 d=0.0958472 t=2646
+ke ti 	課題	c=6 d=0.00159685 t=2646
+ke ti zu 	課題組	c=1 d=0.000804733 t=2646
+ke yan 	科研	c=1 d=0.000495472 t=2646
+ke yi 	可以	c=13 d=0.215984 t=2646
+ke yu shi jian 	課餘時間	c=1 d=0.0309618 t=2646
+kong qi 	空氣	c=2 d=0.459857 t=2646
+kong que 	空缺	c=1 d=0.000201444 t=2646
+kong zhi 	控制	c=2 d=0.0379397 t=2646
+kou 	口	c=2 d=1.49717e-05 t=2646
+kuai di 	快遞	c=4 d=2.84288 t=2646
+kuai jian 	快件	c=1 d=0.923116 t=2646
+kuai le 	快樂	c=1 d=0.0330412 t=2646
+kuan 	寬	c=1 d=7.88932e-06 t=2646
+kuan ban 	款版	c=1 d=7.84998e-06 t=2646
+la 	啦	c=2 d=0.317635 t=2646
+la la 	啦啦	c=3 d=0.801412 t=2646
+la la 	拉拉	c=1 d=0.264477 t=2646
+lai 	來	c=5 d=0.869358 t=2646
+lai yuan 	來源	c=1 d=0.000178665 t=2646
+lan 	欄	c=1 d=0.00506703 t=2646
+lao ban 	老闆	c=8 d=0.301912 t=2646
+lao ban hao 	老闆好	c=1 d=0.0515605 t=2646
+lao ban zai 	老闆在	c=1 d=0.540641 t=2646
+lao fang 	老方	c=1 d=0.000139144 t=2646
+lao shi 	老師	c=2 d=0.774013 t=2646
+le 	了	c=34 d=3.68434 t=2646
+le ma 	了嗎	c=0 d=0.00902655 t=2646
+lei 	類	c=1 d=1.51881e-05 t=2646
+lei si 	類似	c=1 d=9.32711e-05 t=2646
+li 	歷	c=1 d=0.00231117 t=2646
+li 	裏	c=4 d=0.0456042 t=2646
+li dian chi 	鋰電池	c=1 d=0.00339653 t=2646
+li lun 	理論	c=4 d=0.862591 t=2646
+li mian 	裏面	c=2 d=0.615716 t=2646
+li xian 	離線	c=1 d=0.000461975 t=2646
+li yong 	利用	c=1 d=3.42298e-06 t=2646
+lian 	鏈	c=0 d=1.38116e-06 t=2646
+lian he 	聯合	c=1 d=0.481909 t=2646
+lian jie 	鏈接	c=1 d=0.00465413 t=2646
+lian xi 	聯繫	c=2 d=0.718974 t=2646
+lian xiang 	聯想	c=2 d=0.371115 t=2646
+liang 	良	c=13 d=0.0999946 t=2646
+liang hao 	良好	c=1 d=4.41722e-06 t=2646
+liang zhe 	兩者	c=1 d=4.79669e-05 t=2646
+lie 	列	c=1 d=0.00527382 t=2646
+lie ming 	列明	c=2 d=0.01346 t=2646
+lin shi 	臨時	c=1 d=0.0584257 t=2646
+ling 	玲	c=1 d=2.47917e-05 t=2646
+ling 	齡	c=1 d=2.45451e-05 t=2646
+ling wai 	另外	c=2 d=0.023751 t=2646
+ling yi ge 	另一個	c=1 d=0.017953 t=2646
+ling yu 	領域	c=1 d=0.000508015 t=2646
+linux 	Linux	c=1 d=0.932394 t=2646
+liu 	流	c=0 d=0.070822 t=172
+long 	龍	c=1 d=0.00123708 t=2646
+long jing 	龍井	c=1 d=0.0475963 t=2646
+lou 	樓	c=0 d=0.00010333 t=2646
+lu 	路	c=4 d=0.249914 t=2646
+lu jing 	路徑	c=2 d=1.42173 t=2646
+lun wen 	論文	c=2 d=0.00153913 t=2646
+luo ji 	邏輯	c=2 d=6.57714e-05 t=2646
+lv fei 	旅費	c=1 d=0.000196593 t=2646
+lv guan 	旅館	c=2 d=0.00570278 t=2646
+lv you 	旅遊	c=1 d=0.208045 t=2646
+ma 	嗎	c=27 d=4.14223 t=2646
+ma 	嘛	c=1 d=0.394554 t=2646
+ma ke si 	馬克思	c=1 d=0.0254765 t=2646
+mai 	買	c=6 d=0.239751 t=2646
+mai dao 	買到	c=1 d=0.0510474 t=2646
+mai hao 	買好	c=0 d=0.00181334 t=2646
+mai hao le 	買好了	c=1 d=0.0182243 t=2646
+man hua 	漫畫	c=1 d=0.272532 t=2646
+man man 	慢慢	c=1 d=0.458406 t=2646
+man zu 	滿足	c=1 d=5.38128e-05 t=2646
+mang 	忙	c=2 d=0.0235783 t=2646
+me 	麼	c=4 d=0.869187 t=2646
+mei 	梅	c=2 d=0.566758 t=2646
+mei 	沒	c=1 d=0.574072 t=2646
+mei 	美	c=2 d=0.000316921 t=2646
+mei di 	美帝	c=1 d=0.390628 t=2646
+mei guang 	鎂光	c=1 d=0.236928 t=2646
+mei guo 	美國	c=17 d=0.932558 t=2646
+mei long 	梅龍	c=2 d=0.131328 t=2646
+mei ri 	每日	c=1 d=0.0187793 t=2646
+mei shen me 	沒什麼	c=1 d=1.21887e-05 t=2646
+mei shi 	沒事	c=1 d=0.0925506 t=2646
+mei you 	沒有	c=10 d=0.88692 t=2646
+mei you ren 	沒有人	c=1 d=0.254107 t=2646
+mei yuan 	美元	c=2 d=0.214574 t=2646
+men 	們	c=1 d=0.67032 t=2646
+mian shui 	免稅	c=1 d=0.225373 t=2646
+mian shui dian 	免稅店	c=1 d=0.214381 t=2646
+min 	敏	c=1 d=4.62054e-06 t=2646
+min guo 	民國	c=0 d=2.94568e-05 t=2646
+min guo da shi guan 	民國大使館	c=1 d=0.000296045 t=2646
+ming 	明	c=5 d=0.00648985 t=2646
+ming tian 	明天	c=1 d=0.332871 t=2646
+ming xi 	明細	c=4 d=0.935839 t=2646
+ming xian 	明顯	c=1 d=4.86918e-05 t=2646
+ming zi 	名字	c=1 d=0.0629761 t=2646
+mo ban 	模板	c=1 d=0.0850088 t=2646
+mo fang 	魔方	c=2 d=2.93907e-05 t=2646
+mo he 	墨盒	c=9 d=1.14427 t=2646
+mo hu 	模糊	c=1 d=0.398388 t=2646
+mo hu ji he 	模糊集合	c=1 d=0.451581 t=2646
+mo kuai 	模塊	c=2 d=0.287498 t=2646
+mo ni 	模擬	c=2 d=0.0274868 t=2646
+mo shi 	模式	c=4 d=0.364975 t=2646
+mo xing 	模型	c=7 d=0.000100349 t=2646
+mou 	某	c=1 d=1 t=157
+mu qian 	目前	c=4 d=0.0422308 t=2646
+mu qin 	母親	c=1 d=4.57456e-06 t=2646
+na 	那	c=10 d=1.41827 t=2646
+na bian 	哪邊	c=1 d=0.0713613 t=2646
+na jiu 	那就	c=1 d=0.00269866 t=2646
+na li 	哪裏	c=1 d=0.66034 t=2646
+na me 	那麼	c=1 d=0.00182715 t=2646
+nan 	南	c=2 d=0.153962 t=2646
+nan 	男	c=2 d=0.0214979 t=2646
+nan 	難	c=1 d=0.000871757 t=2646
+nan ge lu ji ya 	南格魯吉亞	c=1 d=0.000303539 t=2646
+nan jing 	南京	c=5 d=0.144591 t=2646
+nan jing xi lu 	南京西路	c=1 d=0.0689068 t=2646
+ne 	呢	c=2 d=0.613017 t=2646
+nei cun 	內存	c=2 d=0.485949 t=2646
+nei cun tiao 	內存條	c=6 d=0.280398 t=2646
+nei rong 	內容	c=2 d=0.909373 t=2646
+neng 	能	c=7 d=1.44978 t=2646
+neng li 	能力	c=2 d=0.000518456 t=2646
+neng zai 	能在	c=1 d=0.0308074 t=2646
+ni 	你	c=6 d=1.72549 t=2646
+ni hao 	你好	c=5 d=1.4842 t=2646
+ni kan 	你看	c=1 d=0.680451 t=172
+ni men 	你們	c=2 d=1.38154 t=2646
+ni zhe bian 	你這邊	c=2 d=0.666434 t=2646
+nian 	年	c=2 d=0.000464745 t=2646
+nian hui 	年會	c=3 d=0.00195043 t=2646
+nin 	您	c=1 d=0.0134335 t=2646
+nin hao 	您好	c=8 d=0.71526 t=2646
+niu yue 	紐約	c=2 d=1.93124 t=2646
+ou he 	耦合	c=1 d=6.7904e-06 t=2646
+pa 	怕	c=1 d=3.3552e-06 t=2646
+pa 	扒	c=0 d=0.0408608 t=2646
+pai 	拍	c=2 d=0.570467 t=2646
+pai qian 	派遣	c=2 d=0.00119356 t=2646
+pan 	盤	c=1 d=0.826959 t=2646
+pan duan 	判斷	c=1 d=1.88311e-05 t=2646
+pang 	胖	c=1 d=4.0169e-06 t=2646
+pei jian 	配件	c=2 d=1.7093e-05 t=2646
+pei zhi 	配置	c=2 d=1.41301 t=2646
+pi fu 	皮膚	c=1 d=3.50963e-06 t=2646
+pi liang 	批量	c=1 d=1 t=150
+pi qi 	脾氣	c=1 d=0.0127147 t=2646
+pian 	片	c=1 d=9.44524e-06 t=2646
+pian wei 	片尾	c=1 d=0.275271 t=2646
+pian yi 	便宜	c=1 d=0.000133021 t=2646
+piao 	票	c=1 d=0.171187 t=2646
+pin 	品	c=1 d=0.00755912 t=2646
+pin lv 	頻率	c=1 d=0.249075 t=2646
+pin pai 	品牌	c=1 d=7.61797e-06 t=2646
+pin yin 	拼音	c=0 d=0.067368 t=172
+pin yin shu ru fa 	拼音輸入法	c=1 d=0.677057 t=172
+ping guo 	蘋果	c=2 d=0.433077 t=2646
+ping ji 	評級	c=1 d=0.133989 t=2646
+ping mu 	屏幕	c=1 d=0.179964 t=2646
+ping tai 	平臺	c=4 d=5.14757e-05 t=2646
+ping zheng 	憑證	c=2 d=0.00336071 t=2646
+pu dong 	浦東	c=1 d=0.172045 t=2646
+pu tong 	普通	c=4 d=0.0744723 t=2646
+pu tong fa piao 	普通發票	c=1 d=0.0156858 t=2646
+pu xiao 	普小	c=0 d=0.0226502 t=2646
+qi 	其	c=3 d=0.128521 t=2646
+qi ci 	其次	c=1 d=6.47485e-05 t=2646
+qi fei 	起飛	c=1 d=0.08291 t=2646
+qi ta 	其他	c=3 d=0.88692 t=2646
+qi yu 	其餘	c=1 d=0.000119762 t=2646
+qian 	錢	c=1 d=0.00285124 t=2646
+qian tian 	前天	c=1 d=0.324652 t=2646
+qian yan 	前沿	c=1 d=0.0277367 t=2646
+qian zai 	潛在	c=1 d=0.118245 t=2646
+qian zheng 	簽證	c=10 d=0.231456 t=2646
+qian zheng guo le 	簽證過了	c=1 d=0.000953854 t=2646
+qiang diao 	強調	c=1 d=3.90761e-05 t=2646
+qiao 	巧	c=1 d=2.58035e-05 t=2646
+qie duan 	切斷	c=1 d=5.90329e-06 t=2646
+qing 	請	c=8 d=0.319227 t=2646
+qing cha shou 	請查收	c=1 d=0.163654 t=2646
+qing chu 	清楚	c=1 d=1.62081e-05 t=2646
+qing dan 	清單	c=2 d=1.74862e-05 t=2646
+qing kuang 	情況	c=1 d=0.000128446 t=2646
+qing ti gong 	請提供	c=1 d=0.852144 t=2646
+qing wen 	請問	c=11 d=2.11655 t=2646
+qing xu 	情緒	c=1 d=0.0129068 t=2646
+qiu 	球	c=1 d=0.000629868 t=2646
+qiu he 	求和	c=1 d=1.32701e-05 t=2646
+qu 	去	c=3 d=0.644036 t=2646
+qu 	取	c=1 d=0.170333 t=2646
+qu chu 	去除	c=1 d=1 t=144
+qu mei guo 	去美國	c=1 d=0.108609 t=2646
+qu na er 	去哪兒	c=3 d=0.351788 t=2646
+qu na er wang 	去哪兒網	c=1 d=0.173774 t=2646
+qu xiao 	取消	c=4 d=0.0368435 t=2646
+qu zhou 	衢州	c=1 d=0.0141223 t=2646
+quan 	權	c=1 d=0.0773047 t=2646
+quan xian 	權限	c=2 d=0.0750706 t=2646
+que 	卻	c=1 d=0.115325 t=2646
+que shi 	確實	c=3 d=0.000153398 t=2646
+qun dao 	羣島	c=1 d=0.000302025 t=2646
+qun zhong 	羣衆	c=4 d=0.0217231 t=2646
+ran er 	然而	c=1 d=5.65718e-05 t=2646
+rang ren 	讓人	c=1 d=0.625002 t=172
+rang ta 	讓他	c=1 d=0.438235 t=2646
+re 	熱	c=1 d=5.3683e-06 t=2646
+ren 	人	c=1 d=0.0952486 t=2646
+ren ke 	認可	c=0 d=1.00535e-05 t=2646
+ren ke du 	認可度	c=1 d=0.000101039 t=2646
+ren shi 	人士	c=1 d=0.000925663 t=2646
+ren shi 	人是	c=0 d=6.55685e-07 t=2646
+ren shi yi fei 	人是已非	c=1 d=6.58972e-06 t=2646
+ren wei 	認爲	c=1 d=3.60718e-05 t=2646
+ren yuan 	人員	c=1 d=4.32975e-06 t=2646
+ri ben 	日本	c=1 d=0.276651 t=2646
+ri he 	日和	c=3 d=0.827311 t=2646
+ri qi 	日期	c=1 d=0.000610342 t=2646
+rime 	Rime	c=1 d=0.715338 t=172
+ru he 	如何	c=9 d=0.197643 t=2646
+ru qin 	入侵	c=1 d=0.985112 t=2646
+ru xia 	如下	c=1 d=1.87372e-05 t=2646
+sa zhe 	撒這	c=1 d=1 t=142
+san 	三	c=1 d=1.03347e-05 t=2646
+san 	散	c=1 d=0.909373 t=2646
+san deng fen jiao 	三等分角	c=0 d=0.0704688 t=172
+san deng fen jiao ke li si jue de 	三等分角克里斯覺得	c=1 d=0.70822 t=172
+san ge 	三個	c=1 d=2.3348e-05 t=2646
+se 	色	c=3 d=0.0130203 t=2646
+sen ge 	森哥	c=1 d=0.0889216 t=2646
+shan 	刪	c=1 d=9.25821e-06 t=2646
+shan chu 	刪除	c=2 d=1.97531 t=159
+shang 	上	c=8 d=0.603506 t=2646
+shang 	商	c=1 d=0.00752142 t=2646
+shang ci 	上次	c=1 d=1 t=138
+shang hai 	上海	c=8 d=0.513194 t=2646
+shang mian 	上面	c=1 d=0.00272578 t=2646
+shang pin 	商品	c=2 d=0.0114165 t=2646
+shang xian 	上限	c=1 d=0.0191587 t=2646
+she hui 	社會	c=1 d=0.0262523 t=2646
+she ji 	涉及	c=2 d=5.38654e-05 t=2646
+she ji 	設計	c=1 d=0.024725 t=2646
+she ji yun lian 	設計雲鏈	c=1 d=1.38809e-05 t=2646
+she mi 	涉密	c=1 d=4.30816e-06 t=2646
+she ying 	攝影	c=1 d=0.346456 t=2646
+she zhi 	設置	c=2 d=1.2514 t=172
+shen du 	深度	c=1 d=0.634448 t=2646
+shen fen zheng 	身份證	c=1 d=0.0141931 t=2646
+shen he 	審覈	c=1 d=0.000153778 t=2646
+shen me 	什麼	c=4 d=0.752014 t=2646
+shen me yong 	什麼用	c=1 d=1 t=132
+shen qing 	申請	c=4 d=0.771052 t=2646
+sheng 	晟	c=7 d=0.995012 t=2646
+sheng huo bu 	生活部	c=1 d=0.0359725 t=2646
+sheng ri 	生日	c=1 d=0.1764 t=2646
+sheng tai 	生態	c=2 d=0.00011454 t=2646
+shi 	事	c=1 d=0.000145549 t=2646
+shi 	是	c=24 d=2.40774 t=2646
+shi bie 	識別	c=1 d=0.131336 t=2646
+shi bu shi 	是不是	c=2 d=0.000295531 t=2646
+shi fou 	是否	c=1 d=6.12835e-05 t=2646
+shi hou 	時候	c=4 d=0.909373 t=2646
+shi ji 	實際	c=2 d=6.34742e-05 t=2646
+shi jian 	實踐	c=1 d=0.0267827 t=2646
+shi jian 	時間	c=4 d=0.210814 t=2646
+shi jian li 	時間裏	c=1 d=0.0335406 t=2646
+shi jie 	世界	c=1 d=0.0352602 t=2646
+shi xian 	實現	c=2 d=2.93329e-05 t=2646
+shi xiong 	師兄	c=1 d=0.330655 t=2646
+shi xiong shuo 	師兄說	c=1 d=0.414783 t=2646
+shi yan 	實驗	c=2 d=0.000203652 t=2646
+shi yan shi 	實驗室	c=4 d=0.497708 t=2646
+shi yi shi 	試一試	c=1 d=0.606531 t=172
+shi yong 	使用	c=4 d=0.0378283 t=2646
+shi zhi xing de 	實質性的	c=1 d=1.08646e-05 t=2646
+shou 	收	c=2 d=1.14531 t=2646
+shou dao 	收到	c=1 d=0.0526021 t=2646
+shou ji 	手機	c=3 d=0.00101401 t=2646
+shou ji hao 	手機號	c=1 d=0.000340532 t=2646
+shou jian ren 	收件人	c=2 d=0.0226202 t=2646
+shou xian 	首先	c=1 d=5.97704e-05 t=2646
+shou xu 	手續	c=1 d=0.000160054 t=2646
+shu 	數	c=1 d=0.0209629 t=2646
+shu biao 	鼠標	c=3 d=0.00768887 t=2646
+shu ju 	數據	c=2 d=0.251722 t=2646
+shu ju ku 	數據庫	c=1 d=0.0280154 t=2646
+shu kong 	數控	c=1 d=2.96811e-05 t=2646
+shu liang 	數量	c=3 d=0.0118556 t=2646
+shu ma 	數碼	c=1 d=0.0208584 t=2646
+shu ru fa 	輸入法	c=4 d=2.79705 t=172
+shu shi 	舒適	c=0 d=6.33133e-07 t=2646
+shu shi da 	舒適達	c=1 d=6.36307e-06 t=2646
+shu xu guan 	鼠鬚管	c=1 d=0.585669 t=172
+shu xue 	數學	c=1 d=0.0243554 t=2646
+shu zu 	數組	c=3 d=0.915759 t=2646
+shuang 	爽	c=1 d=0.631283 t=2646
+shui 	水	c=16 d=0.114972 t=2646
+shui 	稅	c=1 d=0.218712 t=2646
+shui jing tou 	水晶頭	c=4 d=0.00350547 t=2646
+shui xing 	水星	c=1 d=8.46137e-06 t=2646
+shuo 	說	c=3 d=0.574072 t=2646
+shuo bu ding 	說不定	c=1 d=0.0934807 t=2646
+shuo ming 	說明	c=3 d=0.000146778 t=2646
+si jie 	四階	c=2 d=2.92441e-05 t=2646
+si lu 	思路	c=1 d=3.23143e-05 t=2646
+si se 	四色	c=4 d=1.03087 t=2646
+si wang 	死亡	c=1 d=0.00336274 t=2646
+si xiang 	思想	c=1 d=1.21279e-05 t=2646
+song 	送	c=1 d=0.185444 t=2646
+sou suo 	搜索	c=3 d=3.05828e-05 t=2646
+suan 	算	c=0 d=0.00288686 t=2646
+suan le 	算了	c=1 d=0.447088 t=2646
+sui chao 	隋朝	c=1 d=0.279431 t=2646
+sun shi 	損失	c=1 d=2.41796e-05 t=2646
+suo 	所	c=9 d=0.0168127 t=2646
+suo yi 	所以	c=1 d=0.000884932 t=2646
+suo you 	所有	c=2 d=0.030204 t=2646
+ta 	他	c=2 d=0.657047 t=2646
+ta 	它	c=1 d=0.66365 t=2646
+ta ren 	他人	c=3 d=0.0379993 t=2646
+ta shuo 	他說	c=1 d=0.444858 t=2646
+tai shi 	臺式	c=4 d=0.00355799 t=2646
+tai shi ji 	臺式機	c=2 d=1.40647e-05 t=2646
+tai tou 	台頭	c=1 d=0.00431784 t=2646
+tai tou 	擡頭	c=7 d=0.0446731 t=2646
+tai wan 	臺灣	c=1 d=0.000291637 t=2646
+tang 	湯	c=2 d=0.00657619 t=2646
+tao bao 	淘寶	c=2 d=0.0519409 t=2646
+te dian 	特點	c=2 d=0.231284 t=2646
+te se 	特色	c=1 d=0.0261214 t=2646
+ti 	提	c=3 d=0.000124934 t=2646
+ti chu 	提出	c=3 d=0.0001242 t=2646
+ti gong 	提供	c=1 d=0.0848597 t=2646
+ti jiao 	提交	c=1 d=0.000739157 t=2646
+ti qian 	提前	c=1 d=0.00109172 t=2646
+tian 	填	c=2 d=0.000323022 t=2646
+tian 	天	c=2 d=0.00362953 t=2646
+tian 	甜	c=0 d=0.0226502 t=2646
+tian jia 	添加	c=2 d=1.40586 t=172
+tian pu xiao jie 	甜普小姐	c=1 d=0.227638 t=2646
+tian xie 	填寫	c=1 d=0.000169951 t=2646
+tiao mu 	條目	c=1 d=0.000157671 t=2646
+ting liu 	停留	c=1 d=4.88178e-06 t=2646
+tong bu 	同步	c=4 d=2.34813 t=2646
+tong guo 	通過	c=3 d=0.119812 t=2646
+tong ji 	同濟	c=2 d=0.158188 t=2646
+tong ji 	統計	c=1 d=8.80668e-06 t=2646
+tong pian 	通篇	c=1 d=1.05964e-05 t=2646
+tong xue 	同學	c=1 d=0.031273 t=2646
+tong yong 	通用	c=1 d=0.19593 t=2646
+tou bao 	投保	c=2 d=0.00391154 t=2646
+tou bu 	頭部	c=1 d=0.0884781 t=2646
+tu 	圖	c=1 d=9.39813e-06 t=2646
+tu po 	突破	c=1 d=0.0337087 t=2646
+tu xiang 	圖像	c=1 d=5.96262e-06 t=2646
+tui 	退	c=3 d=0.00143024 t=2646
+tui jian 	推薦	c=5 d=0.134475 t=2646
+tui jian ren 	推薦人	c=3 d=0.00169069 t=2646
+tui jian ri qi 	推薦日期	c=1 d=0.000547581 t=2646
+tui jian xin 	推薦信	c=5 d=0.00226974 t=2646
+tui xiu 	退休	c=1 d=4.69037e-06 t=2646
+wa 	哇	c=2 d=1.8311 t=163
+wai shi 	外事	c=1 d=0.000350903 t=2646
+wan cheng 	完成	c=1 d=0.718924 t=2646
+wan mei 	完美	c=1 d=1.91157e-05 t=2646
+wang 	忘	c=1 d=0.00565622 t=2646
+wang 	王	c=4 d=0.00244488 t=2646
+wang 	網	c=1 d=0.185929 t=2646
+wang fan 	往返	c=2 d=0.000347789 t=2646
+wang ge 	網格	c=3 d=0.000106973 t=2646
+wang ge ji suan 	網格計算	c=1 d=2.61935e-05 t=2646
+wang shang 	網上	c=2 d=0.000460321 t=2646
+wang tong hui 	王同惠	c=1 d=0.351692 t=2646
+wang xian 	網線	c=2 d=0.00350729 t=2646
+wang zhi 	網址	c=1 d=0.000356206 t=2646
+wei 	威	c=1 d=0.00364281 t=2646
+wei 	爲	c=1 d=0.970446 t=2646
+wei shen me 	爲什麼	c=3 d=0.325417 t=2646
+wei wan cheng 	未完成	c=4 d=0.16123 t=2646
+wei wei 	微微	c=3 d=0.865022 t=2646
+wei yuan 	委員	c=0 d=0.00366992 t=2646
+wei zhi 	位置	c=1 d=0.0753961 t=2646
+wei zhi 	未知	c=1 d=0.11475 t=2646
+wen hua 	文化	c=0 d=0.00269169 t=2646
+wen jian 	文件	c=3 d=2.70145 t=2646
+wen ni 	問你	c=1 d=0.0893673 t=2646
+wen ti 	問題	c=14 d=0.177033 t=2646
+wen wen 	問問	c=3 d=0.647265 t=2646
+wen xian 	文獻	c=0 d=0.0878095 t=2646
+wen zhang 	文章	c=5 d=0.946485 t=2646
+wen zhong 	文中	c=1 d=1.43036e-05 t=2646
+wen zi 	文字	c=1 d=3.76411e-06 t=2646
+wo 	我	c=34 d=5.42281 t=2646
+wo 	涴	c=1 d=1 t=2646
+wo ai 	我愛	c=1 d=0.71177 t=172
+wo de 	我的	c=2 d=0.694197 t=2646
+wo jue de 	我覺得	c=1 d=0.67032 t=172
+wo ma 	我媽	c=1 d=0.0518189 t=2646
+wo men 	我們	c=3 d=0.000175094 t=2646
+wo qu 	我去	c=1 d=0.00256704 t=2646
+wo shi 	我是	c=2 d=0.818731 t=2646
+wo xie zuo 	我寫作	c=1 d=0.647265 t=172
+wo yi jing 	我已經	c=1 d=0.0413782 t=2646
+wu 	無	c=5 d=0.0572697 t=2646
+wu fa 	無法	c=1 d=1.90204e-05 t=2646
+wu jiao 	五角	c=2 d=0.149338 t=2646
+wu jiao chang 	五角場	c=2 d=0.131756 t=2646
+wu liu 	物流	c=2 d=2.0362e-05 t=2646
+xi 	西	c=1 d=0.0682212 t=2646
+xi gu 	硒鼓	c=2 d=0.00715924 t=2646
+xi hu qu 	西湖區	c=1 d=0.00217658 t=2646
+xi jie 	細節	c=1 d=1.60468e-05 t=2646
+xi shou 	洗手	c=2 d=0.462162 t=2646
+xi tong 	系統	c=3 d=0.0230527 t=2646
+xi xi 	西西	c=1 d=2.22093e-05 t=2646
+xia 	下	c=13 d=1.38449 t=2646
+xia gang 	下崗	c=1 d=4.52904e-06 t=2646
+xia ge yue 	下個月	c=2 d=0.442594 t=2646
+xia lai 	下來	c=1 d=1.07029e-05 t=2646
+xia qu 	下去	c=1 d=9.12037e-06 t=2646
+xian 	先	c=1 d=0.000217133 t=2646
+xian 	線	c=1 d=0.079659 t=2646
+xian 	險	c=2 d=0.00197838 t=2646
+xian dai 	現代	c=8 d=0.0751073 t=2646
+xian dai zhi zao 	現代製造	c=1 d=0.00484407 t=2646
+xian jin 	先進	c=2 d=0.000902577 t=2646
+xian shi 	顯示	c=1 d=0.0432828 t=2646
+xian zai 	現在	c=5 d=1.67623 t=2646
+xiang 	想	c=5 d=1.67321 t=2646
+xiang 	翔	c=1 d=0.798516 t=2646
+xiang 	項	c=1 d=0.000181365 t=2646
+xiang gang 	香港	c=1 d=0.106992 t=2646
+xiang guan 	相關	c=8 d=0.00319058 t=2646
+xiang mu 	項目	c=4 d=0.798516 t=2646
+xiang qing 	詳情	c=1 d=0.00759701 t=2646
+xiang su 	像素	c=1 d=1.08966 t=2646
+xiang su ren 	像素人	c=2 d=1.91683 t=2646
+xiao 	小	c=1 d=0.59452 t=172
+xiao bai 	小白	c=0 d=0.00010333 t=2646
+xiao bai lou 	小白樓	c=1 d=0.00103848 t=2646
+xiao he 	小鶴	c=1 d=0.70822 t=172
+xiao jie 	小結	c=1 d=0.0902655 t=2646
+xiao lang hao 	小狼毫	c=1 d=0.562705 t=2646
+xiao qu 	校區	c=3 d=0.0230917 t=2646
+xie 	寫	c=3 d=0.937067 t=2646
+xie la 	謝拉	c=1 d=0.00067217 t=2646
+xie xie 	謝謝	c=7 d=0.992748 t=2646
+xie zai 	卸載	c=1 d=0.00427488 t=2646
+xie zai 	寫在	c=1 d=0.00436124 t=2646
+xie zuo 	寫作	c=0 d=0.0644036 t=172
+xin 	信	c=2 d=0.0216524 t=2646
+xin ku 	辛苦	c=1 d=0.701173 t=2646
+xin li 	心裏	c=0 d=0.00366992 t=2646
+xin li wei yuan 	心裏委員	c=1 d=0.0368832 t=2646
+xin xi 	信息	c=2 d=1.17434 t=2646
+xin yong ka 	信用卡	c=2 d=0.0264526 t=2646
+xing bu xing 	行不行	c=1 d=0.000649051 t=2646
+xing hao 	型號	c=3 d=2.14771e-05 t=2646
+xiu gai 	修改	c=2 d=1.93707 t=164
+xu duo 	許多	c=2 d=0.231833 t=2646
+xu ni hua 	虛擬化	c=1 d=4.63171e-05 t=2646
+xu yao 	需要	c=4 d=0.97531 t=2646
+xuan xiang 	選項	c=1 d=6.44256e-05 t=2646
+xuan ze 	選擇	c=2 d=9.10388e-05 t=2646
+xue 	學	c=3 d=0.980199 t=2646
+xue dao 	學到	c=1 d=0.0340475 t=2646
+xue jie 	學姐	c=1 d=0.690734 t=172
+xue nian 	學年	c=1 d=0.0898153 t=2646
+xue sheng hui 	學生會	c=1 d=0.0357931 t=2646
+xue shu 	學術	c=4 d=0.00165071 t=2646
+xue xi 	學習	c=2 d=0.032883 t=2646
+xue xiao 	學校	c=1 d=0.000149981 t=2646
+xun zhao 	尋找	c=1 d=5.64353e-06 t=2646
+ya 	呀	c=1 d=0.628135 t=2646
+ya suo 	壓縮	c=1 d=0.000234044 t=2646
+yan hua 	演化	c=1 d=0.000110555 t=2646
+yan hua 	煙花	c=1 d=4.03704e-06 t=2646
+yan jing 	眼鏡	c=1 d=0.000308127 t=2646
+yan jiu 	研究	c=7 d=0.140889 t=2646
+yan jiu sheng 	研究生	c=8 d=0.267429 t=2646
+yan jiu suo 	研究所	c=8 d=0.0180288 t=2646
+yan se 	顏色	c=1 d=3.49213e-06 t=2646
+yan shi 	嚴實	c=1 d=0.0539337 t=2646
+yang ben 	樣本	c=2 d=3.56485e-05 t=2646
+yao 	要	c=9 d=0.843665 t=2646
+yao qiu 	要求	c=3 d=0.649302 t=2646
+yao qu 	要去	c=1 d=0.38868 t=2646
+yao shi 	要是	c=1 d=0.00932553 t=2646
+ye 	也	c=5 d=1.64372 t=2646
+yi 	一	c=3 d=0.0297695 t=2646
+yi 	以	c=1 d=2.95331e-05 t=2646
+yi 	已	c=1 d=0.000735471 t=2646
+yi 	益	c=1 d=0.0234005 t=2646
+yi ban 	一般	c=1 d=0.0596059 t=2646
+yi bian 	一遍	c=1 d=0.000455097 t=2646
+yi ci 	一次	c=0 d=0.05975 t=172
+yi ci shi 	依次是	c=1 d=0.612626 t=2646
+yi cun 	一寸	c=1 d=0.373439 t=2646
+yi dong ying pan 	移動硬盤	c=1 d=0.00763509 t=2646
+yi fang mian 	一方面	c=2 d=1.87435 t=2646
+yi fang wan yi 	以防萬一	c=1 d=0.000608204 t=2646
+yi fei 	已非	c=0 d=6.55685e-07 t=2646
+yi ge 	一個	c=6 d=0.822835 t=2646
+yi gou 	異構	c=2 d=7.4267e-05 t=2646
+yi ji 	以及	c=1 d=6.33133e-06 t=2646
+yi jing 	已經	c=5 d=0.10911 t=2646
+yi ju 	依據	c=1 d=1.38116e-05 t=2646
+yi lai 	以來	c=1 d=0.000413853 t=2646
+yi nu 	易怒	c=2 d=0.0255597 t=2646
+yi qie 	一切	c=1 d=0.000120363 t=2646
+yi si 	意思	c=1 d=0.158025 t=2646
+yi xia 	一下	c=1 d=0.637628 t=172
+yi xie 	一些	c=3 d=0.579842 t=2646
+yi yi 	意義	c=1 d=8.48182e-05 t=2646
+yi zhang 	一張	c=2 d=0.87435 t=2646
+yi zhi 	一直	c=1 d=9.02962e-06 t=2646
+yi zhi 	移植	c=1 d=0.102284 t=2646
+yi zhong 	一種	c=1 d=0.00941925 t=2646
+yin dao 	引導	c=1 d=0.122456 t=2646
+yin gong 	因公	c=1 d=0.000170803 t=2646
+yin hang 	銀行	c=1 d=0.00120654 t=2646
+yin hang ka 	銀行卡	c=1 d=0.0117959 t=2646
+ying 	英	c=1 d=2.59329e-05 t=2646
+ying gai 	應該	c=3 d=0.000296669 t=2646
+ying gai shuo 	應該說	c=1 d=3.21532e-05 t=2646
+ying jian 	硬件	c=1 d=0.245367 t=2646
+ying pan 	硬盤	c=5 d=0.770464 t=2646
+ying yong 	應用	c=3 d=0.0304552 t=2646
+ying yu 	英語	c=2 d=0.000563465 t=2646
+yong 	用	c=5 d=0.918512 t=2646
+yong fa 	用法	c=1 d=3.37202e-06 t=2646
+yong hu 	用戶	c=1 d=0.771052 t=2646
+yong wan 	用完	c=1 d=0.489192 t=2646
+you 	有	c=18 d=3.13208 t=2646
+you 	由	c=2 d=0.000141211 t=2646
+you 	郵	c=1 d=0.00404611 t=2646
+you de 	有的	c=1 d=0.591555 t=2646
+you hua 	優化	c=1 d=6.90969e-05 t=2646
+you jian 	郵件	c=3 d=1.13719e-05 t=2646
+you wen ti 	有問題	c=1 d=0.000466618 t=2646
+you xiang 	郵箱	c=2 d=7.23448e-06 t=2646
+you xiu 	優秀	c=1 d=0.2334 t=2646
+you xuan 	優選	c=6 d=0.000326371 t=2646
+you yu 	由於	c=1 d=0.000149233 t=2646
+yu 	與	c=7 d=0.113158 t=2646
+yu ju 	語句	c=0 d=0.070822 t=172
+yu ju liu 	語句流	c=1 d=0.71177 t=172
+yu quan 	玉泉	c=3 d=0.0229772 t=2646
+yu quan xiao qu 	玉泉校區	c=3 d=0.00856662 t=2646
+yu yi 	語義	c=1 d=0.364219 t=2646
+yu yue 	預約	c=4 d=0.0829433 t=2646
+yuan 	源	c=1 d=3.4059e-06 t=2646
+yuan 	院	c=4 d=0.0362215 t=2646
+yuan du 	圓度	c=2 d=4.99568e-05 t=2646
+yuan lai 	原來	c=1 d=0.336216 t=2646
+yuan li 	原理	c=3 d=0.111791 t=2646
+yuan lian 	圓臉	c=1 d=3.99687e-06 t=2646
+yuan tong 	圓通	c=2 d=1.03684 t=2646
+yue shu 	約束	c=1 d=5.35444e-05 t=2646
+yun 	雲	c=0 d=0.0704688 t=2646
+yun 	韻	c=2 d=0.748286 t=2646
+yun da 	運達	c=1 d=0.744532 t=2646
+yun da 	韻達	c=5 d=4.19934 t=2646
+yun dan 	運單	c=1 d=0.909373 t=2646
+yun fu wu 	雲服務	c=1 d=1.11396e-05 t=2646
+yun ji 	雲集	c=0 d=0.00288686 t=2646
+yun ji suan 	雲集算	c=1 d=0.0290133 t=2646
+yun xing 	運行	c=2 d=0.224394 t=2646
+yun zhi zao 	雲製造	c=15 d=0.70822 t=2646
+yun zuo 	運作	c=1 d=0.12938 t=2646
+zai 	再	c=3 d=0.000506178 t=2646
+zai 	在	c=34 d=2.44676 t=2646
+zai chu 	再出	c=1 d=9.87998e-06 t=2646
+zai lu shang 	在路上	c=1 d=0.344728 t=2646
+zai na 	在哪	c=1 d=0.205975 t=2646
+zai wai 	在外	c=1 d=0.000187825 t=2646
+zan shi 	暫時	c=1 d=0.000200439 t=2646
+zang 	髒	c=1 d=0.00134683 t=2646
+zao 	早	c=1 d=0.465334 t=2646
+ze shi 	則是	c=1 d=4.29704e-05 t=2646
+zen 	怎	c=1 d=0.0466538 t=2646
+zen me 	怎麼	c=4 d=0.056819 t=2646
+zeng zhi shui 	增值稅	c=1 d=0.00442715 t=2646
+zhai 	窄	c=1 d=7.96861e-06 t=2646
+zhai yao 	摘要	c=1 d=0.000754089 t=2646
+zhan 	站	c=3 d=0.240819 t=2646
+zhang 	張	c=1 d=0.29523 t=2646
+zhang ai 	障礙	c=1 d=0.366045 t=2646
+zhang hao 	帳號	c=4 d=0.0940497 t=2646
+zhang hao 	賬號	c=1 d=0.0181334 t=2646
+zhao 	照	c=1 d=0.375311 t=2646
+zhao pian 	照片	c=4 d=0.295479 t=2646
+zhao shi 	肇事	c=1 d=0.00334597 t=2646
+zhe 	者	c=1 d=0.00337959 t=2646
+zhe 	這	c=2 d=8.39801e-05 t=2646
+zhe bi 	這筆	c=1 d=0.0131675 t=2646
+zhe bian 	這邊	c=0 d=0.029523 t=2646
+zhe da 	浙大	c=2 d=0.00257614 t=2646
+zhe da lu 	浙大路	c=5 d=0.0294211 t=2646
+zhe ge 	這個	c=8 d=5.35146 t=2646
+zhe jiang 	浙江	c=7 d=0.0159644 t=2646
+zhe jiang da xue 	浙江大學	c=37 d=1.30932 t=2646
+zhe jiang hang zhou 	浙江杭州	c=1 d=0.0216013 t=2646
+zhe jiang sheng 	浙江省	c=3 d=0.0034835 t=2646
+zhe jiu 	這就	c=1 d=0.00178203 t=2646
+zhe liang tian 	這兩天	c=1 d=0.683861 t=2646
+zhe me 	這麼	c=3 d=1.30834 t=2646
+zhe pian 	這篇	c=2 d=3.72137e-05 t=2646
+zhe shi 	這是	c=5 d=0.352574 t=2646
+zhe xie 	這些	c=2 d=0.187323 t=2646
+zhe yang 	這樣	c=5 d=0.343063 t=2646
+zhe zhong 	這種	c=1 d=0.0023935 t=2646
+zhei 	這	c=1 d=1 t=125
+zhen 	真	c=2 d=0.472385 t=2646
+zhen shi 	真實	c=1 d=1.79127e-05 t=2646
+zheng gui 	正規	c=1 d=0.00241755 t=2646
+zheng ming 	證明	c=2 d=0.00119954 t=2646
+zheng que 	正確	c=1 d=1 t=167
+zheng shi 	正視	c=1 d=0.257947 t=2646
+zheng ti zi 	正體字	c=1 d=3.28876e-06 t=2646
+zheng wei 	鄭衛	c=1 d=0.491644 t=2646
+zhi 	之	c=1 d=0.101266 t=2646
+zhi 	只	c=1 d=5.71404e-05 t=2646
+zhi bo 	直博	c=1 d=0.814647 t=2646
+zhi de shi 	指的是	c=1 d=0.00891518 t=2646
+zhi dian 	智典	c=4 d=3.10747 t=2646
+zhi fu 	支付	c=4 d=0.106115 t=2646
+zhi fu bao 	支付寶	c=5 d=0.0922558 t=2646
+zhi jia ge 	芝加哥	c=1 d=0.408608 t=2646
+zhi lei 	之類	c=2 d=0.0036015 t=2646
+zhi liang 	質量	c=2 d=0.0287373 t=2646
+zhi neng 	只能	c=1 d=0.0323869 t=2646
+zhi piao 	支票	c=1 d=0.0389686 t=2646
+zhi shi 	只是	c=1 d=7.01412e-05 t=2646
+zhi shi gong cheng 	知識工程	c=1 d=0.0285814 t=2646
+zhi yong 	只用	c=2 d=0.0692768 t=2646
+zhi you 	只有	c=1 d=0.00238156 t=2646
+zhi zao 	製造	c=15 d=0.0704688 t=2646
+zhi zuo 	製作	c=1 d=2.02978e-05 t=2646
+zhong 	中	c=4 d=0.327217 t=2646
+zhong dian 	重點	c=1 d=0.895834 t=2646
+zhong guo 	中國	c=2 d=0.0513405 t=2646
+zhong hua 	中華	c=1 d=0.000294568 t=2646
+zhong wen 	中文	c=1 d=1 t=130
+zhong xin 	中信	c=3 d=0.788901 t=2646
+zhong xin 	中心	c=3 d=0.00181736 t=2646
+zhong xuan 	終選	c=3 d=0.000176443 t=2646
+zhong ying wen 	中英文	c=1 d=0.000611253 t=2646
+zhong zhou yun 	中州韻	c=3 d=1.97516 t=2646
+zhou 	州	c=1 d=0.226502 t=2646
+zhu 	住	c=1 d=0.0587185 t=2646
+zhu 	朱	c=1 d=2.16609e-05 t=2646
+zhu ban 	主板	c=1 d=0.0095616 t=2646
+zhu ti 	主題	c=4 d=0.00124067 t=2646
+zhu yao 	主要	c=6 d=0.269302 t=2646
+zhu yi 	主義	c=2 d=0.0519882 t=2646
+zhu zhang 	主張	c=1 d=1.28136e-05 t=2646
+zhua jin 	抓緊	c=1 d=0.0325493 t=2646
+zhua zhu 	抓住	c=1 d=0.891366 t=2646
+zhuan 	轉	c=1 d=0.00289433 t=2646
+zhuan ji 	轉機	c=3 d=0.00888136 t=2646
+zhuan ti 	專題	c=1 d=0.0271874 t=2646
+zhuan ye 	專業	c=1 d=0.000921047 t=2646
+zhuan yong 	專用	c=1 d=0.00882647 t=2646
+zhuan zhi 	專治	c=1 d=0.000930303 t=2646
+zhun 	準	c=1 d=0.000880518 t=2646
+zhun bei 	準備	c=1 d=6.26833e-06 t=2646
+zhuo shi 	着實	c=1 d=0.621885 t=172
+zi 	子	c=1 d=1 t=145
+zi 	字	c=1 d=0.625002 t=2646
+zi dai 	自帶	c=1 d=0.0845849 t=2646
+zi dong hua 	自動化	c=2 d=0.000851032 t=2646
+zi fei 	自費	c=1 d=0.000112226 t=2646
+zi ji 	自己	c=3 d=0.697677 t=2646
+zi pai 	自拍	c=1 d=0.440432 t=2646
+zi ran 	自然	c=2 d=0.790571 t=2646
+zi wen jian 	子文件	c=1 d=1 t=160
+zi yuan 	資源	c=8 d=0.132292 t=2646
+zi zhu 	自助	c=1 d=0.000121572 t=2646
+zi zhu 	資助	c=3 d=0.0004811 t=2646
+zong jia 	總價	c=1 d=7.73311e-06 t=2646
+zong jie 	總結	c=2 d=0.156542 t=2646
+zong shu 	綜述	c=1 d=1.51123e-05 t=2646
+zong xiang 	縱向	c=1 d=0.759572 t=2646
+zu 	組	c=2 d=0.00015947 t=2646
+zu cheng 	組成	c=1 d=2.35826e-05 t=2646
+zu zhi 	組織	c=2 d=0.0369041 t=2646
+zui 	最	c=1 d=5.75754e-06 t=2646
+zui jin 	最近	c=2 d=0.704688 t=2646
+zui xiao 	最小	c=0 d=5.47674e-07 t=2646
+zui xiao ge 	最小割	c=2 d=1.21269e-05 t=2646
+zuo 	作	c=1 d=0.000757869 t=2646
+zuo 	做	c=3 d=0.852144 t=2646
+zuo 	左	c=1 d=2.19883e-05 t=2646
+zuo wei 	作爲	c=4 d=0.219581 t=2646
