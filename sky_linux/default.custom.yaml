@@ -1,0 +1,3 @@
+patch:
+	shcema_list:
+		- schema: luna_pinyin
