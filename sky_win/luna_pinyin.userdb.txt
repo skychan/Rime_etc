@@ -5,9 +5,11 @@
 #@/tick	17022
 #@/user_id	sky_win
 a 	阿	c=5 d=1.32797 t=17022
-ai 	唉	c=1 d=1 t=14725
+ai 	唉	c=1 d=1.02832e-005 t=17022
+ai 	愛	c=3 d=0.923148 t=1215
 ai er 	埃爾	c=1 d=0.085435 t=17022
 ai hao 	愛好	c=1 d=0.125556 t=17022
+ai qi yi 	愛奇異	c=1 d=1 t=1216
 an 	安	c=1 d=2.20985e-005 t=17022
 an 	按	c=5 d=0.0676339 t=17022
 an bu 	岸部	c=1 d=2.10208e-005 t=17022
@@ -31,37 +33,40 @@ ba 	把	c=24 d=2.76735 t=17022
 ba li 	巴黎	c=2 d=0.86776 t=17022
 ba li man ha dun 	巴黎曼哈頓	c=1 d=0.0143357 t=17022
 ba mei 	把妹	c=1 d=5.32954e-009 t=17022
-ba ta 	把它	c=4 d=1.17005 t=16854
-ba wo 	把握	c=1 d=1 t=14558
-bai 	百	c=1 d=1 t=14092
+ba ta 	把它	c=4 d=0.505123 t=17022
+ba wo 	把握	c=1 d=4.46161e-006 t=17022
+bai 	白	c=1 d=1 t=739
+bai 	百	c=1 d=4.34096e-007 t=17022
 bai ban 	白板	c=2 d=0.537944 t=17022
 bai du 	百度	c=2 d=0.666977 t=17022
 bai du xue shu 	百度學術	c=1 d=0.0177743 t=17022
 bai li 	百里	c=0 d=0.00845849 t=17022
-bai lun 	拜倫	c=0 d=0.1 t=14084
+bai lun 	拜倫	c=0 d=4.17075e-008 t=17022
 bai shi 	百事	c=0 d=0.0142987 t=17022
 bai shi hui tong 	百事匯通	c=1 d=0.143704 t=17022
-bai zi 	白子	c=1 d=1 t=15633
+bai zi 	白子	c=1 d=0.00096344 t=17022
 ban 	板	c=1 d=0.119433 t=17022
-ban 	版	c=5 d=0.00132321 t=17022
+ban 	版	c=5 d=0.749926 t=17022
 ban 	班	c=2 d=0.40657 t=17022
 ban 	辦	c=1 d=0.0632918 t=17022
-ban ben 	版本	c=7 d=0.447729 t=17022
+ban ben 	版本	c=7 d=1.33371 t=17022
 ban ge yue 	半個月	c=1 d=0.000518277 t=17022
 ban gong shi 	辦公室	c=1 d=0.008271 t=17022
 ban ji 	班級	c=1 d=0.0366992 t=17022
 ban shi 	辦事	c=1 d=0.000352662 t=17022
 ban shi chu 	辦事處	c=1 d=0.000293099 t=17022
 ban sui 	伴隨	c=1 d=0.0485578 t=17022
+ban tu 	斑圖	c=1 d=1 t=332
 ban yong 	搬用	c=0 d=0.00342181 t=17022
 ban zheng 	辦證	c=2 d=0.00145564 t=17022
 bang 	幫	c=2 d=0.0308074 t=17022
 bang ding 	綁定	c=5 d=3.13894e-005 t=17022
 bang mang 	幫忙	c=3 d=0.946542 t=17022
+bang qiu 	棒球	c=1 d=1 t=999
 bang wang 	幫忘	c=1 d=0.00663763 t=17022
 bang zhu 	幫助	c=2 d=0.0154523 t=17022
 bao 	保	c=2 d=0.00229955 t=17022
-bao 	包	c=14 d=0.297538 t=17022
+bao 	包	c=14 d=0.535261 t=17022
 bao 	報	c=1 d=0.0170774 t=17022
 bao bei 	寶貝	c=1 d=0.2334 t=17022
 bao chi 	保持	c=2 d=0.0992613 t=17022
@@ -69,13 +74,14 @@ bao cun 	保存	c=1 d=0.00036159 t=17022
 bao dan 	保單	c=1 d=0.00173804 t=17022
 bao dao 	報道	c=2 d=0.666977 t=17022
 bao gao 	報告	c=21 d=1.99679 t=17022
-bao hu 	保護	c=2 d=1.98511 t=14244
+bao hu 	保護	c=2 d=1.84261e-006 t=17022
 bao kuo 	包括	c=20 d=0.190168 t=17022
 bao kuo jie gou tu 	包括結構圖	c=1 d=0.782705 t=17022
 bao liu 	保留	c=2 d=0.0229526 t=17022
 bao ma 	寶馬	c=2 d=0.00654322 t=17022
 bao mi hua 	爆米花	c=1 d=0.752014 t=17022
-bao mu 	保姆	c=1 d=1 t=14555
+bao mu 	保姆	c=1 d=4.39519e-006 t=17022
+bao qian 	抱歉	c=1 d=1 t=169
 bao xian 	保險	c=7 d=0.0114335 t=17022
 bao xian gong si 	保險公司	c=1 d=0.00244185 t=17022
 bao xiao 	報銷	c=12 d=3.76971 t=17022
@@ -96,17 +102,20 @@ bei fen 	備份	c=7 d=1.71043 t=17022
 bei hang 	北航	c=1 d=0.737123 t=17022
 bei jia 	倍加	c=0 d=0.00430669 t=17022
 bei jia pang ke 	倍加龐克	c=1 d=0.0432828 t=17022
-bei jing 	北京	c=1 d=0.0287246 t=17022
-bei jing 	背景	c=18 d=0.110834 t=17022
+bei jing 	北京	c=4 d=0.0938814 t=17022
+bei jing 	背景	c=21 d=0.110834 t=17022
 bei jing cheng 	北京城	c=1 d=0.000387808 t=17022
+bei ju 	悲劇	c=1 d=1 t=1284
 bei kao 	備考	c=1 d=0.00191125 t=17022
 bei li yong 	被利用	c=1 d=0.0200405 t=17022
 bei mian 	背面	c=1 d=0.0561348 t=17022
+bei shang 	悲傷	c=1 d=1 t=752
 bei xuan 	備選	c=2 d=5.81541e-006 t=17022
 bei xuan 	被選	c=2 d=7.69454e-006 t=17022
 bei xuan ze 	被選擇	c=1 d=1.22498e-005 t=17022
 bei xuan zhong 	被選中	c=1 d=0.0175975 t=17022
-bei zhan 	北站	c=3 d=2.77101 t=14794
+bei zhan 	北站	c=3 d=2.77101 t=17022
+bei zhu 	備註	c=1 d=1 t=20005
 ben 	本	c=3 d=0.0644353 t=17022
 ben di 	本地	c=1 d=5.3952e-006 t=17022
 ben kui 	奔潰	c=1 d=0.028297 t=17022
@@ -118,64 +127,76 @@ ben zhu ti 	本主題	c=1 d=0.188247 t=17022
 beng kui 	崩潰	c=1 d=0.0284388 t=17022
 bi 	幣	c=1 d=0.0175097 t=17022
 bi 	比	c=1 d=0.806541 t=17022
+bi 	筆	c=1 d=1 t=864
 bi 	鼻	c=2 d=0.013887 t=17022
 bi bao 	閉包	c=1 d=3.16745e-005 t=17022
 bi cheng 	逼成	c=1 d=1.82336e-008 t=17022
-bi guan 	閉關	c=1 d=1 t=15110
+bi fang shuo 	比方說	c=1 d=1 t=17989
+bi guan 	閉關	c=1 d=1 t=17022
 bi hu 	壁虎	c=3 d=0.684305 t=17022
-bi huan 	閉環	c=3 d=0.00284812 t=17022
-bi jiao 	比較	c=3 d=0.00264522 t=17022
+bi huan 	閉環	c=4 d=0.0956391 t=17022
+bi jiao 	比較	c=6 d=0.0514789 t=17022
 bi kong 	鼻孔	c=1 d=9.68434e-006 t=17022
-bi mian 	避免	c=1 d=1 t=15119
+bi mian 	避免	c=2 d=1.00003 t=17022
 bi ran 	必然	c=1 d=8.41916e-006 t=17022
-bi ru 	比如	c=1 d=0.0158434 t=17022
+bi ru 	比如	c=3 d=0.0158434 t=17022
 bi tian 	必填	c=1 d=0.00018046 t=17022
 bi xu 	必須	c=2 d=0.151072 t=17022
+bi yan 	鼻炎	c=1 d=1 t=1168
+bi yao 	必要	c=1 d=1 t=17405
 bi ye 	畢業	c=1 d=0.524663 t=17022
 bian 	便	c=1 d=0.377192 t=17022
-bian 	變	c=1 d=1 t=14357
-bian 	邊	c=2 d=0.00500569 t=17022
+bian 	變	c=1 d=1 t=17022
+bian 	邊	c=4 d=1.98511 t=17022
 bian cheng 	變成	c=2 d=0.000804733 t=17022
 bian de 	變得	c=5 d=1.7748 t=17022
-bian dong 	變動	c=1 d=1 t=15893
+bian dong 	變動	c=1 d=1 t=17022
 bian hao 	編號	c=2 d=0.007593 t=17022
-bian hua 	變化	c=14 d=0.582748 t=17022
-bian ji qi 	編輯器	c=1 d=1 t=14026
+bian hua 	變化	c=16 d=1.1653 t=17022
+bian ji qi 	編輯器	c=1 d=1 t=17022
+bian jie 	邊界	c=1 d=1 t=355
 bian li 	遍歷	c=3 d=0.00687406 t=17022
-bian liang 	變量	c=10 d=0.522588 t=17022
+bian liang 	變量	c=16 d=1.30908 t=17022
+bian liang zhi 	變量值	c=1 d=1 t=17652
 bian lun 	辯論	c=1 d=2.67272e-007 t=17022
 bian ma 	編碼	c=1 d=3.94755e-007 t=17022
+bian men 	邊門	c=1 d=1 t=845
 bian ping 	扁平	c=0 d=8.4206e-009 t=17022
 bian ping hua 	扁平化	c=6 d=2.00679e-006 t=17022
 bian shang 	邊上	c=2 d=0.085435 t=17022
-bian yi 	編譯	c=3 d=0.0222592 t=17022
-bian yu 	便於	c=1 d=1 t=15281
+bian yi 	編譯	c=6 d=2.01103 t=17022
+bian yu 	便於	c=1 d=1 t=17022
 bian zheng 	辯證	c=1 d=0.0672055 t=17022
 bian zheng fa 	辯證法	c=1 d=0.0220377 t=17022
 biao 	標	c=1 d=0.467666 t=17022
-biao 	表	c=6 d=0.380983 t=17022
-biao bai 	表白	c=0 d=0.1 t=15123
-biao da 	表達	c=2 d=1.91851 t=15782
+biao 	表	c=7 d=1 t=17022
+biao bai 	表白	c=0 d=0.1 t=17022
+biao da 	表達	c=2 d=1.91851 t=17022
 biao ge 	表格	c=1 d=0.000202454 t=17022
+biao mian 	表面	c=1 d=1 t=19325
+biao qian 	標籤	c=3 d=2.77065 t=17835
 biao qing 	表情	c=3 d=1.31099 t=17022
-biao qing bao 	表情包	c=1 d=1 t=14095
+biao qing bao 	表情包	c=1 d=1 t=17022
 biao qing di 	表情帝	c=1 d=0.287941 t=17022
 biao shi 	表示	c=2 d=0.165299 t=17022
 biao ti 	標題	c=5 d=0.65636 t=17022
+biao xian chu 	表現出	c=1 d=1 t=322
 biao yang 	表揚	c=1 d=0.271173 t=17022
-biao zhun 	標準	c=21 d=0.250677 t=17022
+biao zhun 	標準	c=32 d=0.614337 t=17022
 biao zhun hua 	標準化	c=2 d=0.0620385 t=17022
 biao zhun yan jiu 	標準研究	c=1 d=0.00621991 t=17022
 bie 	別	c=1 d=0.00484407 t=17022
 bie de 	別的	c=2 d=0.00293808 t=17022
 bie dui 	別對	c=0 d=0.00101529 t=17022
 bie dui wo shuo 	別對我說	c=1 d=0.0102037 t=17022
+bin 	彬	c=2 d=1.98511 t=109
 bin 	賓	c=1 d=0.331211 t=17022
 bin guan 	賓館	c=1 d=0.00023056 t=17022
-bing 	並	c=20 d=0.369117 t=17022
+bing 	並	c=25 d=0.450683 t=17022
 bing 	冰	c=1 d=0.0939493 t=17022
-bing 	稟	c=1 d=1 t=14342
+bing 	稟	c=1 d=1 t=17022
 bing bu 	並不	c=1 d=3.46574e-005 t=17022
+bing bu hui 	並不會	c=1 d=1 t=17364
 bing bu neng 	並不能	c=1 d=7.26396e-005 t=17022
 bing bu shi 	並不是	c=1 d=4.85744e-006 t=17022
 bing du 	病毒	c=1 d=0.0112769 t=17022
@@ -205,10 +226,10 @@ bu 	部	c=2 d=0.0365162 t=17022
 bu bi 	不必	c=1 d=0.00113061 t=17022
 bu bian 	不便	c=1 d=0.162026 t=17022
 bu bian 	不變	c=1 d=0.0026189 t=17022
-bu biao bai 	不表白	c=1 d=1 t=15124
+bu biao bai 	不表白	c=1 d=7.56041e-005 t=17022
 bu chang 	步長	c=1 d=0.00891518 t=17022
 bu chu 	不出	c=1 d=2.77508e-008 t=17022
-bu cun zai 	不存在	c=1 d=1 t=16817
+bu cun zai 	不存在	c=1 d=0.358796 t=17022
 bu cuo 	不錯	c=1 d=0.000978001 t=17022
 bu da 	不大	c=1 d=3.38017e-005 t=17022
 bu duan 	不斷	c=1 d=0.0125881 t=17022
@@ -217,12 +238,12 @@ bu dui cheng 	不對稱	c=1 d=0.0335406 t=17022
 bu fa 	補發	c=2 d=0.235746 t=17022
 bu fen 	部分	c=10 d=0.86504 t=17022
 bu fu 	不服	c=0 d=9.30303e-005 t=17022
-bu gan yu 	不干預	c=1 d=1 t=15812
+bu gan yu 	不干預	c=1 d=0.00235786 t=17022
 bu gou 	不夠	c=1 d=0.00110822 t=17022
 bu guo 	不過	c=3 d=0.00603711 t=17022
 bu hao 	不好	c=2 d=0.264021 t=17022
 bu hao yi si 	不好意思	c=2 d=0.231776 t=17022
-bu hui 	不會	c=1 d=1 t=16765
+bu hui 	不會	c=1 d=0.276651 t=17022
 bu huo 	捕獲	c=1 d=0.0150707 t=17022
 bu jian 	不見	c=1 d=0.136695 t=17022
 bu jian rong 	不兼容	c=1 d=0.0100017 t=17022
@@ -241,15 +262,15 @@ bu neng 	不能	c=9 d=0.867076 t=17022
 bu neng yong 	不能用	c=1 d=0.687289 t=17022
 bu qu 	不去	c=1 d=0.00509243 t=17022
 bu quan 	補全	c=1 d=0.0385808 t=17022
-bu ru 	步入	c=1 d=1 t=14150
+bu ru 	步入	c=1 d=5.80138e-007 t=17022
 bu shang 	不上	c=2 d=0.913931 t=17022
 bu shi 	不是	c=8 d=1.15387 t=17022
 bu shi he 	不適合	c=1 d=0.00348252 t=17022
 bu shu 	部署	c=5 d=1.70399e-006 t=17022
-bu tai 	不太	c=1 d=1 t=15994
+bu tai 	不太	c=1 d=0.00585769 t=17022
 bu tong 	不同	c=6 d=0.24254 t=17022
 bu tui jian 	不推薦	c=1 d=3.98655e-005 t=17022
-bu xiang 	不想	c=1 d=1 t=16377
+bu xiang 	不想	c=1 d=0.0397558 t=17022
 bu xiang gan 	不相干	c=1 d=0.00388746 t=17022
 bu xie 	布鞋	c=1 d=0.66365 t=17022
 bu xing 	不行	c=3 d=0.179964 t=17022
@@ -258,10 +279,11 @@ bu xiu de fan gao 	不朽的梵高	c=1 d=0.241714 t=17022
 bu yao 	不要	c=2 d=0.0692522 t=17022
 bu yi ding 	不一定	c=1 d=0.000157264 t=17022
 bu yi ding hao 	不一定好	c=1 d=0.00158052 t=17022
-bu ying gai 	不應該	c=3 d=1.23415 t=16691
+bu ying gai 	不應該	c=3 d=0.235836 t=17022
 bu yong 	不用	c=5 d=0.449329 t=17022
 bu zai 	不在	c=1 d=0.000140543 t=17022
 bu zhang 	部長	c=2 d=0.39673 t=17022
+bu zhi 	不知	c=1 d=1 t=1144
 bu zhi chi 	不支持	c=1 d=3.52782e-008 t=17022
 bu zhi dao 	不知道	c=6 d=0.220466 t=17022
 bu zhi fu 	不支付	c=1 d=0.0119742 t=17022
@@ -269,18 +291,18 @@ bu zu 	不足	c=1 d=0.000137073 t=17022
 cai 	才	c=3 d=0.00279479 t=17022
 cai 	蔡	c=1 d=0.00404611 t=17022
 cai 	財	c=0 d=0.0013912 t=17022
-cai cai 	猜猜	c=1 d=1 t=16437
-cai ce 	猜測	c=1 d=1 t=16791
+cai cai 	猜猜	c=1 d=0.0536647 t=17022
+cai ce 	猜測	c=1 d=0.315058 t=17022
 cai ji 	採集	c=1 d=8.00992e-008 t=17022
 cai liao 	材料	c=7 d=0.856415 t=17022
 cai na 	採納	c=1 d=0.063609 t=17022
 cai neng 	才能	c=5 d=0.0471326 t=17022
 cai se 	彩色	c=1 d=0.00582847 t=17022
-cai shi 	纔是	c=1 d=1 t=14196
-cai suan 	纔算	c=1 d=1 t=15547
+cai shi 	纔是	c=1 d=7.30162e-007 t=17022
+cai suan 	纔算	c=1 d=0.000626727 t=17022
 cai wu 	財務	c=5 d=0.860708 t=17022
 cai wu chu 	財務處	c=1 d=0.00806679 t=17022
-cai xiang 	猜想	c=1 d=1 t=16745
+cai xiang 	猜想	c=1 d=0.250324 t=17022
 cai yang 	採樣	c=1 d=1.15943e-005 t=17022
 cai ying wen 	蔡英文	c=2 d=0.00148948 t=17022
 cai yong 	採用	c=7 d=0.0639279 t=17022
@@ -293,10 +315,11 @@ can shu 	參數	c=2 d=1.91113e-005 t=17022
 can yu 	參與	c=6 d=0.071362 t=17022
 can yu zhe 	參與者	c=1 d=0.000139842 t=17022
 cang ku 	倉庫	c=3 d=0.0359106 t=17022
-cao 	槽	c=1 d=1 t=15632
+cao 	槽	c=1 d=0.000958635 t=17022
 cao bao 	曹豹	c=1 d=0.018043 t=17022
 cao hong 	曹洪	c=1 d=0.0158434 t=17022
-cao mao 	草帽	c=1 d=1 t=15317
+cao mao 	草帽	c=1 d=0.000198445 t=17022
+cao pan 	操盤	c=1 d=1 t=1293
 cao zuo 	操作	c=8 d=0.27813 t=17022
 ce 	側	c=3 d=0.0212547 t=17022
 ce 	測	c=1 d=9.37386e-005 t=17022
@@ -314,7 +337,7 @@ cha bu duo 	差不多	c=2 d=0.000550326 t=17022
 cha cha 	查查	c=1 d=0.0645703 t=17022
 cha dao 	查到	c=3 d=0.0475678 t=17022
 cha guo 	查過	c=1 d=0.025223 t=17022
-cha jian 	插件	c=1 d=0.0380064 t=17022
+cha jian 	插件	c=1 d=0.278037 t=17022
 cha kan 	查看	c=16 d=1.72646 t=17022
 cha ping 	差評	c=3 d=0.0334943 t=17022
 cha shou 	查收	c=6 d=0.204705 t=17022
@@ -326,10 +349,11 @@ chai 	儕	c=1 d=9.07643e-008 t=17022
 chai 	拆	c=1 d=0.831104 t=17022
 chai fen 	拆分	c=1 d=2.88785e-006 t=17022
 chan 	鏟	c=1 d=0.535261 t=17022
+chan che 	剷車	c=1 d=1 t=1276
 chan mei 	諂媚	c=1 d=0.0184074 t=17022
 chan pin 	產品	c=38 d=0.158862 t=17022
 chan sheng 	產生	c=2 d=4.88427e-006 t=17022
-chan shi 	闡釋	c=1 d=1 t=14236
+chan shi 	闡釋	c=1 d=8.91821e-007 t=17022
 chan shu 	闡述	c=3 d=4.82708e-007 t=17022
 chan ye 	產業	c=10 d=0.0182643 t=17022
 chan ye lian 	產業鏈	c=9 d=0.0916741 t=17022
@@ -344,7 +368,7 @@ chang qi 	長期	c=2 d=0.000518277 t=17022
 chang sha 	長沙	c=1 d=0.138761 t=17022
 chang shi 	嘗試	c=5 d=0.0651433 t=17022
 chang shi jian 	長時間	c=1 d=0.0119145 t=17022
-chang tu 	長途	c=2 d=1.98511 t=14739
+chang tu 	長途	c=2 d=2.18934e-005 t=17022
 chang yong 	常用	c=2 d=0.017163 t=17022
 chao guo 	超過	c=1 d=0.946485 t=17022
 chao mai 	超買	c=1 d=1.33067e-008 t=17022
@@ -353,8 +377,8 @@ chao xian 	朝鮮	c=1 d=0.000816895 t=17022
 chao xing 	超星	c=2 d=0.266644 t=17022
 che 	車	c=4 d=0.0784731 t=17022
 che jian 	車間	c=6 d=0.537944 t=17022
-che jian diao du 	車間調度	c=1 d=1 t=14317
-che zai 	車載	c=1 d=1 t=14220
+che jian diao du 	車間調度	c=1 d=1.33711e-006 t=17022
+che zai 	車載	c=1 d=8.23255e-007 t=17022
 chen 	晨	c=1 d=0.000626727 t=17022
 chen 	趁	c=1 d=0.0305009 t=17022
 chen 	陳	c=51 d=4.88587 t=17022
@@ -372,7 +396,7 @@ cheng 	成	c=9 d=0.456133 t=17022
 cheng 	程	c=4 d=0.0898153 t=17022
 cheng 	稱	c=2 d=1.16047e-007 t=17022
 cheng bao 	承包	c=1 d=0.315058 t=17022
-cheng ben 	成本	c=6 d=2.3537e-005 t=17022
+cheng ben 	成本	c=6 d=0.657047 t=17022
 cheng du 	程度	c=2 d=0.008271 t=17022
 cheng fa 	懲罰	c=1 d=0.0880368 t=17022
 cheng fen 	成分	c=1 d=0.00449405 t=17022
@@ -395,7 +419,7 @@ chi 	池	c=7 d=0.0249044 t=17022
 chi fan 	吃飯	c=1 d=0.0180866 t=17022
 chi fan qu 	吃飯去	c=1 d=0.181772 t=17022
 chi ma 	尺碼	c=1 d=0.0692522 t=17022
-chi zi 	尺子	c=1 d=1 t=14077
+chi zi 	尺子	c=1 d=4.0273e-007 t=17022
 chong 	蟲	c=2 d=0.574244 t=17022
 chong 	重	c=2 d=0.0417941 t=17022
 chong dang 	充當	c=1 d=0.00013776 t=17022
@@ -418,8 +442,8 @@ chou xiang 	抽象	c=4 d=0.0483977 t=17022
 chu 	出	c=15 d=1.79818 t=17022
 chu 	處	c=6 d=1.22842 t=17022
 chu bu 	初步	c=4 d=0.0215121 t=17022
-chu chang 	出場	c=1 d=1 t=14551
-chu ci 	初次	c=1 d=1 t=16236
+chu chang 	出場	c=1 d=4.30816e-006 t=17022
+chu ci 	初次	c=1 d=0.0196437 t=17022
 chu cuo 	出錯	c=3 d=0.65377 t=17022
 chu fa 	出發	c=2 d=0.00577048 t=17022
 chu fei 	除非	c=1 d=0.0337087 t=17022
@@ -437,7 +461,7 @@ chu li qi 	處理器	c=2 d=0.445147 t=17022
 chu lian 	初戀	c=1 d=8.44096e-007 t=17022
 chu mai 	出賣	c=1 d=0.00647375 t=17022
 chu qu 	出去	c=2 d=0.285076 t=17022
-chu ru 	出入	c=1 d=1 t=14584
+chu ru 	出入	c=1 d=5.08101e-006 t=17022
 chu shi 	初始	c=2 d=0.50698 t=17022
 chu shi hua 	初始化	c=1 d=0.000183188 t=17022
 chu xian 	出現	c=3 d=0.431711 t=17022
@@ -445,13 +469,15 @@ chu xing 	出行	c=2 d=0.750632 t=17022
 chu xuan 	初選	c=1 d=5.4626e-005 t=17022
 chu yu 	處於	c=1 d=3.77385e-007 t=17022
 chu zhi 	初值	c=1 d=0.118837 t=17022
+chuan 	川	c=1 d=1 t=1286
+chuan da 	川大	c=1 d=1 t=1294
 chuan dao 	傳導	c=2 d=0.0894276 t=17022
 chuan di 	傳遞	c=4 d=0.648161 t=17022
 chuan huo 	串貨	c=1 d=0.115903 t=17022
 chuan qi lai 	穿起來	c=1 d=0.189191 t=17022
 chuan tong 	傳統	c=1 d=9.18825e-005 t=17022
 chuan wen 	傳聞	c=1 d=0.0271874 t=17022
-chuan yan 	傳言	c=1 d=1 t=16036
+chuan yan 	傳言	c=1 d=0.0072265 t=17022
 chuan yi 	穿衣	c=1 d=0.000343955 t=17022
 chuan yue 	穿越	c=2 d=3.66546e-005 t=17022
 chuan zhuo 	穿着	c=1 d=0.640824 t=17022
@@ -462,10 +488,10 @@ chuang ye 	創業	c=1 d=0.000224867 t=17022
 chuang ye ban 	創業板	c=1 d=2.10752e-006 t=17022
 chui 	吹	c=1 d=2.89483e-005 t=17022
 chun 	春	c=1 d=0.0987662 t=17022
-chun shu 	純屬	c=0 d=0.1 t=16842
-chun shu yi wai 	純屬意外	c=1 d=1 t=16843
+chun shu 	純屬	c=0 d=0.040657 t=17022
+chun shu yi wai 	純屬意外	c=1 d=0.408608 t=17022
 ci 	次	c=3 d=0.00554422 t=17022
-ci 	此	c=1 d=1 t=15160
+ci 	此	c=1 d=9.05145e-005 t=17022
 ci 	茨	c=0 d=4.64291e-005 t=17022
 ci ba 	詞霸	c=1 d=0.244143 t=17022
 ci ci 	此次	c=4 d=0.00164401 t=17022
@@ -475,22 +501,22 @@ ci ku 	詞庫	c=1 d=0.955997 t=17022
 ci pan 	磁盤	c=1 d=0.0247235 t=17022
 ci shu 	次數	c=2 d=0.00436124 t=17022
 ci wai 	此外	c=1 d=0.0135009 t=17022
-ci wen 	此文	c=2 d=1.05079 t=14957
+ci wen 	此文	c=2 d=3.44687e-005 t=17022
 ci xuan fu 	磁懸浮	c=2 d=0.00123643 t=17022
 cong 	從	c=28 d=0.600496 t=17022
-cong lin 	叢林	c=10 d=9.05978 t=14308
+cong lin 	叢林	c=10 d=1.15809e-005 t=17022
 cong xia 	從下	c=1 d=4.65492e-005 t=17022
 cu xiao shou duan 	促銷手段	c=1 d=0.020141 t=17022
 cui 	脆	c=1 d=0.120032 t=17022
 cui pi 	脆皮	c=1 d=0.000696112 t=17022
 cui ruo 	脆弱	c=1 d=5.7864e-006 t=17022
 cun 	寸	c=3 d=1.26116 t=17022
-cun fang 	存放	c=1 d=1 t=16893
+cun fang 	存放	c=1 d=0.524663 t=17022
 cun gen 	存根	c=1 d=0.254107 t=17022
 cun zai 	存在	c=10 d=0.355073 t=17022
 cuo le 	錯了	c=1 d=0.268474 t=17022
-cuo wu 	錯誤	c=1 d=1 t=16737
-da 	大	c=12 d=0.165439 t=17022
+cuo wu 	錯誤	c=1 d=0.240508 t=17022
+da 	大	c=12 d=0.902963 t=17022
 da 	打	c=2 d=0.15259 t=17022
 da 	達	c=2 d=0.752014 t=17022
 da ba 	大巴	c=5 d=0.000804733 t=17022
@@ -514,6 +540,7 @@ da gui mo 	大規模	c=2 d=0.00775048 t=17022
 da hui 	大會	c=2 d=0.613179 t=17022
 da hun tun 	大餛屯	c=1 d=0.145148 t=17022
 da jia 	大家	c=4 d=0.191092 t=17022
+da jia 	打架	c=1 d=1 t=1277
 da jia hao 	大家好	c=1 d=1.81396e-006 t=17022
 da jian 	搭建	c=1 d=0.018043 t=17022
 da jie ju 	大結局	c=1 d=0.10435 t=17022
@@ -526,17 +553,18 @@ da liang 	大量	c=2 d=0.0146986 t=17022
 da mei 	大妹	c=0 d=0.0891366 t=17022
 da mei za 	大妹砸	c=1 d=0.895834 t=17022
 da pei 	搭配	c=2 d=0.647265 t=17022
-da qiao 	大橋	c=1 d=1 t=15090
+da qiao 	大橋	c=1 d=6.37845e-005 t=17022
 da quan 	大全	c=1 d=0.00096827 t=17022
 da rao 	打擾	c=2 d=0.232938 t=17022
 da ru 	打入	c=1 d=0.436049 t=17022
 da she wan 	大蛇丸	c=1 d=0.0439369 t=17022
-da shen 	大神	c=1 d=1 t=16042
+da shen 	大神	c=1 d=0.00744658 t=17022
 da shi guan 	大使館	c=0 d=2.94568e-005 t=17022
 da shu ju 	大數據	c=8 d=0.34321 t=17022
-da suan 	打算	c=2 d=0.0117959 t=17022
+da suan 	大蒜	c=1 d=1 t=1122
+da suan 	打算	c=2 d=0.238115 t=17022
 da xiao 	大小	c=3 d=0.631284 t=17022
-da xie 	大寫	c=1 d=1 t=16021
+da xie 	大寫	c=1 d=0.00670434 t=17022
 da xuan 	大選	c=4 d=0.177284 t=17022
 da xue 	大學	c=20 d=1.702 t=17022
 da yi 	大一	c=0 d=0.00366992 t=17022
@@ -562,33 +590,34 @@ dai ti 	代替	c=1 d=0.00856561 t=17022
 dai ye 	待業	c=1 d=4.55174e-006 t=17022
 dai you 	帶有	c=1 d=3.8594e-006 t=17022
 dai zhuang 	袋裝	c=1 d=0.00394621 t=17022
-dan 	丹	c=1 d=1 t=16067
+dan 	丹	c=1 d=0.00843808 t=17022
 dan 	但	c=7 d=0.625002 t=17022
 dan 	單	c=18 d=4.5442 t=17022
-dan bu 	單步	c=0 d=0.1 t=16627
-dan bu tiao shi 	單步調試	c=1 d=1 t=16628
+dan bu 	單步	c=0 d=0.0138761 t=17022
+dan bu tiao shi 	單步調試	c=1 d=0.139457 t=17022
 dan chun 	單純	c=1 d=0.00810722 t=17022
 dan ci 	單次	c=2 d=8.95203e-005 t=17022
 dan hao 	單號	c=4 d=1.04165 t=17022
-dan ji 	單擊	c=1 d=1 t=16531
+dan ji 	單擊	c=1 d=0.0858632 t=17022
 dan jia 	單價	c=3 d=0.011428 t=17022
 dan mai 	丹麥	c=1 d=0.000349153 t=17022
 dan shi 	但是	c=14 d=0.464615 t=17022
 dan wei 	單位	c=2 d=0.00222389 t=17022
-dan wo 	但我	c=1 d=1 t=15106
+dan wo 	但我	c=1 d=6.90969e-005 t=17022
 dan xin 	擔心	c=2 d=0.102284 t=17022
 dan yan pi 	單眼皮	c=1 d=0.00096827 t=17022
 dan ye 	單頁	c=1 d=0.442639 t=17022
 dang 	當	c=2 d=0.205975 t=17022
 dang dai 	當代	c=1 d=0.0258615 t=17022
 dang mian 	當面	c=1 d=0.0163259 t=17022
-dang ni 	當你	c=1 d=1 t=16986
+dang ni 	當你	c=1 d=0.83527 t=17022
+dang nian 	當年	c=1 d=1 t=1381
 dang qian 	當前	c=15 d=0.824748 t=17022
 dang ran 	當然	c=0 d=0.0163654 t=17022
 dang ran le 	當然了	c=1 d=0.164474 t=17022
 dang wo 	當我	c=1 d=0.00565622 t=17022
-dang wo men 	當我們	c=1 d=1 t=16595
-dao 	刀	c=11 d=0.458736 t=17022
+dang wo men 	當我們	c=1 d=0.118245 t=17022
+dao 	刀	c=11 d=0.833985 t=17022
 dao 	到	c=55 d=3.88126 t=17022
 dao 	導	c=3 d=0.218712 t=17022
 dao 	島	c=3 d=0.0235177 t=17022
@@ -610,10 +639,11 @@ dao shu 	導數	c=1 d=0.000441647 t=17022
 dao xiang 	導向	c=2 d=0.006946 t=17022
 dao zi 	刀子	c=1 d=0.447088 t=17022
 de 	地	c=5 d=1.5373 t=17022
-de 	德	c=2 d=0.195409 t=17022
+de 	德	c=2 d=0.449329 t=17022
 de 	的	c=736 d=13.9465 t=17022
 de chu 	得出	c=1 d=0.000234044 t=17022
 de dao 	得到	c=4 d=1.50478 t=17022
+de guo 	德國	c=1 d=1 t=1297
 de yi yu 	得益於	c=1 d=2.25488e-007 t=17022
 de zhou 	德州	c=0 d=0.0408608 t=17022
 de zhou pa ji 	德州扒雞	c=1 d=0.410656 t=17022
@@ -644,6 +674,7 @@ di duan 	低端	c=1 d=0.0153752 t=17022
 di er 	第二	c=0 d=1.01301e-006 t=17022
 di er fang 	第二方	c=1 d=1.01809e-005 t=17022
 di fang 	地方	c=4 d=1.20748 t=17022
+di kang 	抵抗	c=1 d=1 t=1219
 di qu 	地區	c=2 d=0.000256864 t=17022
 di san fang 	第三方	c=1 d=1.00796e-005 t=17022
 di san ji 	第三季	c=1 d=0.0086517 t=17022
@@ -661,11 +692,12 @@ di yi shou 	第一手	c=1 d=0.000108909 t=17022
 di yu 	地域	c=1 d=0.00398587 t=17022
 di zhi 	地址	c=7 d=0.314958 t=17022
 dian 	典	c=1 d=0.127454 t=17022
-dian 	店	c=2 d=0.000689186 t=17022
+dian 	店	c=2 d=0.380983 t=17022
 dian 	點	c=11 d=0.860708 t=17022
+dian di 	墊底	c=3 d=1.78295 t=1369
 dian hua 	電話	c=15 d=2.11351 t=17022
 dian ji 	電機	c=0 d=0.017552 t=17022
-dian ji 	點擊	c=1 d=1 t=15985
+dian ji 	點擊	c=1 d=0.00559994 t=17022
 dian ji hang ye 	電機行業	c=1 d=0.1764 t=17022
 dian jia 	店家	c=1 d=0.0018363 t=17022
 dian liang 	點亮	c=1 d=0.187308 t=17022
@@ -690,7 +722,7 @@ ding 	丁	c=1 d=0.740818 t=17022
 ding 	定	c=2 d=0.000953968 t=17022
 ding 	訂	c=0 d=9.82903e-005 t=17022
 ding dan 	訂單	c=35 d=1.08392 t=17022
-ding dan liu 	訂單流	c=1 d=1 t=15879
+ding dan liu 	訂單流	c=1 d=0.00329615 t=17022
 ding dan ye wu liu cheng 	訂單業務流程	c=1 d=0.00582847 t=17022
 ding e 	定額	c=1 d=0.0026189 t=17022
 ding gou 	訂購	c=1 d=0.000227127 t=17022
@@ -711,7 +743,7 @@ dong 	動	c=1 d=0.00511796 t=17022
 dong 	董	c=1 d=2.56748e-005 t=17022
 dong che 	動車	c=1 d=0.937067 t=17022
 dong hua 	動畫	c=1 d=0.0057417 t=17022
-dong li 	動力	c=1 d=1 t=15854
+dong li 	動力	c=1 d=0.00290884 t=17022
 dong li xue 	動力學	c=1 d=0.00524752 t=17022
 dong man 	動漫	c=1 d=0.0526021 t=17022
 dong ri 	冬日	c=1 d=0.000342239 t=17022
@@ -723,7 +755,7 @@ dong xi hao 	東西好	c=1 d=0.162026 t=17022
 dong zhi 	東芝	c=1 d=8.17034e-006 t=17022
 dong zhu 	凍住	c=1 d=0.0898153 t=17022
 dong zhuo 	董卓	c=1 d=0.0156858 t=17022
-dou 	都	c=25 d=1.01186 t=17022
+dou 	都	c=25 d=1.08786 t=17022
 dou qu 	都去	c=1 d=0.00600598 t=17022
 dou shi 	都是	c=10 d=0.853405 t=17022
 dou shuo 	都說	c=1 d=0.19205 t=17022
@@ -738,11 +770,11 @@ du liang 	度量	c=1 d=0.111917 t=17022
 du qu 	讀取	c=3 d=0.0139644 t=17022
 du shi 	都市	c=2 d=0.87211 t=17022
 du te 	獨特	c=2 d=0.000604058 t=17022
-duan 	斷	c=1 d=1 t=16080
+duan 	斷	c=1 d=0.00900478 t=17022
 duan 	段	c=1 d=0.0460865 t=17022
 duan 	短	c=1 d=0.0239928 t=17022
-duan dian 	斷點	c=3 d=2.71803 t=16578
-duan kou 	端口	c=2 d=7.89878e-008 t=17022
+duan dian 	斷點	c=3 d=0.295203 t=17022
+duan kou 	端口	c=2 d=0.210136 t=17022
 duan qi 	短期	c=2 d=0.0377204 t=17022
 duan qi dian hua 	短期電話	c=1 d=0.379083 t=17022
 duan xin 	短信	c=1 d=0.178173 t=17022
@@ -760,12 +792,13 @@ dui zhao 	對照	c=1 d=0.594521 t=17022
 dun 	盾	c=1 d=3.02807e-005 t=17022
 duo 	多	c=14 d=1.0009 t=17022
 duo ceng ci 	多層次	c=1 d=2.449e-008 t=17022
-duo chang 	多長	c=1 d=1 t=14765
+duo chang 	多長	c=1 d=1.25599e-005 t=17022
 duo ge 	多個	c=4 d=0.0329206 t=17022
 duo hao 	多好	c=1 d=0.000285862 t=17022
 duo ji 	多級	c=2 d=1.71385e-007 t=17022
 duo jie 	多解	c=2 d=0.022952 t=17022
 duo jiu 	多久	c=5 d=1.47519 t=17022
+duo ming 	奪命	c=2 d=1.99005 t=1394
 duo mu biao 	多目標	c=1 d=8.96292e-007 t=17022
 duo ren 	多人	c=0 d=0.00280154 t=17022
 duo ren wu 	多任務	c=1 d=2.28343e-008 t=17022
@@ -780,19 +813,20 @@ duo wei du 	多維度	c=1 d=0.0858632 t=17022
 duo xiang mu 	多項目	c=1 d=2.13973e-008 t=17022
 duo yang 	多樣	c=1 d=0.0916297 t=17022
 duo yang xing 	多樣性	c=1 d=2.1939e-008 t=17022
-duo yu 	多餘	c=1 d=1 t=13971
+duo yu 	多餘	c=1 d=2.37049e-007 t=17022
 duo yue 	多月	c=1 d=0.83527 t=17022
 duo zu hu 	多租戶	c=2 d=0.0214008 t=17022
 e 	娥	c=1 d=0.0359725 t=17022
 e wai 	額外	c=1 d=0.0871609 t=17022
 ei 	誒	c=0 d=0.00057417 t=17022
 en 	恩	c=15 d=0.722527 t=17022
-er 	二	c=2 d=1.95123 t=14275
+er 	二	c=2 d=2.11482e-006 t=17022
 er 	兒	c=3 d=0.0262523 t=17022
 er 	尓	c=1 d=0.000352662 t=17022
-er 	而	c=9 d=0.0653836 t=17022
+er 	而	c=10 d=0.0653836 t=17022
 er 	耳	c=2 d=0.571209 t=17022
 er duo 	耳朵	c=1 d=0.0148985 t=17022
+er fei 	而非	c=1 d=1 t=1096
 er ji 	耳機	c=4 d=1.24423e-007 t=17022
 er jie 	二階	c=2 d=0.000885529 t=17022
 er lai 	而來	c=1 d=0.0488012 t=17022
@@ -804,74 +838,87 @@ er qu 	二區	c=1 d=0.0337087 t=17022
 er shi 	耳屎	c=1 d=3.3471e-007 t=17022
 er tong yi yuan 	兒童醫院	c=1 d=0.000285862 t=17022
 er wei 	二維	c=3 d=0.0001917 t=17022
-er yi 	而已	c=2 d=1.01674 t=16189
+er yi 	而已	c=2 d=1.01674 t=17022
 er yuan 	二元	c=2 d=0.000863665 t=17022
 fa 	法	c=5 d=0.0675424 t=17022
-fa 	發	c=15 d=1.06547 t=17022
-fa bu 	發佈	c=25 d=0.0357931 t=17022
+fa 	發	c=19 d=1.06547 t=17022
+fa biao 	發表	c=1 d=1 t=18817
+fa bu 	發佈	c=29 d=1.4096 t=17022
 fa dong ji 	發動機	c=3 d=6.34266e-005 t=17022
+fa fa 	發發	c=1 d=1 t=17776
 fa guo 	法國	c=1 d=0.0833256 t=17022
-fa huo 	發貨	c=6 d=0.552229 t=17022
+fa huo 	發貨	c=7 d=1 t=17022
 fa ming 	發明	c=1 d=0.138069 t=17022
-fa piao 	發票	c=48 d=4.85598 t=17022
+fa piao 	發票	c=52 d=4.85598 t=17022
 fa she qi 	發射器	c=1 d=1.91685e-008 t=17022
-fa sheng 	發生	c=6 d=1.64977 t=16746
+fa sheng 	發生	c=8 d=1.26058 t=17022
 fa shi 	法師	c=2 d=0.00300748 t=17022
-fa song 	發送	c=1 d=1 t=16548
+fa song 	發送	c=1 d=1 t=17022
 fa wan 	發晚	c=1 d=0.158817 t=17022
-fa xian 	發現	c=14 d=0.111775 t=17022
+fa xian 	發現	c=15 d=0.111775 t=17022
 fa zhan 	發展	c=4 d=0.0267827 t=17022
 fan 	反	c=3 d=0.0127147 t=17022
 fan 	帆	c=4 d=0.780024 t=17022
-fan 	樊	c=1 d=1 t=14955
+fan 	樊	c=1 d=1 t=17022
 fan bian yi 	反編譯	c=2 d=0.811172 t=17022
+fan cuo 	犯錯	c=1 d=1 t=18161
 fan du 	泛讀	c=1 d=0.00242967 t=17022
-fan gao 	梵高	c=4 d=0.109832 t=17022
+fan gao 	梵高	c=5 d=1 t=17022
 fan hua 	泛化	c=2 d=0.00431788 t=17022
 fan hui 	返回	c=4 d=0.232236 t=17022
-fan hui zhi 	返回值	c=1 d=1 t=16753
+fan hui zhi 	返回值	c=1 d=1 t=17022
 fan ke 	凡客	c=3 d=0.197812 t=17022
 fan kui 	反饋	c=6 d=0.00119911 t=17022
+fan qiang 	翻牆	c=1 d=1 t=613
 fan se 	反色	c=1 d=0.0114473 t=17022
 fan she 	反射	c=1 d=0.204948 t=17022
 fan shu 	番薯	c=0 d=2.1232e-006 t=17022
 fan shu 	范數	c=1 d=0.00831246 t=17022
 fan shu 	蕃薯	c=1 d=2.36866e-005 t=17022
 fan wei 	範圍	c=2 d=0.0020396 t=17022
+fan xiang 	反向	c=0 d=0.1 t=19897
+fan xiang lian 	反向鏈	c=1 d=1 t=19898
+fan xiu 	返修	c=1 d=1 t=19322
 fan ye 	翻頁	c=2 d=1.99501 t=17022
-fan yi 	翻譯	c=4 d=0.219921 t=17022
-fan ying 	反應	c=1 d=1 t=15071
+fan yi 	翻譯	c=7 d=0.219921 t=17022
+fan ying 	反應	c=1 d=1 t=17022
+fan ying 	反映	c=1 d=1 t=459
 fan zheng 	反正	c=1 d=0.00914087 t=17022
 fan zhi 	反之	c=2 d=2.35811e-005 t=17022
-fang 	放	c=2 d=0.000520875 t=17022
-fang 	方	c=30 d=1.87956 t=17022
+fang 	放	c=3 d=1.00033 t=17022
+fang 	方	c=35 d=1.87956 t=17022
 fang 	防	c=1 d=0.000160856 t=17022
-fang an 	方案	c=5 d=0.113428 t=17022
-fang bian 	方便	c=7 d=0.71506 t=17022
-fang cheng 	方程	c=1 d=1 t=14905
+fang an 	方案	c=6 d=1 t=17022
+fang bian 	方便	c=10 d=0.71506 t=17022
+fang cheng 	方程	c=1 d=1 t=17022
 fang da 	放大	c=0 d=0.00134335 t=17022
 fang dong 	房東	c=1 d=0.421052 t=17022
-fang fa 	方法	c=40 d=0.8245 t=17022
-fang hui 	放回	c=1 d=1 t=16855
+fang fa 	方法	c=50 d=1.10418 t=17022
+fang fu 	彷彿	c=0 d=0.1 t=728
+fang hu 	防護	c=1 d=1 t=18530
+fang hui 	放回	c=1 d=1 t=17022
 fang huo qiang 	防火牆	c=1 d=0.00113627 t=17022
-fang jia 	放假	c=1 d=0.484325 t=17022
+fang jia 	放假	c=2 d=1.00001 t=17022
 fang jian 	坊間	c=1 d=0.970446 t=17022
 fang jie 	方姐	c=2 d=0.486752 t=17022
-fang lao shi 	方老師	c=26 d=1.10229 t=17022
-fang mian 	方面	c=12 d=0.0564161 t=17022
+fang lao shi 	方老師	c=28 d=1.10229 t=17022
+fang mian 	方面	c=13 d=0.0784426 t=17022
 fang shi 	方式	c=14 d=1.25778 t=17022
 fang shui 	方水	c=4 d=0.939422 t=17022
 fang shui liang 	方水良	c=2 d=0.00609675 t=17022
-fang xiang 	方向	c=8 d=0.132655 t=17022
+fang xia 	放下	c=1 d=1 t=882
+fang xiang 	方向	c=10 d=0.132655 t=17022
 fang xin 	放心	c=1 d=0.00726273 t=17022
-fang zai 	放在	c=1 d=0.644036 t=17022
-fang zhen 	仿真	c=17 d=1.5246 t=17022
+fang zai 	放在	c=2 d=1.36422 t=17022
+fang zhen 	仿真	c=23 d=1.5246 t=17022
+fang zhi 	放置	c=1 d=1 t=17124
 fei 	費	c=2 d=0.138761 t=17022
 fei 	非	c=2 d=8.89519e-006 t=17022
-fei 	飛	c=7 d=0.789469 t=17022
+fei 	飛	c=8 d=1.64825 t=17022
 fei bo yi 	非博弈	c=1 d=4.23306e-005 t=17022
-fei chang 	非常	c=8 d=0.610215 t=17022
-fei cheng 	費城	c=28 d=4.73992 t=17022
+fei chang 	非常	c=18 d=0.705007 t=17022
+fei chang bang 	非常棒	c=1 d=1 t=17145
+fei cheng 	費城	c=29 d=4.73992 t=17022
 fei ji 	飛機	c=3 d=0.137834 t=17022
 fei ji shang 	飛機上	c=1 d=0.133989 t=17022
 fei qi 	廢棄	c=1 d=0.00923273 t=17022
@@ -892,18 +939,18 @@ fen san 	分散	c=1 d=4.49482e-005 t=17022
 fen wei 	分爲	c=1 d=0.585669 t=17022
 fen wei 	氛圍	c=1 d=0.000114493 t=17022
 fen xi 	分析	c=21 d=1.24301 t=17022
-fen xiang 	分享	c=1 d=1 t=15150
+fen xiang 	分享	c=1 d=8.61001e-005 t=17022
 fen zhi 	分支	c=3 d=0.0129068 t=17022
-feng 	峯	c=2 d=1.99005 t=14116
-feng 	鋒	c=2 d=1.98511 t=14536
+feng 	峯	c=2 d=9.74014e-007 t=17022
+feng 	鋒	c=2 d=7.93422e-006 t=17022
 feng 	風	c=1 d=1.29781e-008 t=17022
-feng ge 	風格	c=1 d=1 t=16451
+feng ge 	風格	c=1 d=0.0575558 t=17022
 feng huang 	鳳凰	c=0 d=0.00507928 t=17022
 feng huang shan lu 	鳳凰山路	c=1 d=0.0510474 t=17022
 feng hui 	峯會	c=3 d=0.00383276 t=17022
-feng ling 	風鈴	c=1 d=1 t=13963
+feng ling 	風鈴	c=1 d=2.27754e-007 t=17022
 feng suo 	封鎖	c=1 d=0.0495388 t=17022
-feng wei 	鳳尾	c=1 d=1 t=16056
+feng wei 	鳳尾	c=1 d=0.00798652 t=17022
 feng xian 	風險	c=2 d=0.00451658 t=17022
 feng xian kong zhi 	風險控制	c=1 d=0.00603608 t=17022
 feng zhuang 	封裝	c=3 d=0.0359273 t=17022
@@ -911,23 +958,23 @@ fo jiao 	佛教	c=1 d=0.0780817 t=17022
 fo jiao wen hua 	佛教文化	c=1 d=0.0270518 t=17022
 fou 	否	c=1 d=4.26529e-006 t=17022
 fu 	付	c=4 d=0.794534 t=17022
-fu 	覆	c=1 d=1 t=15170
+fu 	覆	c=1 d=9.51553e-005 t=17022
 fu 	負	c=1 d=8.93978e-006 t=17022
 fu 	赴	c=1 d=0.000311223 t=17022
-fu ben 	副本	c=1 d=1 t=17019
+fu ben 	副本	c=1 d=0.985112 t=17022
 fu diao 	浮雕	c=1 d=0.429557 t=17022
 fu hao 	符號	c=1 d=9.35125e-006 t=17022
 fu he 	負荷	c=1 d=0.00618889 t=17022
-fu ji ni ya 	弗吉尼亞	c=1 d=1 t=14354
+fu ji ni ya 	弗吉尼亞	c=1 d=1.60884e-006 t=17022
 fu jia 	附加	c=1 d=6.85865e-006 t=17022
 fu jian 	附件	c=5 d=0.000219614 t=17022
 fu jin 	附近	c=2 d=0.0669154 t=17022
-fu ke 	復刻	c=1 d=1 t=16043
+fu ke 	復刻	c=1 d=0.00748391 t=17022
 fu kuan 	付款	c=2 d=0.00445534 t=17022
 fu lan ke 	福蘭克	c=1 d=0.000300519 t=17022
 fu lu 	附錄	c=2 d=0.846367 t=17022
 fu qin 	父親	c=1 d=4.43936e-006 t=17022
-fu wu 	服務	c=120 d=1.09348 t=17022
+fu wu 	服務	c=120 d=1.23451 t=17022
 fu wu hua 	服務化	c=3 d=1.86567 t=17022
 fu wu lian 	服務鏈	c=3 d=0.0100017 t=17022
 fu wu ping tai 	服務平臺	c=1 d=0.000837575 t=17022
@@ -943,13 +990,13 @@ fu za de 	複雜的	c=1 d=2.25449e-005 t=17022
 fu za du 	複雜度	c=1 d=0.19593 t=17022
 fu ze 	負責	c=1 d=0.0682212 t=17022
 fu zhi 	複製	c=2 d=0.900325 t=17022
-fu zhi 	賦值	c=1 d=1 t=16705
+fu zhi 	賦值	c=1 d=0.204948 t=17022
 fu zhu 	輔助	c=4 d=0.0699482 t=17022
 gai 	改	c=8 d=0.140159 t=17022
 gai 	蓋	c=2 d=0.00900478 t=17022
 gai 	該	c=12 d=0.0549858 t=17022
 gai bian 	改變	c=2 d=0.0113902 t=17022
-gai chu 	該處	c=2 d=1.92774 t=16726
+gai chu 	該處	c=2 d=0.438826 t=17022
 gai dong 	改動	c=2 d=1.13111 t=17022
 gai ge 	改革	c=1 d=0.0148464 t=17022
 gai jin 	改進	c=3 d=0.0135009 t=17022
@@ -960,17 +1007,18 @@ gai nian 	概念	c=7 d=0.101266 t=17022
 gai sheng 	該生	c=1 d=0.000710174 t=17022
 gai shu 	概述	c=2 d=0.000459671 t=17022
 gai wen 	該文	c=1 d=8.98459e-006 t=17022
-gai wen jian 	該文件	c=1 d=1 t=17016
+gai wen jian 	該文件	c=1 d=0.970446 t=17022
 gai xiu xi 	改休息	c=1 d=0.00683978 t=17022
 gai zao 	改造	c=1 d=0.00159641 t=17022
 gai zhang 	蓋章	c=1 d=1.66643e-008 t=17022
+gai zhuang 	改裝	c=1 d=1 t=1196
 gan 	幹	c=3 d=0.0114473 t=17022
 gan 	敢	c=1 d=0.204948 t=17022
 gan bu 	幹部	c=1 d=2.1287e-006 t=17022
-gan jing 	乾淨	c=1 d=1 t=15465
+gan jing 	乾淨	c=1 d=0.000415927 t=17022
 gan jue 	感覺	c=8 d=1.83409 t=17022
 gan ma 	幹嘛	c=2 d=0.496585 t=17022
-gan sha 	幹啥	c=1 d=1 t=16477
+gan sha 	幹啥	c=1 d=0.0655462 t=17022
 gan shou 	感受	c=1 d=2.8025e-006 t=17022
 gan xing qu 	感興趣	c=1 d=0.0129068 t=17022
 gan yu 	干預	c=1 d=0.00511796 t=17022
@@ -985,15 +1033,17 @@ gang gang 	剛剛	c=1 d=0.715338 t=17022
 gang gang 	槓槓	c=1 d=0.995012 t=17022
 gang pian 	港片	c=1 d=1.29134e-008 t=17022
 gang qin 	鋼琴	c=2 d=0.0110886 t=17022
+gao 	搞	c=1 d=1 t=1214
 gao 	高	c=6 d=0.209088 t=17022
 gao bu dao 	搞不到	c=1 d=0.160414 t=17022
+gao ceng 	高層	c=1 d=1 t=1230
 gao de di tu 	高德地圖	c=1 d=0.460704 t=17022
 gao feng 	高峯	c=2 d=1.14304 t=17022
 gao ji 	高級	c=2 d=0.0441572 t=17022
 gao qing 	高清	c=1 d=0.00124951 t=17022
 gao si 	高斯	c=1 d=0.00900478 t=17022
 gao su 	高速	c=2 d=0.109701 t=17022
-gao tie 	高鐵	c=2 d=1.8781 t=14775
+gao tie 	高鐵	c=2 d=2.47982e-005 t=17022
 gao xiao 	搞笑	c=4 d=0.26982 t=17022
 gao xiao 	高效	c=1 d=5.87385e-006 t=17022
 gao xiao 	高校	c=1 d=0.000383949 t=17022
@@ -1001,7 +1051,7 @@ gao xing jian 	高行健	c=1 d=0.000602152 t=17022
 gao zhang 	高漲	c=1 d=0.00594622 t=17022
 gao zhi 	告知	c=1 d=0.124307 t=17022
 gao zhi liang 	高質量	c=1 d=0.00222055 t=17022
-gao zhong 	高中	c=1 d=0.524663 t=17022
+gao zhong 	高中	c=1 d=0.774916 t=17022
 ge 	個	c=25 d=0.810584 t=17022
 ge 	割	c=0 d=5.47674e-007 t=17022
 ge 	各	c=14 d=0.30271 t=17022
@@ -1011,6 +1061,7 @@ ge 	閣	c=1 d=0.0488012 t=17022
 ge an 	隔岸	c=1 d=0.00810722 t=17022
 ge ci 	歌詞	c=2 d=0.631284 t=17022
 ge ge 	各個	c=10 d=0.00361852 t=17022
+ge ge 	哥哥	c=1 d=1 t=1152
 ge jie duan 	各階段	c=3 d=1.08921e-005 t=17022
 ge ju 	格局	c=1 d=0.00628242 t=17022
 ge lei 	各類	c=5 d=0.0114479 t=17022
@@ -1051,7 +1102,7 @@ gong 	宮	c=1 d=0.0144076 t=17022
 gong 	工	c=2 d=0.0808629 t=17022
 gong 	攻	c=1 d=0.211189 t=17022
 gong cheng 	工程	c=22 d=0.701173 t=17022
-gong dao 	公道	c=1 d=1 t=15553
+gong dao 	公道	c=1 d=0.000645813 t=17022
 gong du 	攻讀	c=1 d=0.120633 t=17022
 gong e 	共軛	c=1 d=0.00164502 t=17022
 gong jian 	工件	c=3 d=0.694204 t=17022
@@ -1060,11 +1111,11 @@ gong jiao 	公交	c=0 d=0.0501576 t=17022
 gong jiao piao 	公交票	c=1 d=0.50409 t=17022
 gong jing mi lan 	宮頸糜爛	c=1 d=2.87344e-006 t=17022
 gong ju 	工具	c=10 d=0.933713 t=17022
-gong ju lan 	工具欄	c=1 d=1 t=16622
+gong ju lan 	工具欄	c=1 d=0.135335 t=17022
 gong kai ke 	公開課	c=2 d=0.0715372 t=17022
 gong lve 	攻略	c=1 d=0.00136719 t=17022
 gong neng 	功能	c=18 d=0.628036 t=17022
-gong pai 	公派	c=1 d=1 t=15913
+gong pai 	公派	c=1 d=0.00390694 t=17022
 gong qi 	工期	c=1 d=0.0110536 t=17022
 gong rong 	攻榮	c=1 d=7.06873e-008 t=17022
 gong shi 	公式	c=4 d=0.0361528 t=17022
@@ -1074,10 +1125,11 @@ gong xiang 	共享	c=9 d=0.131994 t=17022
 gong xing 	共性	c=2 d=0.0262526 t=17022
 gong xu 	工序	c=3 d=0.0245492 t=17022
 gong yao 	公鑰	c=1 d=0.0187793 t=17022
-gong ye 	工業	c=6 d=0.540695 t=17022
+gong ye 	工業	c=6 d=0.913931 t=17022
 gong ye gong cheng 	工業工程	c=5 d=0.0515912 t=17022
 gong yi 	工藝	c=2 d=9.999e-006 t=17022
 gong ying 	供應	c=6 d=0.0138427 t=17022
+gong ying 	共贏	c=1 d=1 t=1350
 gong ying lian 	供應鏈	c=13 d=0.525725 t=17022
 gong ying shang 	供應商	c=6 d=3.07232e-005 t=17022
 gong yuan 	公園	c=4 d=0.244319 t=17022
@@ -1085,10 +1137,10 @@ gong zhen 	共振	c=4 d=0.0896963 t=17022
 gong zuo 	工作	c=21 d=1.06361 t=17022
 gong zuo liu 	工作流	c=1 d=6.19205e-009 t=17022
 google 	Google	c=2 d=0.0837483 t=17022
-gou 	夠	c=3 d=0.125017 t=17022
+gou 	夠	c=3 d=0.418952 t=17022
 gou 	狗	c=5 d=1.99516 t=17022
-gou 	購	c=1 d=1 t=14090
-gou cheng 	構成	c=1 d=1 t=14472
+gou 	購	c=1 d=4.29777e-007 t=17022
+gou cheng 	構成	c=1 d=2.90232e-006 t=17022
 gou er duo 	夠耳朵	c=1 d=0.0133665 t=17022
 gou jian 	構建	c=21 d=0.00772933 t=17022
 gou mai 	購買	c=1 d=0.00207043 t=17022
@@ -1103,13 +1155,13 @@ gu hua 	固話	c=1 d=0.282239 t=17022
 gu ji 	估計	c=7 d=0.680451 t=17022
 gu ju 	故居	c=1 d=0.694197 t=17022
 gu long 	古龍	c=1 d=5.8164e-008 t=17022
-gu piao 	股票	c=3 d=0.000902809 t=17022
+gu piao 	股票	c=3 d=0.484325 t=17022
 gu xiang 	故鄉	c=1 d=0.165299 t=17022
 gu xun 	古訓	c=1 d=0.000536738 t=17022
-gu yi 	故意	c=2 d=1.93239 t=16848
-gu you 	固有	c=2 d=1.04783 t=15597
+gu yi 	故意	c=2 d=0.809578 t=17022
+gu you 	固有	c=2 d=0.000843223 t=17022
 guai wo 	怪我	c=1 d=0.00165327 t=17022
-guan 	官	c=1 d=1 t=15642
+guan 	官	c=1 d=0.00100779 t=17022
 guan 	罐	c=1 d=5.31579e-008 t=17022
 guan 	觀	c=1 d=0.0867261 t=17022
 guan bi 	關閉	c=6 d=0.869358 t=17022
@@ -1132,14 +1184,14 @@ guan li xue ke 	管理學科	c=1 d=0.759572 t=17022
 guan li yuan 	管理員	c=2 d=0.0478349 t=17022
 guan lian 	關聯	c=6 d=0.0162453 t=17022
 guan xi 	關係	c=10 d=0.826959 t=17022
-guan yu 	關於	c=6 d=0.141733 t=17022
+guan yu 	關於	c=6 d=0.218712 t=17022
 guang 	光	c=2 d=0.0239928 t=17022
 guang bo 	廣播	c=1 d=0.000699601 t=17022
 guang chang 	廣場	c=3 d=0.0632818 t=17022
 guang fan 	廣泛	c=1 d=0.0020601 t=17022
-guang gao 	廣告	c=1 d=0.683861 t=17022
+guang gao 	廣告	c=2 d=0.683861 t=17022
 guang pan 	光盤	c=1 d=0.687289 t=17022
-guang qu 	光驅	c=1 d=0.83527 t=17022
+guang qu 	光驅	c=1 d=0.839457 t=17022
 guang tou 	光頭	c=2 d=0.801043 t=17022
 guang zhou 	廣州	c=2 d=0.286698 t=17022
 guang zi 	光子	c=1 d=5.35626e-009 t=17022
@@ -1151,15 +1203,17 @@ gui fan 	規範	c=9 d=0.499435 t=17022
 gui fan hua 	規範化	c=2 d=0.0227089 t=17022
 gui gu 	硅谷	c=17 d=0.867531 t=17022
 gui hua 	規劃	c=7 d=0.0976338 t=17022
-gui lei 	歸類	c=1 d=1 t=15839
+gui lei 	歸類	c=1 d=0.00269866 t=17022
 gui lv 	規律	c=5 d=0.0291351 t=17022
 gui mo 	規模	c=2 d=0.0119742 t=17022
 gui na 	歸納	c=1 d=8.9167e-005 t=17022
 gui ze 	規則	c=2 d=0.010358 t=17022
 guo 	國	c=2 d=0.00153752 t=17022
-guo 	過	c=3 d=0.722527 t=17022
+guo 	過	c=5 d=0.722527 t=17022
+guo 	郭	c=2 d=1.99501 t=1119
+guo biao 	國標	c=1 d=1 t=19959
 guo chan 	國產	c=1 d=0.0107807 t=17022
-guo cheng 	過程	c=21 d=0.0718502 t=17022
+guo cheng 	過程	c=24 d=0.0718502 t=17022
 guo cheng hua 	過程化	c=1 d=1.79621e-008 t=17022
 guo di 	過低	c=1 d=0.104874 t=17022
 guo ji 	國際	c=12 d=1.6098 t=17022
@@ -1174,27 +1228,29 @@ guo jing 	國境	c=0 d=3.11223e-005 t=17022
 guo le 	過了	c=0 d=9.49097e-005 t=17022
 guo lv 	過濾	c=2 d=0.0958472 t=17022
 guo nei 	國內	c=3 d=0.25924 t=17022
-guo qu 	過去	c=1 d=1 t=16903
-guo ran 	果然	c=1 d=3.97761e-008 t=17022
+guo qu 	過去	c=1 d=1 t=17022
+guo ran 	果然	c=1 d=0.740818 t=17022
 guo shu 	國書	c=2 d=0.558869 t=17022
 guo tong hui 	國統會	c=1 d=0.161218 t=17022
 guo wai 	國外	c=1 d=0.000323925 t=17022
 guo xin 	國信	c=1 d=0.00582847 t=17022
-guo yu 	過於	c=1 d=0.0258615 t=17022
-hai 	害	c=1 d=1 t=14540
-hai 	海	c=3 d=0.000455757 t=17022
+guo yu 	過於	c=1 d=0.181772 t=17022
+hai 	嗨	c=1 d=1 t=814
+hai 	害	c=1 d=4.07761e-006 t=17022
+hai 	海	c=3 d=0.0448245 t=17022
 hai 	還	c=20 d=1.58176 t=17022
 hai bao 	海報	c=1 d=0.00201931 t=17022
 hai dao 	海盜	c=0 d=0.0519442 t=17022
 hai dao wan 	海盜灣	c=1 d=0.522046 t=17022
-hai dei 	還得	c=1 d=1 t=15059
+hai dei 	還得	c=1 d=5.4626e-005 t=17022
 hai guan 	海關	c=1 d=0.22091 t=17022
 hai liang 	海量	c=3 d=0.10184 t=17022
 hai mei 	還沒	c=4 d=0.66034 t=17022
 hai mei you 	還沒有	c=1 d=0.000153011 t=17022
+hai mian 	海綿	c=1 d=1 t=505
 hai neng 	還能	c=2 d=0.0381969 t=17022
 hai shi 	還是	c=18 d=0.839457 t=17022
-hai wai 	海外	c=1 d=1 t=14089
+hai wai 	海外	c=1 d=4.27633e-007 t=17022
 hai xian 	海鮮	c=1 d=0.0544757 t=17022
 hai xiao 	海嘯	c=1 d=7.69585e-008 t=17022
 hai xu yao 	還需要	c=1 d=0.00292342 t=17022
@@ -1203,7 +1259,8 @@ hai you 	還有	c=7 d=0.367879 t=17022
 hai zai 	還在	c=1 d=0.621885 t=17022
 hai zei 	海賊	c=16 d=1.31616 t=17022
 hai zei wang 	海賊王	c=4 d=0.28366 t=17022
-han 	韓	c=1 d=1 t=14954
+han 	韓	c=1 d=3.23143e-005 t=17022
+han dou 	憨豆	c=4 d=3.92603 t=1285
 han gai 	涵蓋	c=1 d=4.255e-007 t=17022
 han hua 	漢化	c=1 d=2.41837e-007 t=17022
 han shu 	函數	c=10 d=0.229925 t=17022
@@ -1213,10 +1270,11 @@ hang 	航	c=2 d=0.0485578 t=17022
 hang 	行	c=4 d=0.202244 t=17022
 hang ban 	航班	c=2 d=0.734547 t=17022
 hang bang 	杭邦	c=1 d=0.000534061 t=17022
-hang lie 	行列	c=1 d=1 t=14158
+hang lie 	行列	c=1 d=6.03814e-007 t=17022
 hang tian 	航天	c=7 d=4.70157e-005 t=17022
 hang ye 	行業	c=5 d=0.110251 t=17022
 hang zhou 	杭州	c=52 d=1.5734 t=17022
+hang zhou hua 	杭州話	c=2 d=1.95123 t=781
 hang zhou shi 	杭州市	c=2 d=0.00315356 t=17022
 hao 	好	c=83 d=3.47365 t=17022
 hao 	號	c=25 d=1.91987 t=17022
@@ -1225,41 +1283,47 @@ hao cai 	耗材	c=1 d=8.89519e-006 t=17022
 hao chu 	好處	c=2 d=6.80682e-005 t=17022
 hao de 	好的	c=9 d=0.548423 t=17022
 hao duo 	好多	c=2 d=0.0780817 t=17022
+hao hao 	好好	c=1 d=1 t=871
 hao ju 	好句	c=1 d=0.265803 t=17022
 hao le 	好了	c=1 d=0.00265848 t=17022
 hao ma 	號碼	c=7 d=0.0205061 t=17022
-hao ping 	好評	c=1 d=0.965605 t=17022
+hao ping 	好評	c=2 d=0.965605 t=17022
 hao ren 	好人	c=3 d=7.45032e-005 t=17022
-hao ting 	好聽	c=1 d=1 t=15300
+hao ting 	好聽	c=1 d=0.000182274 t=17022
 hao tu 	好圖	c=1 d=0.0399551 t=17022
 hao wu 	毫無	c=1 d=1.40204e-005 t=17022
 hao xiang 	好像	c=5 d=0.0624835 t=17022
+hao you 	好友	c=1 d=1 t=805
 he 	何	c=4 d=0.00276984 t=17022
+he 	合	c=3 d=2.25184 t=1404
 he 	和	c=80 d=2.35393 t=17022
-he 	賀	c=1 d=1 t=15311
+he 	喝	c=1 d=1 t=789
+he 	賀	c=1 d=0.00019258 t=17022
 he bing 	合併	c=3 d=0.0060061 t=17022
 he cha 	喝茶	c=2 d=0.00017252 t=17022
 he ci 	核磁	c=3 d=0.0016512 t=17022
-he he 	呵呵	c=1 d=1 t=14260
+he he 	呵呵	c=1 d=1.00553e-006 t=17022
 he li 	合理	c=2 d=4.4279e-005 t=17022
 he shi 	何時	c=1 d=0.00456197 t=17022
+he shi 	合適	c=2 d=1.76721 t=1367
 he shi bi 	和氏璧	c=1 d=0.0160829 t=17022
 he xin 	核心	c=1 d=0.00180897 t=17022
 he xing 	盒形	c=1 d=0.0174224 t=17022
-he zi 	盒子	c=1 d=1 t=15950
+he zi 	盒子	c=1 d=0.00470091 t=17022
 he zuo 	合作	c=9 d=0.0213873 t=17022
 hei 	黑	c=2 d=0.0496296 t=17022
 hei dong 	黑洞	c=1 d=1.79127e-005 t=17022
 hei ping 	黑屏	c=1 d=0.400517 t=17022
 hei ren 	黑人	c=1 d=0.000958635 t=17022
 hei se 	黑色	c=2 d=0.116484 t=17022
+hei xiang 	黑箱	c=1 d=1 t=260
 hei ya 	黑鴨	c=1 d=0.555006 t=17022
-hei zi 	黑子	c=2 d=1.99005 t=15636
+hei zi 	黑子	c=2 d=0.00194627 t=17022
 hen 	很	c=8 d=1.83258 t=17022
 hen da 	很大	c=1 d=0.000432902 t=17022
 hen duo 	很多	c=7 d=0.960789 t=17022
-hen fang bian 	很方便	c=1 d=1 t=16858
-hen gao xing 	很高興	c=1 d=1 t=15092
+hen fang bian 	很方便	c=1 d=0.440432 t=17022
+hen gao xing 	很高興	c=1 d=6.44256e-005 t=17022
 hen hao 	很好	c=1 d=1.08927e-006 t=17022
 hen hen 	狠狠	c=1 d=0.532592 t=17022
 hen nan 	很難	c=1 d=1.55726e-005 t=17022
@@ -1267,7 +1331,7 @@ hen qi guai 	很奇怪	c=1 d=2.15009e-006 t=17022
 hen qiang 	很強	c=1 d=4.96754e-005 t=17022
 hen shao 	很少	c=1 d=2.85173e-005 t=17022
 hen you 	很有	c=1 d=0.0153752 t=17022
-heng deng 	恆等	c=2 d=1.99005 t=14242
+heng deng 	恆等	c=2 d=1.82882e-006 t=17022
 heng pan 	橫盤	c=1 d=0.102284 t=17022
 heng xiang 	橫向	c=2 d=0.0187793 t=17022
 hong 	宏	c=1 d=0.0407622 t=17022
@@ -1276,25 +1340,28 @@ hong 	洪	c=1 d=0.0608289 t=17022
 hong 	紅	c=1 d=0.00904991 t=17022
 hong bao 	宏包	c=1 d=0.0413782 t=17022
 hong bao 	紅包	c=1 d=0.0305009 t=17022
-hong guan 	宏觀	c=1 d=1 t=14871
+hong guan 	宏觀	c=1 d=2.13384e-005 t=17022
 hong lao ban 	洪老闆	c=1 d=0.0555762 t=17022
 hong mi 	紅迷	c=1 d=0.0539337 t=17022
 hong qiao 	虹橋	c=7 d=0.698562 t=17022
-hong se 	紅色	c=1 d=0.251579 t=17022
+hong ri 	紅日	c=1 d=1 t=749
+hong se 	紅色	c=1 d=0.56836 t=17022
 hong wei 	宏偉	c=1 d=0.000376347 t=17022
 hou 	厚	c=2 d=0.0123779 t=17022
 hou 	後	c=18 d=0.677057 t=17022
+hou lai 	後來	c=2 d=1.94649 t=1055
 hou mian 	後面	c=3 d=0.618808 t=17022
 hou xu 	後續	c=2 d=0.00711891 t=17022
 hou xuan 	候選	c=1 d=0.0181334 t=17022
 hu 	胡	c=1 d=0.00037447 t=17022
 hu 	虎	c=3 d=2.5089 t=17022
 hu 	護	c=2 d=0.000161662 t=17022
-hu lian wang 	互聯網	c=1 d=1 t=14177
+hu dong 	互動	c=1 d=1 t=358
+hu lian wang 	互聯網	c=1 d=6.63989e-007 t=17022
 hu lve 	忽略	c=1 d=6.41042e-005 t=17022
 hu nan 	湖南	c=1 d=0.138069 t=17022
 hu ping 	互評	c=2 d=0.0871609 t=17022
-hu shen fu 	護身符	c=1 d=1 t=13965
+hu shen fu 	護身符	c=1 d=2.30043e-007 t=17022
 hu shou shuang 	護手霜	c=2 d=0.140156 t=17022
 hu xin ting 	湖心亭	c=2 d=1.03297 t=17022
 hu yan 	護眼	c=2 d=0.597501 t=17022
@@ -1302,9 +1369,12 @@ hu zhao 	護照	c=4 d=0.000819726 t=17022
 hu zhao ben 	護照本	c=1 d=0.000265207 t=17022
 hua 	化	c=23 d=0.846633 t=17022
 hua 	畫	c=5 d=0.260931 t=17022
-hua 	話	c=8 d=0.421148 t=17022
+hua 	花	c=1 d=1 t=118
+hua 	話	c=8 d=0.535426 t=17022
 hua fen 	劃分	c=3 d=0.00271219 t=17022
 hua hua 	花花	c=2 d=0.0270736 t=17022
+hua jia 	畫家	c=1 d=1 t=867
+hua mian 	畫面	c=1 d=1 t=699
 hua sheng 	花生	c=2 d=0.0784731 t=17022
 hua tou 	花頭	c=0 d=1.01301e-006 t=17022
 hua tou jing 	花頭精	c=2 d=0.000256225 t=17022
@@ -1320,30 +1390,32 @@ huan 	還	c=3 d=0.0378507 t=17022
 huan bao 	環保	c=1 d=3.94688e-005 t=17022
 huan cheng 	換乘	c=1 d=0.0788664 t=17022
 huan cheng 	換成	c=1 d=0.0505395 t=17022
-huan cun 	緩存	c=1 d=1 t=15959
+huan cun 	緩存	c=1 d=0.00491728 t=17022
 huan huo 	換貨	c=1 d=0.163654 t=17022
 huan jie 	環節	c=2 d=1.9603e-007 t=17022
 huan jing 	環境	c=26 d=0.704924 t=17022
-huan jing xia 	環境下	c=1 d=1 t=14394
+huan jing xia 	環境下	c=1 d=1.96504e-006 t=17022
 huan kuan 	還款	c=1 d=0.0222592 t=17022
 huan shang 	換上	c=1 d=1.55726e-005 t=17022
 huan shou lv 	換手率	c=1 d=0.103312 t=17022
 huan ye 	換頁	c=1 d=0.412714 t=17022
-huang 	黃	c=1 d=2.44226e-005 t=17022
+huang 	黃	c=1 d=0.0328764 t=17022
 huang an 	黃安	c=1 d=0.00103848 t=17022
 huang di 	皇帝	c=1 d=0.000357992 t=17022
 huang jin 	黃金	c=1 d=0.546074 t=17022
 huang jing 	黃精	c=1 d=0.551563 t=17022
 huang long 	黃龍	c=1 d=0.000678925 t=17022
 huang se 	黃色	c=1 d=2.79574e-007 t=17022
+huang tang 	荒唐	c=1 d=1 t=886
+huang yan 	謊言	c=6 d=5.42527 t=952
 hui 	回	c=1 d=0.0378169 t=17022
 hui 	慧	c=1 d=4.6437e-006 t=17022
 hui 	會	c=19 d=0.434945 t=17022
 hui 	灰	c=1 d=0.00129402 t=17022
-hui 	輝	c=1 d=1 t=14956
-hui bao 	彙報	c=2 d=1.97045 t=15466
+hui 	輝	c=1 d=3.26391e-005 t=17022
+hui bao 	彙報	c=2 d=0.00336361 t=17022
 hui dao 	回到	c=2 d=0.0692522 t=17022
-hui fei 	會飛	c=1 d=1 t=15948
+hui fei 	會飛	c=1 d=0.00465413 t=17022
 hui fu 	恢復	c=15 d=2.04653 t=17022
 hui guo 	回國	c=5 d=0.219808 t=17022
 hui hou 	會後	c=2 d=0.506698 t=17022
@@ -1354,9 +1426,10 @@ hui shuo 	會說	c=1 d=0.000403635 t=17022
 hui si 	會死	c=1 d=0.090718 t=17022
 hui tong 	匯通	c=0 d=0.0142987 t=17022
 hui tu 	繪圖	c=2 d=0.0254611 t=17022
-hui wen 	迴文	c=1 d=1 t=14050
+hui wen 	迴文	c=1 d=3.51871e-007 t=17022
 hui wen 	迴紋	c=2 d=0.0244325 t=17022
 hui wu 	會務	c=1 d=0.102797 t=17022
+hui xiang 	回想	c=1 d=1 t=1380
 hui yi 	會議	c=28 d=2.82764 t=17022
 hui you 	會有	c=1 d=0.57695 t=17022
 hui yuan 	會員	c=1 d=0.0190631 t=17022
@@ -1366,7 +1439,7 @@ hun he 	混合	c=1 d=0.000443861 t=17022
 hun tun 	餛屯	c=0 d=0.0144424 t=17022
 huo 	或	c=5 d=0.677057 t=17022
 huo 	活	c=2 d=0.196106 t=17022
-huo 	火	c=1 d=1 t=14550
+huo 	火	c=1 d=4.28667e-006 t=17022
 huo 	貨	c=3 d=0.16696 t=17022
 huo ban 	夥伴	c=2 d=8.52579e-007 t=17022
 huo bi 	貨幣	c=1 d=0.0816756 t=17022
@@ -1376,16 +1449,18 @@ huo dong 	活動	c=2 d=0.0746459 t=17022
 huo er 	霍爾	c=0 d=4.64291e-005 t=17022
 huo er wei ci 	霍爾維茨	c=1 d=0.000466618 t=17022
 huo guo 	火鍋	c=1 d=0.000175127 t=17022
-huo hu 	火狐	c=1 d=1 t=13942
+huo hu 	火狐	c=1 d=2.05052e-007 t=17022
 huo qu 	獲取	c=3 d=0.151829 t=17022
+huo shan 	火山	c=0 d=0.1 t=973
+huo shan qian 	火山前	c=1 d=1 t=974
 huo xing 	火星	c=5 d=5.83569e-005 t=17022
 huo xu 	或許	c=3 d=0.0475088 t=17022
 huo ying 	火影	c=10 d=0.291031 t=17022
 huo ying ren zhe 	火影忍者	c=3 d=0.285076 t=17022
-huo zai 	火災	c=1 d=1 t=14968
+huo zai 	火災	c=1 d=3.46574e-005 t=17022
 huo zhe 	或者	c=10 d=1.55557 t=17022
 huo zhe 	活着	c=1 d=0.000558643 t=17022
-ji 	即	c=1 d=4.94361e-007 t=17022
+ji 	即	c=1 d=0.00400585 t=17022
 ji 	及	c=66 d=1.54708 t=17022
 ji 	姬	c=2 d=0.287138 t=17022
 ji 	季	c=2 d=0.00182715 t=17022
@@ -1394,7 +1469,8 @@ ji 	擠	c=1 d=0.166127 t=17022
 ji 	既	c=1 d=0.00231117 t=17022
 ji 	機	c=12 d=1.66223 t=17022
 ji 	積	c=3 d=0.224249 t=17022
-ji 	繼	c=1 d=1 t=14137
+ji 	繼	c=1 d=5.43628e-007 t=17022
+ji 	集	c=1 d=1 t=102
 ji 	雞	c=0 d=0.0408608 t=17022
 ji ben 	基本	c=11 d=0.952046 t=17022
 ji bian 	激辯	c=1 d=0.557106 t=17022
@@ -1403,23 +1479,23 @@ ji cheng 	集成	c=5 d=0.202488 t=17022
 ji chu 	基礎	c=6 d=0.447311 t=17022
 ji chu 	寄出	c=8 d=1.0588 t=17022
 ji chuang 	機牀	c=2 d=0.327915 t=17022
-ji dai 	基帶	c=2 d=1.97531 t=16033
+ji dai 	基帶	c=2 d=0.0140621 t=17022
 ji dao 	寄到	c=1 d=0.00782838 t=17022
 ji de 	記得	c=1 d=3.28932e-008 t=17022
 ji di 	極低	c=0 d=0.00342181 t=17022
 ji di de 	極低的	c=1 d=0.0343896 t=17022
-ji hang 	幾行	c=1 d=1 t=16187
+ji hang 	幾行	c=1 d=0.0153752 t=17022
 ji he 	幾盒	c=1 d=0.0261214 t=17022
 ji he 	集合	c=1 d=0.400159 t=17022
 ji hu 	幾乎	c=2 d=0.0262523 t=17022
 ji hua 	計劃	c=11 d=0.0739031 t=17022
 ji hui 	寄回	c=4 d=0.189828 t=17022
-ji hui 	機會	c=1 d=1 t=14559
+ji hui 	機會	c=1 d=4.48398e-006 t=17022
 ji jian 	肌腱	c=2 d=0.319291 t=17022
 ji jin 	基金	c=7 d=0.794534 t=17022
 ji ke 	即可	c=6 d=0.11814 t=17022
 ji li 	機理	c=1 d=3.62588e-007 t=17022
-ji li 	激勵	c=1 d=1 t=15849
+ji li 	激勵	c=1 d=0.00283702 t=17022
 ji lu 	記錄	c=7 d=0.874273 t=17022
 ji mo 	寂寞	c=1 d=0.000382034 t=17022
 ji neng 	機能	c=3 d=0.572231 t=17022
@@ -1428,7 +1504,7 @@ ji piao 	機票	c=7 d=0.709198 t=17022
 ji qi 	及其	c=7 d=0.0218193 t=17022
 ji qi 	機器	c=10 d=1.03632 t=17022
 ji qi ren 	機器人	c=1 d=0.000633025 t=17022
-ji qun 	集羣	c=2 d=0.00534902 t=17022
+ji qun 	集羣	c=2 d=0.011038 t=17022
 ji shang 	機上	c=0 d=0.013332 t=17022
 ji shi 	及時	c=3 d=2.8637e-006 t=17022
 ji shi 	計時	c=1 d=0.394554 t=17022
@@ -1442,7 +1518,7 @@ ji tian 	幾天	c=6 d=0.51462 t=17022
 ji tuan 	集團	c=23 d=0.843665 t=17022
 ji tuan qi ye 	集團企業	c=1 d=0.00615802 t=17022
 ji xia lai 	記下來	c=1 d=2.56172e-008 t=17022
-ji xie 	機械	c=6 d=0.790571 t=17022
+ji xie 	機械	c=6 d=1.81421 t=17022
 ji xie gong cheng 	機械工程	c=1 d=0.437191 t=17022
 ji xie gong cheng xue yuan 	機械工程學院	c=1 d=0.38868 t=17022
 ji xu 	急需	c=1 d=0.00410726 t=17022
@@ -1452,7 +1528,7 @@ ji yu 	機遇	c=2 d=0.0523665 t=17022
 ji yu bo yi lun de zhi zao fu wu xi tong dong tai yan hua 	機遇博弈論的製造服務系統動態演化	c=1 d=0.0675424 t=17022
 ji zhi 	機制	c=7 d=0.403265 t=17022
 ji zhong 	幾種	c=1 d=0.798516 t=17022
-ji zhong 	集中	c=1 d=0.0464212 t=17022
+ji zhong 	集中	c=1 d=0.704688 t=17022
 ji zhong jing li 	集中精力	c=1 d=0.0254765 t=17022
 jia 	價	c=1 d=0.00673795 t=17022
 jia 	加	c=3 d=0.463013 t=17022
@@ -1468,67 +1544,82 @@ jia lian wu mei 	價廉物美	c=1 d=0.167797 t=17022
 jia meng 	加盟	c=7 d=0.000582847 t=17022
 jia mu 	價目	c=1 d=0.379083 t=17022
 jia mu biao 	價目表	c=1 d=0.349938 t=17022
+jia na da 	加拿大	c=1 d=1 t=20153
 jia quan 	加權	c=3 d=1.32039e-005 t=17022
 jia ren 	家人	c=1 d=0.0337811 t=17022
-jia ru 	加入	c=2 d=1.30065 t=17022
+jia ru 	加入	c=3 d=1.30065 t=17022
 jia ru le 	加入了	c=1 d=0.594521 t=17022
-jia she 	假設	c=5 d=0.000519527 t=17022
+jia shang qu 	加上去	c=1 d=1 t=33
+jia she 	假設	c=7 d=0.00645958 t=17022
+jia tui 	假腿	c=1 d=1 t=18444
 jia xu 	賈詡	c=1 d=0.0645703 t=17022
+jia you 	加油	c=2 d=1.9802 t=722
 jia yuan 	家園	c=1 d=0.0518189 t=17022
-jia zai 	加載	c=3 d=1.40894 t=16735
+jia zai 	加載	c=4 d=1.02113 t=17022
 jia zhi 	價值	c=4 d=0.154119 t=17022
 jian 	件	c=2 d=0.67368 t=17022
 jian 	尖	c=1 d=0.0184997 t=17022
-jian 	間	c=12 d=0.0977903 t=17022
+jian 	見	c=1 d=1 t=19253
+jian 	間	c=14 d=0.0977903 t=17022
+jian bing 	煎餅	c=1 d=1 t=18245
 jian ce 	監測	c=2 d=0.0209244 t=17022
-jian cha 	檢查	c=2 d=0.704752 t=17022
-jian dan 	簡單	c=4 d=0.657704 t=17022
+jian cha 	檢查	c=7 d=1.01454 t=17022
+jian dan 	簡單	c=6 d=0.657704 t=17022
 jian guan 	監管	c=1 d=1.18591e-006 t=17022
+jian guo 	見過	c=1 d=1 t=17785
 jian hang 	建行	c=1 d=0.826959 t=17022
-jian jie 	簡介	c=1 d=1 t=14845
-jian jie 	簡潔	c=2 d=0.00317996 t=17022
+jian hua 	簡化	c=1 d=1 t=18022
+jian jie 	簡介	c=2 d=1 t=17022
+jian jie 	簡潔	c=3 d=1.00001 t=17022
 jian jie 	見解	c=1 d=0.000520875 t=17022
-jian kong 	監控	c=11 d=0.00657602 t=17022
-jian li 	建立	c=11 d=0.077593 t=17022
+jian kong 	監控	c=18 d=1.76936 t=17022
+jian li 	建立	c=16 d=0.077593 t=17022
 jian li 	簡歷	c=3 d=0.406364 t=17022
 jian lve 	簡略	c=1 d=0.494109 t=17022
-jian mian 	見面	c=1 d=0.0120342 t=17022
-jian mo 	建模	c=20 d=1.76106 t=17022
+jian mian 	見面	c=2 d=0.0479258 t=17022
+jian mo 	建模	c=27 d=1.76106 t=17022
 jian pan 	鍵盤	c=4 d=0.606531 t=17022
 jian rong 	兼容	c=3 d=0.923116 t=17022
-jian shao 	減少	c=2 d=2.31196e-007 t=17022
-jian shi 	監視	c=4 d=0.252906 t=17022
-jian yan 	檢驗	c=4 d=0.320027 t=17022
-jian zhi 	簡直	c=1 d=0.000553084 t=17022
-jian zhu 	建築	c=1 d=0.000464291 t=17022
-jiang 	將	c=21 d=1.72848 t=17022
+jian shao 	減少	c=4 d=1.29777 t=17022
+jian shi 	監視	c=5 d=1 t=17022
+jian xiu 	檢修	c=1 d=1 t=18988
+jian yan 	檢驗	c=6 d=1.99501 t=17022
+jian zhi 	簡直	c=2 d=0.271322 t=17022
+jian zhu 	建築	c=2 d=0.364387 t=17022
+jiang 	將	c=35 d=1.72848 t=17022
 jiang 	江	c=1 d=0.467666 t=17022
 jiang 	講	c=1 d=0.000953854 t=17022
 jiang cun 	江村	c=1 d=2.04703e-005 t=17022
 jiang cun jing ji 	江村經濟	c=2 d=1.97622e-005 t=17022
 jiang di 	降低	c=4 d=0.00612731 t=17022
 jiang hu 	江湖	c=1 d=5.78739e-008 t=17022
+jiang hua 	講話	c=1 d=1 t=19135
+jiang hui 	將會	c=2 d=1.08046 t=17597
 jiang ji 	降級	c=1 d=0.416862 t=17022
 jiang jing guo 	蔣經國	c=1 d=0.690734 t=17022
 jiang lang shan 	江郎山	c=1 d=0.364219 t=17022
 jiang ning qu 	江寧區	c=1 d=0.0655462 t=17022
-jiang qi 	將其	c=3 d=2.86083e-005 t=17022
-jiang yao 	將要	c=3 d=2.18672 t=16878
+jiang qi 	將其	c=4 d=1.00001 t=17022
+jiang yao 	將要	c=4 d=1.56125 t=17022
 jiang yu 	將於	c=1 d=0.318224 t=17022
-jiang zai 	將在	c=1 d=1 t=16922
+jiang zai 	將在	c=1 d=1 t=17022
 jiao 	交	c=2 d=5.39851e-005 t=17022
+jiao 	叫	c=2 d=1.99501 t=695
 jiao 	嚼	c=3 d=0.0132336 t=17022
-jiao cai 	教材	c=1 d=1 t=15519
-jiao che 	叫車	c=1 d=1 t=15188
+jiao 	絞	c=5 d=4.3067 t=591
+jiao ben 	腳本	c=2 d=1.92774 t=1225
+jiao bu gan 	絞不幹	c=1 d=1 t=466
+jiao cai 	教材	c=1 d=1 t=17022
+jiao che 	叫車	c=1 d=1 t=17022
 jiao cheng 	教程	c=6 d=0.786491 t=17022
 jiao da 	交大	c=1 d=0.00047367 t=17022
-jiao du 	角度	c=5 d=0.0907503 t=17022
+jiao du 	角度	c=9 d=1.53901 t=17022
 jiao duo 	較多	c=1 d=0.0113334 t=17022
 jiao fu 	交付	c=7 d=5.70837e-005 t=17022
 jiao gei 	交給	c=2 d=0.014283 t=17022
 jiao hao 	較好	c=2 d=0.00051312 t=17022
-jiao hu 	交互	c=3 d=1.74324 t=15873
-jiao hu shi 	交互式	c=1 d=1 t=16459
+jiao hu 	交互	c=3 d=0.00557616 t=17022
+jiao hu shi 	交互式	c=1 d=0.0599047 t=17022
 jiao huan ji 	交換機	c=3 d=2.32419e-005 t=17022
 jiao huan qi 	交換器	c=1 d=0.00346515 t=17022
 jiao huo 	交貨	c=1 d=3.44013e-006 t=17022
@@ -1543,7 +1634,7 @@ jiao yu wang 	教育網	c=1 d=0.00470091 t=17022
 jiao zuo 	叫做	c=2 d=0.0578675 t=17022
 jie 	姐	c=1 d=0.207231 t=17022
 jie 	節	c=1 d=0.000662162 t=17022
-jie 	藉	c=1 d=1 t=15638
+jie 	藉	c=1 d=0.00098783 t=17022
 jie 	解	c=4 d=0.0360792 t=17022
 jie 	階	c=2 d=0.0665554 t=17022
 jie chu 	解除	c=1 d=0.107528 t=17022
@@ -1567,7 +1658,7 @@ jie mo yan 	結膜炎	c=1 d=0.14808 t=17022
 jie ru 	接入	c=6 d=0.336089 t=17022
 jie shao 	介紹	c=5 d=0.657846 t=17022
 jie shi 	解釋	c=1 d=0.360595 t=17022
-jie shou 	接受	c=1 d=1 t=15844
+jie shou 	接受	c=1 d=0.00276698 t=17022
 jie shou 	接收	c=5 d=0.301194 t=17022
 jie ting 	接聽	c=1 d=0.273898 t=17022
 jie xia lai 	接下來	c=2 d=0.0332068 t=17022
@@ -1576,19 +1667,19 @@ jie zhu 	藉助	c=1 d=7.45039e-009 t=17022
 jin 	近	c=1 d=0.000291637 t=17022
 jin 	進	c=3 d=0.0102037 t=17022
 jin 	金	c=4 d=0.722527 t=17022
-jin 	錦	c=1 d=1 t=14547
+jin 	錦	c=1 d=4.22285e-006 t=17022
 jin cheng 	進程	c=2 d=5.69132e-005 t=17022
 jin du 	進度	c=13 d=0.891839 t=17022
 jin hua 	進化	c=5 d=0.180866 t=17022
 jin jin 	僅僅	c=4 d=0.0393352 t=17022
 jin nian 	今年	c=3 d=0.763379 t=17022
 jin qi 	近期	c=2 d=0.167797 t=17022
-jin qu 	進去	c=2 d=1.00001 t=16993
+jin qu 	進去	c=2 d=0.865031 t=17022
 jin ru 	進入	c=1 d=9.42085e-005 t=17022
 jin se 	金色	c=1 d=0.245367 t=17022
 jin shan 	金山	c=1 d=0.242926 t=17022
 jin shi dun 	金士頓	c=2 d=1.58206e-005 t=17022
-jin tian 	今天	c=1 d=1 t=14605
+jin tian 	今天	c=1 d=5.64353e-006 t=17022
 jin tian neng 	今天能	c=1 d=0.0611149 t=17022
 jin tian yi 	金田一	c=1 d=0.00396599 t=17022
 jin tou 	盡頭	c=1 d=0.00151098 t=17022
@@ -1603,11 +1694,11 @@ jing chang 	經常	c=2 d=0.56836 t=17022
 jing dian 	經典	c=5 d=0.000195941 t=17022
 jing du 	精度	c=1 d=2.56129e-006 t=17022
 jing fei 	經費	c=4 d=0.000729832 t=17022
-jing guo 	經過	c=1 d=1 t=15176
+jing guo 	經過	c=1 d=9.80532e-005 t=17022
 jing ji 	經濟	c=2 d=0.193013 t=17022
-jing qu 	景區	c=1 d=1 t=14735
+jing qu 	景區	c=1 d=1.08104e-005 t=17022
 jing que 	精確	c=2 d=1.93078e-005 t=17022
-jing ran 	竟然	c=1 d=1 t=16356
+jing ran 	竟然	c=1 d=0.0357931 t=17022
 jing tai 	靜態	c=1 d=3.62526e-005 t=17022
 jing tong 	精通	c=0 d=3.25548e-005 t=17022
 jing wai 	境外	c=1 d=0.000257369 t=17022
@@ -1616,12 +1707,12 @@ jing zhang 	警長	c=1 d=2.40631e-007 t=17022
 jing zheng 	競爭	c=7 d=0.0349564 t=17022
 jing zheng li 	競爭力	c=1 d=0.00181803 t=17022
 jing zhun 	精準	c=1 d=9.3062e-008 t=17022
-jiu 	久	c=1 d=1 t=14661
+jiu 	久	c=1 d=7.46713e-006 t=17022
 jiu 	九	c=4 d=0.239309 t=17022
 jiu 	就	c=29 d=1.05628 t=17022
-jiu 	救	c=1 d=1 t=14349
+jiu 	救	c=1 d=1.56911e-006 t=17022
 jiu 	究	c=1 d=1.6371e-005 t=17022
-jiu 	舊	c=1 d=1 t=15902
+jiu 	舊	c=1 d=0.00369786 t=17022
 jiu duan 	九段	c=1 d=0.458406 t=17022
 jiu fen 	九份	c=1 d=2.06045e-005 t=17022
 jiu guo 	救國	c=2 d=0.983301 t=17022
@@ -1634,10 +1725,10 @@ jiu wo suo jian 	就我所見	c=1 d=0.000441647 t=17022
 jiu yao 	就要	c=1 d=0.000107825 t=17022
 jiu you 	就有	c=2 d=0.00019908 t=17022
 jiu yuan 	救援	c=5 d=5.86494e-005 t=17022
-jiu zai 	就在	c=1 d=1 t=16860
+jiu zai 	就在	c=1 d=0.444858 t=17022
 ju 	具	c=2 d=0.0156076 t=17022
 ju 	劇	c=1 d=0.00102302 t=17022
-ju 	句	c=1 d=1 t=15552
+ju 	句	c=1 d=0.000642592 t=17022
 ju 	據	c=1 d=0.000731802 t=17022
 ju ban 	舉辦	c=1 d=8.74013e-005 t=17022
 ju bu 	局部	c=0 d=0.00134335 t=17022
@@ -1645,10 +1736,11 @@ ju bu fang da 	局部放大	c=1 d=0.0135009 t=17022
 ju chang 	劇場	c=1 d=0.142987 t=17022
 ju he 	聚合	c=3 d=0.0325493 t=17022
 ju ji 	聚集	c=1 d=0.0461896 t=17022
-ju jue 	拒絕	c=1 d=1 t=15320
+ju jue 	拒絕	c=1 d=0.000201444 t=17022
 ju lei 	聚類	c=2 d=0.0617291 t=17022
 ju li 	舉例	c=1 d=0.0528657 t=17022
 ju li 	距離	c=6 d=0.0561348 t=17022
+ju qing 	劇情	c=1 d=1 t=1396
 ju ti 	具體	c=6 d=0.0133047 t=17022
 ju you 	具有	c=4 d=0.000488095 t=17022
 ju you 	聚有	c=0 d=0.0013912 t=17022
@@ -1665,7 +1757,8 @@ jue de ba 	覺得吧	c=1 d=0.140858 t=17022
 jue ding 	決定	c=1 d=0.000162473 t=17022
 jue se 	角色	c=1 d=0.00140882 t=17022
 jue shi 	爵士	c=2 d=0.0112279 t=17022
-jun heng 	均衡	c=1 d=1 t=15751
+jue wu 	覺悟	c=1 d=1 t=1387
+jun heng 	均衡	c=1 d=0.00173804 t=17022
 jun zhi 	均值	c=2 d=0.000277153 t=17022
 ka 	卡	c=8 d=0.682855 t=17022
 ka fa 	卡發	c=1 d=1.58515e-008 t=17022
@@ -1674,19 +1767,19 @@ ka fei 	咖啡	c=2 d=0.000685748 t=17022
 ka li 	卡里	c=0 d=0.00428521 t=17022
 ka li bu 	卡里布	c=1 d=0.0430669 t=17022
 ka shua 	卡刷	c=1 d=0.336216 t=17022
-ka zhu 	卡住	c=1 d=1 t=15975
+ka zhu 	卡住	c=1 d=0.00532682 t=17022
 ka zu di 	卡祖笛	c=1 d=0.000773179 t=17022
 kai 	愷	c=29 d=3.64027 t=17022
 kai 	開	c=17 d=1.20399 t=17022
-kai che 	開車	c=1 d=1 t=14652
+kai che 	開車	c=1 d=7.13856e-006 t=17022
 kai fa 	開發	c=10 d=0.191166 t=17022
 kai fa piao 	開發票	c=1 d=0.00506703 t=17022
 kai fang 	開放	c=2 d=0.0149208 t=17022
 kai gong 	開工	c=1 d=0.0124629 t=17022
 kai ju 	開具	c=5 d=0.0258031 t=17022
 kai lai 	開來	c=1 d=0.000263884 t=17022
-kai neng 	開能	c=1 d=1 t=16155
-kai sa 	凱撒	c=1 d=1 t=16061
+kai neng 	開能	c=1 d=0.0131019 t=17022
+kai sa 	凱撒	c=1 d=0.0081887 t=17022
 kai shi 	開始	c=8 d=0.486968 t=17022
 kai shu 	楷書	c=1 d=0.0507928 t=17022
 kai ti 	楷體	c=1 d=0.579842 t=17022
@@ -1696,14 +1789,14 @@ kai yuan 	開源	c=3 d=0.00759724 t=17022
 kai zhan 	開展	c=2 d=0.715338 t=17022
 kan 	看	c=31 d=2.29742 t=17022
 kan chu 	看出	c=4 d=0.226502 t=17022
-kan dai 	看待	c=1 d=1 t=14208
+kan dai 	看待	c=1 d=7.75312e-007 t=17022
 kan dao 	看到	c=7 d=0.540282 t=17022
 kan de 	看得	c=1 d=0.900325 t=17022
 kan fa 	看法	c=1 d=0.00042433 t=17022
 kan guo 	看過	c=1 d=0.00860854 t=17022
 kan hao 	看好	c=1 d=0.00543443 t=17022
 kan kan 	看看	c=14 d=1.93789 t=17022
-kan lai 	看來	c=1 d=0.264477 t=17022
+kan lai 	看來	c=1 d=0.511709 t=17022
 kan shang qu 	看上去	c=1 d=3.6718e-008 t=17022
 kan shu 	看書	c=1 d=0.00128757 t=17022
 kan wan 	看完	c=1 d=0.0930145 t=17022
@@ -1713,7 +1806,7 @@ kan yi bian 	看一遍	c=1 d=0.307279 t=17022
 kan yi xia 	看一下	c=5 d=0.0471981 t=17022
 kan zhong 	看中	c=0 d=0.00266491 t=17022
 kan zuo 	看作	c=1 d=0.0699482 t=17022
-kang 	康	c=5 d=4.50632 t=14804
+kang 	康	c=5 d=6.87854e-005 t=17022
 kang 	抗	c=1 d=0.203926 t=17022
 kao bei 	拷貝	c=1 d=0.00900478 t=17022
 kao lv 	考慮	c=11 d=0.46081 t=17022
@@ -1734,12 +1827,13 @@ ke jian rong 	可兼容	c=1 d=7.13856e-006 t=17022
 ke kao 	可靠	c=1 d=1.31743e-008 t=17022
 ke le 	可樂	c=1 d=0.00396599 t=17022
 ke long 	克隆	c=1 d=0.000186888 t=17022
-ke lu ji 	刻錄機	c=2 d=9.59211e-008 t=17022
-ke nan 	柯南	c=1 d=1 t=14206
+ke lu ji 	刻錄機	c=3 d=2.55222 t=17022
+ke nan 	柯南	c=1 d=7.67598e-007 t=17022
 ke neng 	可能	c=8 d=0.461931 t=17022
 ke pu 	科普	c=1 d=0.0958472 t=17022
 ke shi 	可是	c=2 d=0.128093 t=17022
 ke shi hua 	可視化	c=5 d=8.87338e-006 t=17022
+ke shu 	可數	c=1 d=1 t=1365
 ke ti 	課題	c=10 d=0.0632918 t=17022
 ke ti zu 	課題組	c=3 d=0.822835 t=17022
 ke wang 	渴望	c=1 d=6.90969e-005 t=17022
@@ -1748,15 +1842,15 @@ ke xing xing 	可行性	c=2 d=1.29781e-008 t=17022
 ke xuan 	可選	c=1 d=0.00869506 t=17022
 ke xue 	科學	c=5 d=0.062662 t=17022
 ke yan 	科研	c=7 d=0.000495472 t=17022
-ke yi 	刻意	c=1 d=1 t=16387
+ke yi 	刻意	c=1 d=0.0417941 t=17022
 ke yi 	可以	c=70 d=1.83527 t=17022
 ke yong 	可用	c=1 d=1.53804e-006 t=17022
 ke yu shi jian 	課餘時間	c=1 d=0.0309618 t=17022
-ke zhan 	客棧	c=1 d=1 t=14824
+ke zhan 	客棧	c=1 d=1.68696e-005 t=17022
 ke zhuang 	可裝	c=1 d=6.15907e-005 t=17022
-ke zi 	刻字	c=1 d=1 t=15312
+ke zi 	刻字	c=1 d=0.440432 t=17022
 kong 	孔	c=3 d=0.00459351 t=17022
-kong 	空	c=1 d=1 t=16707
+kong 	空	c=1 d=0.207008 t=17022
 kong bu 	恐怖	c=1 d=5.47768e-008 t=17022
 kong ge 	空格	c=3 d=0.000192334 t=17022
 kong jian 	空間	c=4 d=1.13076e-005 t=17022
@@ -1774,17 +1868,17 @@ kou zhao 	口罩	c=1 d=0.000157671 t=17022
 ku 	庫	c=4 d=0.194952 t=17022
 ku 	褲	c=2 d=0.0124097 t=17022
 ku 	酷	c=1 d=0.00367942 t=17022
-ku cun 	庫存	c=1 d=1 t=14058
+ku cun 	庫存	c=1 d=3.66232e-007 t=17022
 ku qi 	哭泣	c=1 d=0.00135358 t=17022
 ku xuan 	酷炫	c=2 d=0.0383884 t=17022
 ku zi 	褲子	c=4 d=0.628135 t=17022
 kua 	跨	c=1 d=1.03116e-008 t=17022
 kuai 	塊	c=1 d=0.118837 t=17022
-kuai 	快	c=1 d=0.000744658 t=17022
+kuai 	快	c=2 d=1 t=17022
 kuai di 	快遞	c=6 d=2.84288 t=17022
 kuai jian 	快件	c=1 d=0.923116 t=17022
-kuai jie 	快捷	c=1 d=1 t=14109
-kuai jie jian 	快捷鍵	c=3 d=2.01772 t=16153
+kuai jie 	快捷	c=1 d=1 t=17022
+kuai jie jian 	快捷鍵	c=3 d=2.01772 t=17022
 kuai le 	快樂	c=1 d=0.0330412 t=17022
 kuai su 	快速	c=1 d=0.000871757 t=17022
 kuan 	寬	c=1 d=7.88932e-006 t=17022
@@ -1793,27 +1887,30 @@ kuan ban 	款版	c=1 d=7.84998e-006 t=17022
 kuan du 	寬度	c=2 d=0.00790705 t=17022
 kuan song 	寬鬆	c=2 d=0.0923899 t=17022
 kuang 	框	c=1 d=0.12307 t=17022
-kuang jia 	框架	c=13 d=0.00253229 t=17022
+kuang jia 	框架	c=26 d=1.28961 t=17022
 kui lei shi 	傀儡師	c=1 d=0.00400585 t=17022
 kun 	坤	c=1 d=0.0218184 t=17022
-kun 	錕	c=1 d=1 t=16057
-kun nan 	困難	c=1 d=0.0614212 t=17022
+kun 	昆	c=1 d=1 t=889
+kun 	錕	c=1 d=1 t=17022
+kun huo 	困惑	c=2 d=1.9802 t=17800
+kun nan 	困難	c=2 d=1.00074 t=17022
 kuo zhan 	擴展	c=2 d=0.19398 t=17022
 la 	啦	c=3 d=0.317635 t=17022
-la 	拉	c=2 d=0.0206508 t=17022
+la 	拉	c=4 d=0.0206508 t=17022
 la bi 	蠟筆	c=0 d=9.78001e-005 t=17022
 la bi xiao qiu 	蠟筆小球	c=1 d=0.000982903 t=17022
 la ji 	垃圾	c=1 d=0.481909 t=17022
 la la 	啦啦	c=3 d=0.801412 t=17022
 la la 	拉拉	c=1 d=0.264477 t=17022
 la ma 	喇嘛	c=1 d=0.000761668 t=17022
+la mei 	辣妹	c=3 d=1.78295 t=1370
 la shang 	拉傷	c=1 d=0.160414 t=17022
-la te 	拉特	c=1 d=0.00308872 t=17022
-lai 	來	c=28 d=0.908463 t=17022
+la te 	拉特	c=2 d=1 t=17022
+lai 	來	c=36 d=0.908463 t=17022
 lai 	萊	c=4 d=0.130029 t=17022
 lai de 	來的	c=1 d=0.000761668 t=17022
 lai kan 	來看	c=1 d=1.00553e-006 t=17022
-lai li 	賴裏	c=1 d=1 t=15172
+lai li 	賴裏	c=1 d=1 t=17022
 lai shuo 	來說	c=9 d=0.0599047 t=17022
 lai yuan 	來源	c=2 d=0.000220415 t=17022
 lai zi 	來自	c=2 d=0.32372 t=17022
@@ -1821,70 +1918,77 @@ lan 	懶	c=1 d=0.00132016 t=17022
 lan 	欄	c=2 d=0.136014 t=17022
 lan hei 	藍黑	c=1 d=0.00433948 t=17022
 lan mu 	欄目	c=1 d=0.075774 t=17022
-lan se 	藍色	c=1 d=0.0539337 t=17022
+lan se 	藍色	c=3 d=1.13217 t=17022
 lang 	廊	c=1 d=0.0241131 t=17022
 lang 	浪	c=1 d=0.00022941 t=17022
-lao 	老	c=6 d=0.794534 t=17022
-lao ban 	老闆	c=15 d=0.520496 t=17022
+lang man 	浪漫	c=1 d=1 t=865
+lao 	老	c=8 d=1.34646 t=17022
+lao ban 	老闆	c=16 d=1 t=17022
 lao ban hao 	老闆好	c=1 d=0.0515605 t=17022
 lao ban zai 	老闆在	c=2 d=0.540641 t=17022
 lao fang 	老方	c=1 d=0.000139144 t=17022
 lao guai 	老怪	c=1 d=0.0149208 t=17022
 lao jia 	老家	c=1 d=0.00571306 t=17022
-lao nian ren 	老年人	c=1 d=1 t=14553
-lao niu 	老牛	c=2 d=1.0488 t=14552
+lao lian 	老練	c=1 d=1 t=787
+lao ma 	老媽	c=1 d=1 t=579
+lao nian ren 	老年人	c=1 d=1 t=17022
+lao niu 	老牛	c=2 d=1.0488 t=17022
 lao po 	老婆	c=1 d=0.00152616 t=17022
-lao shi 	老師	c=10 d=1.22088 t=17022
-lao you ji 	老友記	c=2 d=1.98511 t=15128
-le 	了	c=186 d=3.97058 t=17022
+lao shi 	老師	c=13 d=1.22088 t=17022
+lao you ji 	老友記	c=2 d=1.98511 t=17022
+le 	了	c=232 d=3.97058 t=17022
 le 	樂	c=1 d=0.00408677 t=17022
 le ma 	了嗎	c=0 d=0.00902655 t=17022
-le tian 	樂天	c=1 d=1 t=15319
+le tian 	樂天	c=1 d=1 t=17022
+lei 	雷	c=1 d=1 t=18235
 lei 	類	c=5 d=5.97035e-005 t=17022
 lei bi 	類比	c=1 d=0.00647375 t=17022
 lei bie 	類別	c=1 d=0.501576 t=17022
 lei na 	雷娜	c=1 d=0.211189 t=17022
-lei si 	類似	c=7 d=0.247833 t=17022
-lei si yu 	類似於	c=1 d=1 t=16603
+lei si 	類似	c=8 d=1.00975 t=17022
+lei si yu 	類似於	c=4 d=2.42926 t=17022
 lei xing 	類型	c=9 d=1.69977 t=17022
 leng 	冷	c=1 d=0.00557201 t=17022
 leng 	楞	c=1 d=0.000784864 t=17022
 leng men 	冷門	c=2 d=0.0397816 t=17022
-li 	力	c=1 d=0.256661 t=17022
-li 	李	c=9 d=2.48394 t=17022
+li 	力	c=2 d=1 t=17022
+li 	李	c=15 d=2.48394 t=17022
 li 	歷	c=3 d=0.240508 t=17022
 li 	理	c=1 d=0.0804596 t=17022
 li 	立	c=5 d=0.0819587 t=17022
-li 	裏	c=22 d=0.981413 t=17022
-li 	離	c=2 d=1.00726 t=15116
+li 	裏	c=28 d=0.981413 t=17022
+li 	離	c=2 d=1.00726 t=17022
 li ao 	李敖	c=1 d=0.00806679 t=17022
-li bi 	利弊	c=1 d=1 t=14456
+li bi 	利弊	c=1 d=1 t=17022
+li bo bo 	李伯伯	c=1 d=1 t=19916
 li cha de 	理查德	c=1 d=0.00115923 t=17022
 li dian chi 	鋰電池	c=1 d=0.00339653 t=17022
 li du 	粒度	c=2 d=0.434156 t=17022
-li gong 	理工	c=1 d=1 t=14355
+li gong 	理工	c=1 d=1 t=17022
 li hai 	厲害	c=3 d=0.477114 t=17022
 li jie 	理解	c=1 d=0.267135 t=17022
 li kai 	離開	c=2 d=0.413075 t=17022
 li lang 	利朗	c=2 d=0.0998236 t=17022
-li lun 	理論	c=12 d=0.862591 t=17022
+li lun 	理論	c=14 d=1.71766 t=17022
 li lv 	利率	c=1 d=0.839457 t=17022
-li mian 	裏面	c=7 d=0.615716 t=17022
+li mian 	裏面	c=13 d=0.615716 t=17022
 li pin 	禮品	c=2 d=0.0106202 t=17022
 li qi 	利器	c=1 d=0.000395642 t=17022
 li qing 	釐清	c=1 d=0.00273944 t=17022
-li ru 	例如	c=1 d=8.37717e-006 t=17022
+li ru 	例如	c=5 d=1.00184 t=17022
 li shi 	歷史	c=10 d=0.00346406 t=17022
 li shi shu 	歷史書	c=1 d=0.000567086 t=17022
 li wu 	禮物	c=2 d=0.00540733 t=17022
 li xi 	利息	c=2 d=0.822835 t=17022
 li xian 	離線	c=1 d=0.000461975 t=17022
+li xiang lan 	李香蘭	c=2 d=1.97531 t=18395
 li yi 	利益	c=2 d=0.084163 t=17022
-li yong 	利用	c=6 d=0.0889216 t=17022
+li yong 	利用	c=8 d=0.654527 t=17022
 li zheng dao 	李政道	c=1 d=0.000587285 t=17022
 li zi 	例子	c=1 d=0.000605171 t=17022
-lian 	連	c=1 d=2.72013e-008 t=17022
-lian 	鏈	c=10 d=0.0081141 t=17022
+lian 	臉	c=1 d=1 t=19298
+lian 	連	c=3 d=0.330353 t=17022
+lian 	鏈	c=10 d=0.1 t=17022
 lian he 	聯合	c=1 d=0.481909 t=17022
 lian hua 	蓮花	c=1 d=0.247833 t=17022
 lian jie 	連接	c=5 d=1.04744 t=17022
@@ -1897,12 +2001,14 @@ lian xi 	聯繫	c=3 d=0.718974 t=17022
 lian xi wo 	聯繫我	c=1 d=0.062662 t=17022
 lian xiang 	聯想	c=2 d=0.371115 t=17022
 lian xu 	連續	c=2 d=0.00733572 t=17022
+liang 	亮	c=1 d=1 t=1120
 liang 	兩	c=1 d=0.0185924 t=17022
 liang 	良	c=19 d=0.979936 t=17022
-liang 	量	c=2 d=0.0101529 t=17022
+liang 	量	c=3 d=0.0101529 t=17022
 liang an 	兩岸	c=2 d=0.00474194 t=17022
 liang bu fen 	兩部分	c=2 d=0.0365162 t=17022
 liang chen 	良辰	c=0 d=0.0927743 t=17022
+liang du 	亮度	c=1 d=1 t=1317
 liang fang mian 	兩方面	c=2 d=0.0208095 t=17022
 liang ge 	兩個	c=4 d=0.601432 t=17022
 liang hao 	良好	c=2 d=0.020141 t=17022
@@ -1911,50 +2017,58 @@ liang lei 	兩類	c=1 d=0.591555 t=17022
 liang qi 	量器	c=1 d=0.000156885 t=17022
 liang san ci 	兩三次	c=1 d=0.0266491 t=17022
 liang xiang 	兩項	c=1 d=0.0028799 t=17022
-liang xing 	良性	c=2 d=1.44486 t=14582
+liang xing 	良性	c=2 d=1.44486 t=17022
 liang zhe 	兩者	c=1 d=4.79669e-005 t=17022
+liang zhong 	兩種	c=1 d=1 t=17227
 liang zi 	量子	c=1 d=0.690734 t=17022
+liang zi ji suan ji 	量子計算機	c=1 d=1 t=18901
 liao jie 	瞭解	c=5 d=0.0335056 t=17022
 liao liao tian 	聊聊天	c=1 d=0.000262568 t=17022
 liao tian 	聊天	c=3 d=0.86991 t=17022
-lie 	列	c=2 d=0.113608 t=17022
-lie biao 	列表	c=6 d=0.00625109 t=17022
+lie 	列	c=3 d=1 t=17022
+lie 	獵	c=1 d=1 t=896
+lie biao 	列表	c=8 d=1.83111 t=17022
+lie chu 	列出	c=1 d=1 t=19577
 lie ming 	列明	c=2 d=0.01346 t=17022
-lie ri 	烈日	c=3 d=2.9361 t=15392
-lin 	林	c=2 d=0.171187 t=17022
-lin 	琳	c=0 d=0.1 t=14667
+lie ri 	烈日	c=3 d=2.9361 t=17022
+lin 	林	c=3 d=1.00038 t=17022
+lin 	琳	c=0 d=0.1 t=17022
 lin 	麟	c=1 d=0.0383884 t=17022
 lin jie 	臨界	c=1 d=0.118245 t=17022
 lin ju 	鄰居	c=1 d=5.4626e-005 t=17022
 lin shi 	臨時	c=3 d=0.0584257 t=17022
 ling 	〇	c=1 d=0.0422141 t=17022
 ling 	另	c=1 d=0.170333 t=17022
-ling 	嶺	c=1 d=1 t=14630
+ling 	嶺	c=1 d=1 t=17022
 ling 	玲	c=1 d=2.47917e-005 t=17022
 ling 	領	c=2 d=0.0301974 t=17022
 ling 	齡	c=1 d=2.45451e-005 t=17022
 ling ge si 	靈格斯	c=2 d=1.1966 t=17022
 ling huo xing 	靈活性	c=1 d=2.36477e-008 t=17022
+ling mu 	鈴木	c=1 d=1 t=862
 ling mu 	陵墓	c=2 d=1.54403 t=17022
 ling ren 	伶人	c=1 d=0.0387742 t=17022
-ling shan 	靈山	c=1 d=1 t=14666
+ling shan 	靈山	c=1 d=1 t=17022
 ling wai 	另外	c=3 d=0.023751 t=17022
 ling yi 	另一	c=0 d=0.0251579 t=17022
 ling yi fang mian 	另一方面	c=1 d=0.0468877 t=17022
 ling yi ge 	另一個	c=2 d=0.028297 t=17022
+ling yi kuan 	另一款	c=1 d=1 t=649
 ling yi zhang 	另一張	c=1 d=0.25284 t=17022
-ling yu 	領域	c=8 d=0.00255079 t=17022
+ling yi zhong 	另一種	c=1 d=1 t=682
+ling yu 	領域	c=9 d=1 t=17022
 linux 	Linux	c=1 d=0.755784 t=17022
 liu 	劉	c=4 d=0.183238 t=17022
-liu 	流	c=12 d=0.0188387 t=17022
+liu 	流	c=16 d=2.19502 t=17022
 liu 	溜	c=1 d=1.78725e-008 t=17022
 liu 	留	c=2 d=0.114401 t=17022
 liu cheng 	流程	c=24 d=0.825806 t=17022
 liu cheng tu 	流程圖	c=2 d=0.883672 t=17022
 liu chuan 	流傳	c=1 d=0.97531 t=17022
-liu lan qi 	瀏覽器	c=3 d=1.25296e-006 t=17022
+liu lan qi 	瀏覽器	c=4 d=1.1852 t=17022
 liu lang 	柳浪	c=1 d=0.000724521 t=17022
 liu lao shi 	劉老師	c=1 d=0.136695 t=17022
+liu lei 	流淚	c=2 d=1.93239 t=833
 liu liang 	流量	c=4 d=0.641948 t=17022
 liu mang 	流氓	c=2 d=0.551563 t=17022
 liu san 	六三	c=0 d=0.00407622 t=17022
@@ -1971,11 +2085,11 @@ lou 	樓	c=2 d=0.0804596 t=17022
 lou 	漏	c=1 d=0.10383 t=17022
 lu 	璐	c=2 d=0.446484 t=17022
 lu 	路	c=8 d=0.249914 t=17022
-lu 	露	c=1 d=5.26289e-008 t=17022
+lu 	露	c=1 d=0.755784 t=17022
 lu 	魯	c=3 d=0.442041 t=17022
 lu jing 	路徑	c=4 d=1.00569 t=17022
 lu xian 	路線	c=6 d=1.14014 t=17022
-lu zhi 	錄製	c=1 d=1 t=16285
+lu zhi 	錄製	c=1 d=0.0250972 t=17022
 luan 	卵	c=1 d=0.000808767 t=17022
 luan ma 	亂碼	c=4 d=1.03913e-005 t=17022
 lun 	倫	c=2 d=0.126186 t=17022
@@ -1986,12 +2100,13 @@ luo 	羅	c=5 d=0.000376591 t=17022
 luo 	落	c=1 d=0.718924 t=17022
 luo ji 	羅技	c=1 d=0.0105672 t=17022
 luo ji 	邏輯	c=5 d=0.00287845 t=17022
-luo ma 	羅馬	c=3 d=2.79391 t=16022
+luo ma 	羅馬	c=3 d=0.0188252 t=17022
 luo nv 	裸女	c=1 d=0.084163 t=17022
 luo quan tui 	羅圈腿	c=1 d=0.0120342 t=17022
-luo shui 	落水	c=1 d=1 t=15395
+luo shui 	落水	c=1 d=0.000293099 t=17022
 luo xia 	落下	c=1 d=0.00744658 t=17022
 lv bu 	呂布	c=2 d=0.12722 t=17022
+lv cheng 	旅程	c=1 d=1 t=1073
 lv fei 	旅費	c=3 d=1.55454 t=17022
 lv guan 	旅館	c=2 d=0.00570278 t=17022
 lv se 	綠色	c=2 d=0.000907334 t=17022
@@ -1999,20 +2114,22 @@ lv xing 	旅行	c=1 d=0.687289 t=17022
 lv you 	旅遊	c=3 d=0.3509 t=17022
 ma 	嗎	c=128 d=4.14223 t=17022
 ma 	嘛	c=2 d=0.394554 t=17022
+ma 	媽	c=2 d=1.01067 t=1366
 ma 	瑪	c=0 d=0.0159614 t=17022
-ma 	碼	c=1 d=1 t=14081
+ma 	碼	c=1 d=4.10865e-007 t=17022
 ma 	馬	c=3 d=0.503632 t=17022
-ma en 	馬恩	c=2 d=1.98511 t=14048
+ma en 	馬恩	c=2 d=6.91553e-007 t=17022
 ma fan 	麻煩	c=1 d=4.59827e-008 t=17022
-ma feng wo 	馬蜂窩	c=1 d=1 t=14672
+ma feng wo 	馬蜂窩	c=1 d=7.88932e-006 t=17022
 ma ke 	馬克	c=0 d=1.29759e-007 t=17022
 ma ke fei 	馬克飛	c=1 d=1.3041e-006 t=17022
 ma ke si 	馬克思	c=1 d=0.0254765 t=17022
 ma ren 	罵人	c=1 d=0.499074 t=17022
-ma yi 	螞蟻	c=1 d=1 t=15637
+ma yi 	螞蟻	c=1 d=0.000982903 t=17022
 mai 	買	c=16 d=0.411132 t=17022
 mai dang lao 	麥當勞	c=1 d=0.697676 t=17022
 mai dao 	買到	c=1 d=0.0510474 t=17022
+mai guo 	買過	c=1 d=1 t=479
 mai hao 	買好	c=0 d=0.00181334 t=17022
 mai hao le 	買好了	c=1 d=0.0182243 t=17022
 mai ke a se 	麥克阿瑟	c=1 d=0.00307331 t=17022
@@ -2020,30 +2137,31 @@ mai li zhong 	麥粒腫	c=1 d=0.0963276 t=17022
 mai zai 	埋在	c=1 d=0.00050296 t=17022
 man 	滿	c=2 d=0.0203643 t=17022
 man bu 	漫步	c=1 d=0.000542133 t=17022
-man fen 	滿分	c=1 d=1 t=15915
+man fen 	滿分	c=1 d=0.00394621 t=17022
 man ha dun 	曼哈頓	c=0 d=0.00142642 t=17022
 man hua 	漫畫	c=3 d=0.272532 t=17022
 man jin 	蠻進	c=1 d=0.000290183 t=17022
 man man 	慢慢	c=1 d=0.458406 t=17022
-man tou 	饅頭	c=0 d=0.1 t=15297
-man tou shan 	饅頭山	c=1 d=1 t=15298
+man tou 	饅頭	c=0 d=1.7956e-005 t=17022
+man tou shan 	饅頭山	c=1 d=0.00018046 t=17022
 man yi 	滿意	c=1 d=1.4962e-005 t=17022
+man yi dian 	慢一點	c=1 d=1 t=689
 man you 	漫遊	c=3 d=0.0093633 t=17022
 man zu 	滿足	c=1 d=5.38128e-005 t=17022
 mang 	忙	c=3 d=0.0303955 t=17022
 mao 	帽	c=2 d=0.71177 t=17022
 mao 	毛	c=4 d=0.0283081 t=17022
 mao 	貓	c=4 d=1.98493 t=17022
-mao jian 	毛尖	c=1 d=1 t=14537
+mao jian 	毛尖	c=1 d=4.0169e-006 t=17022
 me 	麼	c=8 d=0.869187 t=17022
 mei 	妹	c=2 d=0.97531 t=17022
 mei 	梅	c=2 d=0.566758 t=17022
 mei 	每	c=1 d=0.071719 t=17022
-mei 	沒	c=14 d=0.574072 t=17022
-mei 	美	c=5 d=0.0375597 t=17022
+mei 	沒	c=14 d=0.815806 t=17022
+mei 	美	c=5 d=0.0579458 t=17022
 mei 	莓	c=1 d=0.120633 t=17022
 mei ci 	每次	c=3 d=0.112478 t=17022
-mei cuo 	沒錯	c=2 d=1.49164 t=16391
+mei cuo 	沒錯	c=2 d=0.0636011 t=17022
 mei di 	美帝	c=1 d=0.390628 t=17022
 mei fa 	沒法	c=1 d=3.42356e-008 t=17022
 mei ge 	每個	c=1 d=6.94669e-009 t=17022
@@ -2054,7 +2172,7 @@ mei guo 	美國	c=34 d=2.86586 t=17022
 mei hang 	美航	c=1 d=0.00109172 t=17022
 mei hang 	美行	c=1 d=0.000925663 t=17022
 mei jin 	美金	c=2 d=0.0390959 t=17022
-mei ju 	美劇	c=5 d=1.00981 t=15374
+mei ju 	美劇	c=5 d=0.000266473 t=17022
 mei le 	沒了	c=1 d=3.04325e-005 t=17022
 mei long 	梅龍	c=2 d=0.131328 t=17022
 mei nian 	每年	c=1 d=0.0263839 t=17022
@@ -2067,32 +2185,34 @@ mei xiang hao 	沒想好	c=1 d=0.000257369 t=17022
 mei ya 	美亞	c=1 d=0.0459593 t=17022
 mei yi bu 	每一步	c=1 d=0.00155699 t=17022
 mei yong 	沒用	c=1 d=0.00042433 t=17022
-mei you 	沒有	c=45 d=1.7694 t=17022
+mei you 	沒有	c=53 d=1.7694 t=17022
 mei you le 	沒有了	c=1 d=0.000393669 t=17022
 mei you ren 	沒有人	c=1 d=0.254107 t=17022
 mei yuan 	美元	c=5 d=0.214574 t=17022
 mei zhong 	每種	c=1 d=1.07565e-005 t=17022
-mei zu 	魅族	c=1 d=1 t=14243
+mei zhou 	每週	c=1 d=1 t=19133
+mei zi 	妹子	c=1 d=1 t=1372
+mei zu 	魅族	c=1 d=1 t=17022
 men 	們	c=11 d=0.694838 t=17022
 men 	門	c=2 d=0.00831246 t=17022
 men hu 	門戶	c=4 d=0.343548 t=17022
-men piao 	門票	c=1 d=1 t=14753
+men piao 	門票	c=1 d=1.18285e-005 t=17022
 men tou 	門頭	c=1 d=0.00052611 t=17022
 meng 	夢	c=3 d=2.97025 t=17022
 meng gu 	蒙古	c=1 d=0.000405658 t=17022
 meng zhong 	夢中	c=1 d=0.97531 t=17022
-mi gong 	迷宮	c=1 d=1 t=17021
+mi gong 	迷宮	c=1 d=0.995012 t=17022
 mi ma 	密碼	c=4 d=0.394554 t=17022
 mi mi 	祕密	c=6 d=0.402524 t=17022
 mian 	棉	c=2 d=0.634448 t=17022
 mian 	麪	c=1 d=0.0154523 t=17022
 mian de 	免得	c=1 d=0.000164106 t=17022
 mian fei 	免費	c=2 d=0.442821 t=17022
-mian ji 	面積	c=1 d=1 t=14966
+mian ji 	面積	c=1 d=3.43125e-005 t=17022
 mian shi 	面試	c=1 d=0.0294518 t=17022
 mian shui 	免稅	c=2 d=0.225373 t=17022
 mian shui dian 	免稅店	c=1 d=0.214381 t=17022
-mian xiang 	面向	c=16 d=0.242402 t=17022
+mian xiang 	面向	c=16 d=0.701173 t=17022
 miao shu 	描述	c=5 d=3.57521e-005 t=17022
 mie 	滅	c=2 d=0.819885 t=17022
 min 	敏	c=1 d=4.62054e-006 t=17022
@@ -2106,16 +2226,16 @@ ming ling 	命令	c=5 d=0.205155 t=17022
 ming pian 	名片	c=3 d=0.331151 t=17022
 ming que 	明確	c=2 d=0.631284 t=17022
 ming tian 	明天	c=5 d=0.810584 t=17022
-ming wei 	名爲	c=3 d=2.16614 t=16814
+ming wei 	名爲	c=3 d=0.765632 t=17022
 ming xi 	明細	c=7 d=0.935839 t=17022
 ming xian 	明顯	c=3 d=0.0250972 t=17022
 ming zhi gu fan 	明知故犯	c=1 d=0.0295994 t=17022
 ming zi 	名字	c=3 d=0.682732 t=17022
-mo 	魔	c=1 d=1 t=14017
+mo 	魔	c=1 d=2.9835e-007 t=17022
 mo ban 	模板	c=3 d=0.0850088 t=17022
-mo di 	摸底	c=1 d=1 t=14570
+mo di 	摸底	c=1 d=4.7375e-006 t=17022
 mo fang 	魔方	c=4 d=0.258925 t=17022
-mo gan shan 	莫干山	c=6 d=4.96337 t=14787
+mo gan shan 	莫干山	c=6 d=6.95882e-005 t=17022
 mo he 	墨盒	c=9 d=1.14427 t=17022
 mo hu 	模糊	c=1 d=0.398388 t=17022
 mo hu ji he 	模糊集合	c=1 d=0.451581 t=17022
@@ -2129,15 +2249,15 @@ mo shi he 	模式和	c=1 d=0.00618889 t=17022
 mo shi yan jiu 	模式研究	c=1 d=0.856415 t=17022
 mo shui 	墨水	c=2 d=0.0485409 t=17022
 mo tou 	魔頭	c=1 d=0.103312 t=17022
-mo xing 	模型	c=51 d=0.0275409 t=17022
-mo zha te 	莫扎特	c=5 d=4.68247 t=14307
+mo xing 	模型	c=51 d=0.937067 t=17022
+mo zha te 	莫扎特	c=5 d=5.95563e-006 t=17022
 mou 	某	c=1 d=4.78512e-006 t=17022
 mou ge 	某個	c=3 d=0.465334 t=17022
 mou zhong 	某種	c=2 d=0.308819 t=17022
 mu 	墓	c=1 d=0.036334 t=17022
 mu 	木	c=3 d=0.00729055 t=17022
 mu 	母	c=1 d=0.035437 t=17022
-mu 	目	c=1 d=1 t=14828
+mu 	目	c=1 d=1.72103e-005 t=17022
 mu bei 	墓碑	c=2 d=0.0424257 t=17022
 mu biao 	目標	c=8 d=0.0217096 t=17022
 mu chong 	木蟲	c=1 d=0.000169103 t=17022
@@ -2154,13 +2274,14 @@ na 	拿	c=2 d=0.726149 t=17022
 na 	那	c=33 d=1.41827 t=17022
 na bian 	哪邊	c=1 d=0.0713613 t=17022
 na bian 	那邊	c=1 d=0.00255424 t=17022
+na cui 	納粹	c=1 d=1 t=1303
 na dao 	拿到	c=3 d=0.970492 t=17022
 na ge 	哪個	c=1 d=0.427415 t=17022
-na ge 	那個	c=6 d=0.000299164 t=17022
+na ge 	那個	c=6 d=0.371577 t=17022
 na jiu 	那就	c=1 d=0.00269866 t=17022
 na kuai 	那塊	c=1 d=0.0804596 t=17022
 na li 	哪裏	c=5 d=0.66034 t=17022
-na li 	那裏	c=2 d=1.32465 t=16638
+na li 	那裏	c=2 d=0.194203 t=17022
 na li ren 	哪裏人	c=1 d=0.000337144 t=17022
 na me 	那麼	c=5 d=0.748756 t=17022
 na me jiu 	那麼就	c=1 d=0.0395575 t=17022
@@ -2168,7 +2289,7 @@ na pian 	那片	c=1 d=0.000590229 t=17022
 na tian 	哪天	c=1 d=0.00767337 t=17022
 na xie 	哪些	c=1 d=0.000174253 t=17022
 na xie 	那些	c=1 d=0.158817 t=17022
-na yang 	那樣	c=1 d=1 t=16139
+na yang 	那樣	c=1 d=0.0120946 t=17022
 na zhi 	那隻	c=2 d=1 t=17022
 nai 	乃	c=3 d=0.398519 t=17022
 nai 	奶	c=1 d=0.00339653 t=17022
@@ -2191,7 +2312,7 @@ nan zhuang 	男裝	c=1 d=0.0475963 t=17022
 nan zi 	男子	c=1 d=0.00169512 t=17022
 nao 	腦	c=1 d=0.970446 t=17022
 nao dai 	腦袋	c=1 d=0.955997 t=17022
-ne 	呢	c=8 d=0.613017 t=17022
+ne 	呢	c=8 d=1.05472 t=17022
 nei 	內	c=4 d=0.0146986 t=17022
 nei bu 	內部	c=3 d=9.43385e-006 t=17022
 nei cun 	內存	c=2 d=0.485949 t=17022
@@ -2211,15 +2332,15 @@ ni 	擬	c=2 d=0.0721442 t=17022
 ni hao 	你好	c=21 d=1.7787 t=17022
 ni hong 	霓虹	c=0 d=0.000458484 t=17022
 ni hong guo 	霓虹國	c=1 d=0.00460782 t=17022
-ni ke yi 	你可以	c=1 d=1 t=16933
+ni ke yi 	你可以	c=1 d=0.640824 t=17022
 ni men 	你們	c=6 d=1.38154 t=17022
 ni neng 	你能	c=1 d=0.000153011 t=17022
 ni qiu 	泥鰍	c=1 d=0.0968105 t=17022
 ni shi 	你是	c=1 d=0.900325 t=17022
 ni xiang 	逆向	c=1 d=1.80025e-005 t=17022
 ni yao 	你要	c=1 d=0.000796726 t=17022
-ni yi jing 	你已經	c=1 d=1 t=16393
-ni ying gai 	你應該	c=1 d=1 t=16506
+ni yi jing 	你已經	c=1 d=0.0430669 t=17022
+ni ying gai 	你應該	c=1 d=0.075774 t=17022
 ni zhe bian 	你這邊	c=2 d=0.666434 t=17022
 nian 	年	c=6 d=0.314614 t=17022
 nian du 	年度	c=1 d=1.03632e-008 t=17022
@@ -2242,11 +2363,11 @@ nong 	弄	c=1 d=0.000581442 t=17022
 nong bao 	膿皰	c=1 d=0.16696 t=17022
 nong hang 	農行	c=3 d=0.13332 t=17022
 nong hou 	濃厚	c=1 d=0.000115067 t=17022
-nu li 	努力	c=3 d=0.0212797 t=17022
+nu li 	努力	c=3 d=0.802519 t=17022
 nv 	女	c=2 d=0.0758519 t=17022
 nv hai 	女孩	c=1 d=0.000350903 t=17022
 nv sheng 	女生	c=1 d=0.143704 t=17022
-nv you 	女友	c=3 d=0.00978542 t=17022
+nv you 	女友	c=3 d=0.463013 t=17022
 nv zhu 	女主	c=1 d=8.39886e-007 t=17022
 o 	哦	c=2 d=0.332871 t=17022
 ou er 	偶爾	c=2 d=0.011982 t=17022
@@ -2261,7 +2382,7 @@ pai 	拍	c=4 d=0.570467 t=17022
 pai 	排	c=2 d=2.46086e-006 t=17022
 pai ban 	排版	c=2 d=0.506946 t=17022
 pai hang 	排行	c=1 d=0.57695 t=17022
-pai lian 	排練	c=2 d=1.956 t=16338
+pai lian 	排練	c=2 d=0.0639855 t=17022
 pai lie 	排列	c=1 d=0.00782838 t=17022
 pai mai 	拍賣	c=2 d=0.0234005 t=17022
 pai pai 	拍拍	c=1 d=0.951229 t=17022
@@ -2285,6 +2406,9 @@ pi bei 	疲憊	c=1 d=0.0146986 t=17022
 pi fu 	皮膚	c=1 d=3.50963e-006 t=17022
 pi pei 	匹配	c=11 d=0.0186547 t=17022
 pi qi 	脾氣	c=1 d=0.0127147 t=17022
+pi xiu 	匹休	c=1 d=1 t=1118
+pi xiu 	貔貅	c=1 d=1 t=1117
+pi zhu 	批註	c=2 d=1.99501 t=1305
 pian 	偏	c=1 d=0.000448321 t=17022
 pian 	片	c=3 d=0.00251823 t=17022
 pian ren 	騙人	c=1 d=0.0291588 t=17022
@@ -2316,59 +2440,71 @@ ping jiang 	評獎	c=0 d=6.62162e-005 t=17022
 ping jiang ping you 	評獎評優	c=1 d=0.000665481 t=17022
 ping lun 	評論	c=1 d=0.00568457 t=17022
 ping mian 	平面	c=1 d=0.123687 t=17022
-ping mu 	屏幕	c=4 d=0.421518 t=17022
+ping mu 	屏幕	c=6 d=1.11779 t=17022
 ping mu shang 	屏幕上	c=1 d=0.13332 t=17022
 ping pan 	評判	c=1 d=9.95351e-005 t=17022
 ping shen 	評審	c=1 d=9.12192e-008 t=17022
-ping tai 	平臺	c=72 d=1.41138 t=17022
+ping tai 	平臺	c=86 d=1.41138 t=17022
+ping wen 	平穩	c=1 d=1 t=19771
 ping xing 	平行	c=2 d=0.00274811 t=17022
 ping you 	評優	c=0 d=6.62162e-005 t=17022
 ping zheng 	憑證	c=2 d=0.00336071 t=17022
+po 	破	c=1 d=1 t=1029
 po bu ji dai 	迫不及待	c=1 d=0.142274 t=17022
 po duo 	頗多	c=1 d=9.32711e-005 t=17022
+po jie 	破解	c=2 d=1.99501 t=19919
+po lan 	破爛	c=1 d=1 t=19196
 po song 	泊松	c=2 d=0.0182457 t=17022
 pu 	普	c=4 d=0.257947 t=17022
-pu bian 	普遍	c=1 d=0.0109985 t=17022
+pu 	譜	c=1 d=1 t=19881
+pu bian 	普遍	c=2 d=1 t=17022
 pu dong 	浦東	c=7 d=1.4655 t=17022
-pu tong 	普通	c=4 d=0.0744723 t=17022
+pu tong 	普通	c=5 d=1 t=17022
 pu tong fa piao 	普通發票	c=1 d=0.0156858 t=17022
 pu xiao 	普小	c=0 d=0.0226502 t=17022
-qi 	其	c=14 d=0.128521 t=17022
+qi 	其	c=17 d=1.00074 t=17022
 qi 	器	c=3 d=0.141335 t=17022
 qi 	期	c=2 d=0.0326152 t=17022
 qi bao 	七寶	c=0 d=0.00140519 t=17022
 qi bao dao 	七寶刀	c=2 d=0.0317198 t=17022
-qi ci 	其次	c=2 d=6.47485e-005 t=17022
+qi ci 	其次	c=3 d=1 t=17022
+qi dai 	期待	c=0 d=0.1 t=18793
 qi dong 	啓動	c=1 d=0.367879 t=17022
 qi fa 	啓發	c=2 d=6.56442e-005 t=17022
 qi fa shi 	啓發式	c=2 d=0.0031959 t=17022
 qi fei 	起飛	c=1 d=0.08291 t=17022
+qi guai 	奇怪	c=1 d=1 t=19353
+qi hun 	棋魂	c=1 d=1 t=18949
 qi jian 	期間	c=1 d=0.000112226 t=17022
 qi kan 	期刊	c=1 d=3.51812e-005 t=17022
-qi lai 	起來	c=1 d=2.22668e-006 t=17022
+qi lai 	起來	c=2 d=1 t=17022
 qi le 	起了	c=0 d=0.000663763 t=17022
 qi le ma 	起了嗎	c=1 d=0.0066709 t=17022
 qi miao 	奇妙	c=1 d=0.00775048 t=17022
 qi mo 	期末	c=1 d=0.00118858 t=17022
-qi shi 	其實	c=1 d=1.98478e-006 t=17022
+qi shi 	其實	c=6 d=2.83983 t=17022
+qi shi bi 	其實比	c=1 d=1 t=17309
 qi shui 	汽水	c=1 d=0.00398587 t=17022
-qi ta 	其他	c=7 d=1.01894 t=17022
+qi ta 	其他	c=9 d=1.64285 t=17022
 qi ta de 	其他的	c=1 d=8.44096e-007 t=17022
 qi ta jia ren 	其他家人	c=1 d=0.0314298 t=17022
-qi ye 	企業	c=79 d=0.847894 t=17022
+qi wang 	期望	c=1 d=1 t=248
+qi ye 	企業	c=95 d=0.847894 t=17022
 qi ye jia meng liu cheng 	企業加盟流程	c=1 d=0.00585769 t=17022
-qi yu 	其餘	c=2 d=0.000119762 t=17022
-qi zhong 	其中	c=4 d=0.0816756 t=17022
+qi yi 	奇異	c=0 d=0.1 t=1215
+qi yu 	其餘	c=3 d=1 t=17022
+qi zhong 	其中	c=7 d=0.981631 t=17022
 qia dang 	恰當	c=2 d=0.0205478 t=17022
-qia hao 	恰好	c=1 d=1 t=16635
+qia hao 	恰好	c=1 d=1 t=17022
 qian 	前	c=1 d=0.0404542 t=17022
+qian 	千	c=2 d=2.08758 t=18768
 qian 	錢	c=3 d=0.279437 t=17022
 qian ci 	前次	c=1 d=0.00113061 t=17022
 qian ji tian 	前幾天	c=1 d=0.00440507 t=17022
 qian jia 	欠佳	c=1 d=0.00213348 t=17022
-qian jing 	前景	c=1 d=1 t=15271
+qian jing 	前景	c=1 d=1 t=17022
 qian liang tian 	前兩天	c=1 d=4.71468e-008 t=17022
-qian mian 	前面	c=2 d=1.95123 t=16025
+qian mian 	前面	c=3 d=0.032352 t=17022
 qian ming 	簽名	c=3 d=1.19371 t=17022
 qian qi 	前期	c=1 d=0.126818 t=17022
 qian qiang 	牽強	c=1 d=1.30725e-005 t=17022
@@ -2376,21 +2512,25 @@ qian qiang fu hui 	牽強附會	c=1 d=1.3138e-005 t=17022
 qian que 	欠缺	c=1 d=0.00013845 t=17022
 qian tian 	前天	c=1 d=0.324652 t=17022
 qian ting 	潛艇	c=1 d=0.123687 t=17022
-qian xue sen 	錢學森	c=1 d=1 t=14534
-qian yan 	前沿	c=1 d=0.0277367 t=17022
+qian xue sen 	錢學森	c=1 d=1 t=17022
+qian xun 	千尋	c=1 d=1.09704 t=18769
+qian yan 	前沿	c=2 d=1.00112 t=17022
+qian ye 	前夜	c=2 d=1.956 t=985
 qian yi 	遷移	c=2 d=0.690734 t=17022
+qian yu qian xun 	千與千尋	c=1 d=1 t=18764
 qian zai 	潛在	c=2 d=0.118245 t=17022
 qian zheng 	簽證	c=17 d=0.884448 t=17022
 qian zheng guo le 	簽證過了	c=1 d=0.000953854 t=17022
 qian zhui 	前綴	c=1 d=0.0393602 t=17022
 qian zi 	簽字	c=1 d=1.62528e-008 t=17022
-qiang 	強	c=4 d=0.117128 t=17022
-qiang da 	強大	c=2 d=1.91393 t=16168
+qiang 	強	c=5 d=1.00025 t=17022
+qiang da 	強大	c=3 d=1.00018 t=17022
 qiang diao 	強調	c=2 d=3.90761e-005 t=17022
 qiang hua 	強化	c=6 d=1.41692 t=17022
-qiang xing 	強行	c=1 d=1 t=14152
+qiang xing 	強行	c=1 d=1 t=17022
+qiao 	喬	c=1 d=1 t=18439
 qiao 	巧	c=1 d=2.58035e-005 t=17022
-qiao mei 	巧妹	c=1 d=0.0702988 t=17022
+qiao mei 	巧妹	c=2 d=0.0702988 t=17022
 qie duan 	切斷	c=1 d=5.90329e-006 t=17022
 qie ge 	切割	c=1 d=0.0137049 t=17022
 qin 	親	c=1 d=9.32711e-005 t=17022
@@ -2399,7 +2539,7 @@ qing 	請	c=19 d=1.92213 t=17022
 qing 	青	c=2 d=0.0393602 t=17022
 qing cha shou 	請查收	c=1 d=0.163654 t=17022
 qing chu 	清楚	c=4 d=0.00687406 t=17022
-qing chu 	清除	c=2 d=1.83946 t=15996
+qing chu 	清除	c=2 d=0.0108833 t=17022
 qing dan 	清單	c=2 d=1.74862e-005 t=17022
 qing fa 	請發	c=1 d=0.250324 t=17022
 qing hua 	清華	c=1 d=0.516851 t=17022
@@ -2408,8 +2548,8 @@ qing jie zhi zao 	清潔製造	c=1 d=0.00344787 t=17022
 qing jing 	情景	c=1 d=0.0982736 t=17022
 qing kong 	清空	c=3 d=0.0566285 t=17022
 qing kuang 	情況	c=17 d=0.160966 t=17022
-qing li 	清理	c=3 d=1.00002 t=16300
-qing lv 	情侶	c=1 d=1 t=15535
+qing li 	清理	c=3 d=0.529935 t=17022
+qing lv 	情侶	c=1 d=0.000590229 t=17022
 qing nian 	青年	c=1 d=0.486752 t=17022
 qing nian bao 	青年報	c=1 d=0.0288686 t=17022
 qing qiu 	請求	c=1 d=5.14449e-005 t=17022
@@ -2418,20 +2558,20 @@ qing ti gong 	請提供	c=1 d=0.852144 t=17022
 qing wen 	請問	c=34 d=2.11655 t=17022
 qing xi 	清晰	c=2 d=0.000244157 t=17022
 qing xiang 	傾向	c=1 d=0.0575558 t=17022
-qing xing 	情形	c=1 d=1 t=16333
+qing xing 	情形	c=1 d=0.0319048 t=17022
 qing xu 	情緒	c=1 d=0.0129068 t=17022
 qing zhu 	慶祝	c=1 d=0.000652304 t=17022
 qiu 	球	c=2 d=0.00634556 t=17022
-qiu 	糗	c=1 d=1 t=14091
+qiu 	糗	c=1 d=4.31931e-007 t=17022
 qiu bian 	求變	c=1 d=0.00637737 t=17022
 qiu dong 	秋冬	c=1 d=0.00180897 t=17022
 qiu he 	求和	c=1 d=1.32701e-005 t=17022
 qiu jie 	求解	c=2 d=0.00331267 t=17022
 qiu jie qi 	求解其	c=1 d=1.97966e-005 t=17022
 qiu ku 	秋褲	c=1 d=0.19398 t=17022
-qiu zhu 	求助	c=1 d=1 t=15060
+qiu zhu 	求助	c=1 d=5.48998e-005 t=17022
 qu 	區	c=2 d=0.063609 t=17022
-qu 	去	c=26 d=1.52464 t=17022
+qu 	去	c=26 d=1.66964 t=17022
 qu 	取	c=2 d=0.170333 t=17022
 qu 	曲	c=1 d=0.125556 t=17022
 qu bie 	區別	c=4 d=0.319819 t=17022
@@ -2442,13 +2582,13 @@ qu kuai 	區塊	c=2 d=9.15747e-007 t=17022
 qu mei guo 	去美國	c=1 d=0.108609 t=17022
 qu na er 	去哪兒	c=9 d=0.598607 t=17022
 qu na er wang 	去哪兒網	c=2 d=0.173774 t=17022
-qu nian 	去年	c=1 d=1 t=14138
+qu nian 	去年	c=1 d=5.46353e-007 t=17022
 qu shi 	趨勢	c=3 d=1.0286 t=17022
 qu xiao 	取消	c=4 d=0.0368435 t=17022
 qu zhou 	衢州	c=1 d=0.0141223 t=17022
 quan 	全	c=7 d=0.339596 t=17022
-quan 	圈	c=1 d=1 t=15637
-quan 	權	c=1 d=0.0773047 t=17022
+quan 	圈	c=1 d=0.000982903 t=17022
+quan 	權	c=1 d=0.367879 t=17022
 quan bu 	全部	c=4 d=0.909373 t=17022
 quan guo 	全國	c=1 d=0.571209 t=17022
 quan huang 	拳皇	c=1 d=0.0441572 t=17022
@@ -2462,20 +2602,21 @@ quan xian 	權限	c=12 d=1.89776 t=17022
 que 	卻	c=2 d=0.115325 t=17022
 que 	缺	c=1 d=0.150318 t=17022
 que ding 	確定	c=12 d=0.00797392 t=17022
-que li 	確立	c=2 d=1.90937 t=14513
+que fa 	缺乏	c=1 d=1 t=1423
+que li 	確立	c=2 d=6.80246e-006 t=17022
 que ren 	確認	c=2 d=0.852161 t=17022
 que shao 	缺少	c=1 d=0.0611149 t=17022
 que shi 	確實	c=9 d=0.800192 t=17022
-que shi 	缺失	c=1 d=0.237381 t=16824
-que shi ru ci 	缺失如此	c=1 d=1 t=16825
+que shi 	缺失	c=1 d=0.0882052 t=17022
+que shi ru ci 	缺失如此	c=1 d=0.373439 t=17022
 que xian 	缺陷	c=1 d=0.000171659 t=17022
 qun dao 	羣島	c=1 d=0.000302025 t=17022
 qun zhong 	羣衆	c=4 d=0.0217231 t=17022
-ran er 	然而	c=4 d=0.0209926 t=17022
+ran er 	然而	c=4 d=0.346456 t=17022
 ran hou 	然後	c=12 d=0.581024 t=17022
 rang 	讓	c=9 d=1.04791 t=17022
 rang ta 	讓他	c=1 d=0.438235 t=17022
-rang wo 	讓我	c=2 d=1.30422 t=16467
+rang wo 	讓我	c=2 d=0.0813174 t=17022
 rang yong hu 	讓用戶	c=1 d=2.30599e-006 t=17022
 re 	熱	c=1 d=5.3683e-006 t=17022
 re dian 	熱點	c=4 d=1.11522 t=17022
@@ -2490,10 +2631,10 @@ ren jian 	人間	c=1 d=0.000569928 t=17022
 ren ke 	認可	c=0 d=1.00535e-005 t=17022
 ren ke du 	認可度	c=1 d=0.000101039 t=17022
 ren lei 	人類	c=1 d=0.0550232 t=17022
-ren ling 	認領	c=1 d=1 t=16105
+ren ling 	認領	c=1 d=0.0102037 t=17022
 ren men 	人們	c=1 d=0.000534061 t=17022
 ren min bi 	人民幣	c=2 d=0.0422106 t=17022
-ren ren 	人人	c=2 d=1.99501 t=14262
+ren ren 	人人	c=2 d=2.02619e-006 t=17022
 ren shi 	人士	c=2 d=0.000925663 t=17022
 ren shi 	人是	c=0 d=6.55685e-007 t=17022
 ren shi 	認識	c=2 d=0.0109436 t=17022
@@ -2517,20 +2658,20 @@ rong 	融	c=1 d=7.17556e-008 t=17022
 rong duan 	熔斷	c=4 d=5.79875e-005 t=17022
 rong tong 	融通	c=1 d=0.000223746 t=17022
 rong xing 	榮幸	c=1 d=1.04152e-008 t=17022
-rong yi 	容易	c=2 d=1.10753 t=16525
+rong yi 	容易	c=2 d=0.0922856 t=17022
 rong yu 	冗餘	c=1 d=8.33539e-006 t=17022
 rou xing 	柔性	c=4 d=0.627813 t=17022
 ru 	如	c=9 d=0.133765 t=17022
-ru ci 	如此	c=2 d=0.333403 t=16824
+ru ci 	如此	c=2 d=0.123885 t=17022
 ru guo 	如果	c=8 d=0.486523 t=17022
 ru he 	如何	c=57 d=2.43103 t=17022
 ru qin 	入侵	c=1 d=0.985112 t=17022
-ru tong 	如同	c=3 d=1.96087 t=16136
+ru tong 	如同	c=3 d=0.0233628 t=17022
 ru xia 	如下	c=4 d=0.668019 t=17022
 ruan 	軟	c=1 d=0.67032 t=17022
-ruan 	阮	c=1 d=1 t=14112
+ruan 	阮	c=1 d=4.7975e-007 t=17022
 ruan jian 	軟件	c=11 d=0.820591 t=17022
-ruan yi 	阮一	c=1 d=1 t=14115
+ruan yi 	阮一	c=1 d=4.87001e-007 t=17022
 ruan ying 	軟硬	c=1 d=6.8256e-008 t=17022
 ruan zhu 	軟著	c=2 d=1.3374 t=17022
 run fu 	潤膚	c=1 d=0.000982903 t=17022
@@ -2558,10 +2699,10 @@ se 	色	c=3 d=0.0130203 t=17022
 sen 	森	c=5 d=0.941765 t=17022
 sen ge 	森哥	c=2 d=0.0889216 t=17022
 sha 	啥	c=1 d=0.458406 t=17022
-sha la 	沙拉	c=1 d=1 t=16062
+sha la 	沙拉	c=1 d=0.00822975 t=17022
 sha ren 	殺人	c=4 d=0.0115108 t=17022
 sha xian 	沙縣	c=1 d=0.00111936 t=17022
-shai xuan 	篩選	c=1 d=1 t=15799
+shai xuan 	篩選	c=1 d=0.00220948 t=17022
 shan 	刪	c=2 d=0.392586 t=17022
 shan 	山	c=6 d=0.180951 t=17022
 shan cha 	山茶	c=1 d=0.0769192 t=17022
@@ -2584,14 +2725,14 @@ shang quan 	熵權	c=1 d=0.00290884 t=17022
 shang shu 	上述	c=1 d=0.0158434 t=17022
 shang wang 	上網	c=5 d=0.422256 t=17022
 shang xian 	上限	c=1 d=0.0191587 t=17022
-shang ye 	商業	c=12 d=0.774916 t=17022
+shang ye 	商業	c=12 d=0.932394 t=17022
 shang ye hua 	商業化	c=1 d=0.12938 t=17022
 shang ye mo shi 	商業模式	c=2 d=1.93605 t=17022
 shao 	少	c=1 d=0.0773047 t=17022
-shao 	燒	c=1 d=1 t=13958
+shao 	燒	c=1 d=2.22131e-007 t=17022
 shao deng 	稍等	c=2 d=0.0776701 t=17022
 shao le 	少了	c=1 d=0.000510561 t=17022
-shao nian 	少年	c=1 d=1 t=15318
+shao nian 	少年	c=1 d=0.000199439 t=17022
 shao wei 	稍微	c=2 d=0.449329 t=17022
 she 	舍	c=2 d=5.2493e-007 t=17022
 she 	設	c=1 d=0.83527 t=17022
@@ -2604,18 +2745,19 @@ she ji 	設計	c=25 d=0.653907 t=17022
 she ji yun lian 	設計雲鏈	c=1 d=1.38809e-005 t=17022
 she ji zhe 	設計者	c=1 d=0.737123 t=17022
 she jiao 	社交	c=1 d=6.44365e-007 t=17022
+she me 	什麼	c=1 d=1 t=1250
 she mi 	涉密	c=1 d=4.30816e-006 t=17022
 she qu 	社區	c=4 d=5.65015e-006 t=17022
 she shou 	射手	c=4 d=0.0141931 t=17022
 she xian 	射線	c=1 d=0.0246002 t=17022
-she xiang 	設想	c=1 d=1 t=16395
+she xiang 	設想	c=1 d=0.0434998 t=17022
 she ying 	攝影	c=1 d=0.346456 t=17022
 she zhi 	設置	c=19 d=0.437674 t=17022
-shen 	深	c=1 d=1 t=15006
+shen 	深	c=1 d=4.19094e-005 t=17022
 shen 	神	c=1 d=5.28927e-008 t=17022
 shen cha 	審查	c=0 d=0.00146253 t=17022
 shen cha yuan su 	審查元素	c=2 d=0.0296194 t=17022
-shen du 	深度	c=1 d=0.634448 t=17022
+shen du 	深度	c=3 d=1.27304 t=17022
 shen fen zheng 	身份證	c=1 d=0.0141931 t=17022
 shen gao 	審稿	c=1 d=0.201897 t=17022
 shen gou 	申購	c=1 d=0.00433948 t=17022
@@ -2629,16 +2771,16 @@ shen qing 	申請	c=9 d=0.771052 t=17022
 shen qing biao 	申請表	c=1 d=0.0792617 t=17022
 shen ru 	深入	c=1 d=0.00763509 t=17022
 shen tong 	申通	c=1 d=0.128093 t=17022
-shen zhou 	神州	c=1 d=1 t=14639
+shen zhou 	神州	c=1 d=6.68931e-006 t=17022
 sheng 	晟	c=32 d=3.62211 t=17022
 sheng 	生	c=4 d=0.386741 t=17022
 sheng 	盛	c=2 d=0.00126209 t=17022
 sheng 	省	c=3 d=0.000190664 t=17022
 sheng 	聲	c=1 d=0.565525 t=17022
-sheng cai 	生菜	c=1 d=1 t=16060
+sheng cai 	生菜	c=1 d=0.00814786 t=17022
 sheng chan 	生產	c=22 d=0.558241 t=17022
 sheng cheng 	生成	c=1 d=0.873716 t=17022
-sheng dan 	聖誕	c=1 d=0.70822 t=17022
+sheng dan 	聖誕	c=2 d=0.940033 t=17022
 sheng huan 	生還	c=1 d=0.000347412 t=17022
 sheng huo 	生活	c=13 d=1.35195 t=17022
 sheng huo bu 	生活部	c=2 d=0.394751 t=17022
@@ -2649,8 +2791,8 @@ sheng ming 	聲明	c=1 d=5.82947e-005 t=17022
 sheng ri 	生日	c=2 d=0.1764 t=17022
 sheng tai 	生態	c=56 d=0.192104 t=17022
 sheng tai wei 	生態位	c=9 d=0.0443841 t=17022
-sheng wang 	聲望	c=3 d=2.18149 t=15707
-sheng wu 	生物	c=1 d=1 t=15843
+sheng wang 	聲望	c=3 d=0.00304276 t=17022
+sheng wu 	生物	c=1 d=0.00275318 t=17022
 sheng xia 	剩下	c=1 d=0.0459593 t=17022
 sheng xiao 	生效	c=1 d=0.0229371 t=17022
 shi 	事	c=4 d=0.0039268 t=17022
@@ -2665,17 +2807,18 @@ shi 	是	c=150 d=3.54213 t=17022
 shi 	時	c=5 d=0.120633 t=17022
 shi 	氏	c=1 d=0.0652193 t=17022
 shi 	石	c=2 d=0.204454 t=17022
-shi 	試	c=1 d=1 t=16227
-shi 	詩	c=1 d=1 t=15540
+shi 	試	c=1 d=0.0187793 t=17022
+shi 	詩	c=1 d=0.000605171 t=17022
 shi bie 	識別	c=2 d=0.131336 t=17022
 shi bu shi 	是不是	c=8 d=0.0258552 t=17022
 shi cai 	石材	c=3 d=0.104778 t=17022
+shi ce 	實測	c=1 d=1 t=1205
 shi chang 	市場	c=2 d=0.298197 t=17022
-shi dai 	時代	c=1 d=1 t=14176
+shi dai 	時代	c=1 d=6.60678e-007 t=17022
 shi dang 	適當	c=2 d=0.0315873 t=17022
 shi de 	使得	c=3 d=2.34512e-006 t=17022
 shi dian 	試點	c=1 d=1.01809e-005 t=17022
-shi du qing shen 	舐犢情深	c=1 d=1 t=13947
+shi du qing shen 	舐犢情深	c=1 d=2.10243e-007 t=17022
 shi er nian 	十二年	c=1 d=0.000792752 t=17022
 shi fan 	示範	c=4 d=0.0175047 t=17022
 shi fang 	釋放	c=2 d=0.000269215 t=17022
@@ -2690,7 +2833,7 @@ shi ji 	世紀	c=2 d=0.348418 t=17022
 shi ji 	實際	c=7 d=1.15586 t=17022
 shi ji shang 	實際上	c=2 d=0.66034 t=17022
 shi jian 	事件	c=2 d=0.0327174 t=17022
-shi jian 	實踐	c=1 d=0.0267827 t=17022
+shi jian 	實踐	c=1 d=0.873716 t=17022
 shi jian 	時間	c=39 d=0.487268 t=17022
 shi jian duan 	時間段	c=1 d=1.05181e-006 t=17022
 shi jian li 	時間裏	c=1 d=0.0335406 t=17022
@@ -2711,11 +2854,11 @@ shi shi 	實施	c=1 d=1.65811e-008 t=17022
 shi shi 	實時	c=6 d=0.00975476 t=17022
 shi shi 	時時	c=1 d=0.0096577 t=17022
 shi shi 	試試	c=3 d=0.0209629 t=17022
-shi shi shang 	事實上	c=1 d=1 t=16295
+shi shi shang 	事實上	c=1 d=0.0263839 t=17022
 shi tou 	石頭	c=0 d=0.0170333 t=17022
 shi tou jie 	石頭姐	c=1 d=0.171187 t=17022
 shi wu 	事物	c=1 d=0.00421123 t=17022
-shi xian 	實現	c=13 d=0.0753961 t=17022
+shi xian 	實現	c=13 d=0.983025 t=17022
 shi xiao 	失效	c=1 d=0.0132336 t=17022
 shi xiong 	師兄	c=2 d=0.330655 t=17022
 shi xiong lun wen 	師兄論文	c=1 d=0.194952 t=17022
@@ -2727,17 +2870,17 @@ shi yan zhi nan 	實驗指南	c=1 d=0.108067 t=17022
 shi ye 	視野	c=1 d=9.75642e-005 t=17022
 shi yi 	十一	c=1 d=0.0460704 t=17022
 shi yi duan 	十一段	c=1 d=0.463013 t=17022
-shi yi shi 	試一試	c=1 d=1 t=16435
-shi ying 	適應	c=1 d=1 t=14601
+shi yi shi 	試一試	c=1 d=0.0531307 t=17022
+shi ying 	適應	c=1 d=5.53179e-006 t=17022
 shi yong 	使用	c=25 d=0.915912 t=17022
-shi yong 	適用	c=1 d=1 t=14458
+shi yong 	適用	c=1 d=2.70611e-006 t=17022
 shi yong xin xing 	實用新型	c=1 d=0.139457 t=17022
 shi you 	室友	c=1 d=0.203926 t=17022
 shi zhi 	實質	c=1 d=4.6437e-006 t=17022
 shi zhi shang 	實質上	c=1 d=3.14405e-006 t=17022
 shi zhi xing 	實質性	c=1 d=1.03615e-006 t=17022
 shi zhi xing de 	實質性的	c=1 d=1.08646e-005 t=17022
-shi zi 	石子	c=1 d=1 t=14629
+shi zi 	石子	c=1 d=6.36307e-006 t=17022
 shi zuo 	視作	c=1 d=1.17695e-005 t=17022
 shou 	收	c=6 d=1.14531 t=17022
 shou bu dao 	收不到	c=1 d=0.0165727 t=17022
@@ -2751,18 +2894,20 @@ shou ji 	手機	c=30 d=0.907037 t=17022
 shou ji hao 	手機號	c=1 d=0.000340532 t=17022
 shou ji ka 	手機卡	c=1 d=0.29523 t=17022
 shou jian ren 	收件人	c=2 d=0.0226202 t=17022
-shou li 	受力	c=1 d=1 t=16075
+shou li 	受力	c=1 d=0.00878245 t=17022
 shou qu 	收取	c=0 d=0.0900325 t=17022
 shou quan 	授權	c=1 d=0.873716 t=17022
+shou shu 	手術	c=2 d=1.99005 t=1395
 shou xian 	首先	c=9 d=0.145815 t=17022
 shou xu 	手續	c=1 d=0.000160054 t=17022
 shou xu fei 	手續費	c=1 d=0.000911882 t=17022
-shou yi 	收益	c=1 d=0.08291 t=17022
+shou yi 	收益	c=1 d=0.491644 t=17022
+shou yi zhe 	受益者	c=1 d=1 t=1358
 shu 	叔	c=0 d=0.0511709 t=17022
 shu 	數	c=5 d=0.0663351 t=17022
 shu 	書	c=4 d=0.178243 t=17022
 shu 	樹	c=5 d=0.286145 t=17022
-shu 	鼠	c=1 d=1 t=14353
+shu 	鼠	c=1 d=1.60081e-006 t=17022
 shu bao 	書包	c=1 d=0.00343067 t=17022
 shu biao 	鼠標	c=3 d=0.00768887 t=17022
 shu chu 	輸出	c=6 d=0.0454618 t=17022
@@ -2786,8 +2931,8 @@ shu shi da 	舒適達	c=1 d=6.36307e-006 t=17022
 shu xing 	屬性	c=11 d=0.546949 t=17022
 shu xue 	數學	c=6 d=0.0243554 t=17022
 shu yu 	屬於	c=2 d=2.05407e-006 t=17022
-shu zhi 	數值	c=1 d=1 t=15870
-shu zi 	數字	c=2 d=1.95123 t=16023
+shu zhi 	數值	c=1 d=0.00315111 t=17022
+shu zi 	數字	c=2 d=0.0132132 t=17022
 shu zi hua 	數字化	c=1 d=0.178173 t=17022
 shu zu 	數組	c=5 d=0.915759 t=17022
 shua 	刷	c=8 d=0.709804 t=17022
@@ -2849,7 +2994,7 @@ sui chao 	隋朝	c=1 d=0.279431 t=17022
 sui ji 	隨機	c=2 d=0.126186 t=17022
 sui ran 	雖然	c=4 d=0.024234 t=17022
 sui shou 	隨手	c=1 d=0.146607 t=17022
-sui xiang 	隨想	c=1 d=1 t=14132
+sui xiang 	隨想	c=1 d=5.30206e-007 t=17022
 sui zhe 	隨着	c=1 d=0.0128424 t=17022
 sun 	孫	c=2 d=0.148101 t=17022
 sun ce 	孫策	c=1 d=0.0182243 t=17022
@@ -2857,33 +3002,36 @@ sun jian 	孫堅	c=1 d=0.0159229 t=17022
 sun shi 	損失	c=1 d=2.41796e-005 t=17022
 suo 	所	c=25 d=0.238737 t=17022
 suo 	鎖	c=2 d=0.509156 t=17022
-suo ding 	鎖定	c=1 d=1 t=15105
+suo ding 	鎖定	c=1 d=6.87523e-005 t=17022
 suo duan 	縮短	c=1 d=1.10574e-006 t=17022
 suo jian 	所見	c=0 d=4.39444e-005 t=17022
 suo le 	鎖了	c=1 d=0.00835412 t=17022
 suo luo men 	索羅門	c=1 d=0.000784864 t=17022
-suo shi 	所示	c=7 d=0.134428 t=17022
+suo shi 	所示	c=8 d=1.00001 t=17022
 suo ti 	所提	c=1 d=0.0106459 t=17022
 suo ti dao 	所提到	c=1 d=0.106992 t=17022
 suo ti gong 	所提供	c=1 d=9.18981e-007 t=17022
-suo yao 	索要	c=1 d=1 t=14153
-suo yi 	所以	c=20 d=2.74956 t=17022
-suo you 	所有	c=4 d=0.0528916 t=17022
+suo yao 	索要	c=1 d=1 t=17022
+suo yi 	所以	c=35 d=2.74956 t=17022
+suo you 	所有	c=9 d=1.0002 t=17022
 ta 	他	c=4 d=0.657047 t=17022
-ta 	她	c=4 d=1.24076 t=17022
-ta 	它	c=31 d=7.71573 t=17022
-ta hui 	他會	c=1 d=1 t=16680
-ta men 	他們	c=4 d=2.76474e-005 t=17022
+ta 	她	c=7 d=1.24076 t=17022
+ta 	它	c=59 d=7.71573 t=17022
+ta hui 	他會	c=1 d=1 t=17022
+ta men 	他們	c=6 d=0.228965 t=17022
+ta men 	它們	c=2 d=1.20805 t=17622
 ta ren 	他人	c=3 d=0.0379993 t=17022
 ta shuo 	他說	c=1 d=0.444858 t=17022
-tai 	太	c=3 d=0.148199 t=17022
-tai ci 	臺詞	c=2 d=1.98511 t=15130
+tai 	太	c=5 d=0.148199 t=17022
+tai ci 	臺詞	c=2 d=1.98511 t=17022
+tai deng 	檯燈	c=1 d=1 t=19301
 tai di 	太低	c=1 d=0.10383 t=17022
 tai du 	態度	c=1 d=0.000312783 t=17022
-tai duo 	太多	c=1 d=1 t=14163
+tai duo 	太多	c=1 d=1 t=17022
 tai gao 	擡高	c=1 d=0.451581 t=17022
 tai jian 	太監	c=1 d=0.00036159 t=17022
 tai jiu 	太久	c=1 d=0.102797 t=17022
+tai le 	泰勒	c=2 d=1.99005 t=18262
 tai mang 	太忙	c=1 d=3.40648e-008 t=17022
 tai mo hu 	太模糊	c=1 d=0.0102037 t=17022
 tai pen 	臺盆	c=1 d=0.0338776 t=17022
@@ -2893,36 +3041,41 @@ tai shi ci 	太史慈	c=1 d=0.0183156 t=17022
 tai shi ji 	臺式機	c=4 d=1.40647e-005 t=17022
 tai tian zhen 	太天真	c=1 d=0.960789 t=17022
 tai tou 	台頭	c=1 d=0.00431784 t=17022
-tai tou 	擡頭	c=8 d=0.0446731 t=17022
+tai tou 	擡頭	c=9 d=1 t=17022
 tai wan 	臺灣	c=10 d=0.183751 t=17022
+tai yang 	太陽	c=2 d=1.35701 t=1170
+tan 	彈	c=3 d=1.05148 t=19931
 tan 	碳	c=1 d=4.29704e-005 t=17022
 tan 	談	c=1 d=0.168638 t=17022
-tan jiu 	探究	c=3 d=1.76388 t=15894
+tan jiu 	探究	c=3 d=1.76388 t=17022
 tan suo 	探索	c=2 d=0.0193841 t=17022
 tang 	唐	c=1 d=0.000620491 t=17022
-tang 	塘	c=1 d=1 t=14663
+tang 	堂	c=1 d=1 t=1275
+tang 	塘	c=1 d=1 t=17022
 tang 	湯	c=2 d=0.00657619 t=17022
 tang 	糖	c=1 d=3.19928e-005 t=17022
+tang lang 	螳螂	c=1 d=1 t=19472
 tao 	套	c=2 d=0.199888 t=17022
 tao 	濤	c=1 d=7.77319e-008 t=17022
-tao bao 	淘寶	c=3 d=0.0519409 t=17022
+tao 	陶	c=1 d=1 t=1416
+tao bao 	淘寶	c=4 d=1 t=17022
 tao can 	套餐	c=3 d=0.689981 t=17022
 tao ci 	陶瓷	c=0 d=0.00330412 t=17022
 tao ci pin 	陶瓷品	c=1 d=0.0332068 t=17022
 tao fang 	套房	c=1 d=0.0639279 t=17022
-tao lu 	套路	c=1 d=0.0246002 t=17022
+tao lu 	套路	c=2 d=0.0417601 t=17022
 tao lun 	討論	c=4 d=0.0113313 t=17022
 tao lun qu 	討論區	c=1 d=3.63464e-006 t=17022
 tao qian 	陶謙	c=1 d=0.0178634 t=17022
 tao tai 	淘汰	c=1 d=0.0266491 t=17022
-te bie 	特別	c=2 d=0.00297028 t=17022
+te bie 	特別	c=3 d=0.156544 t=17022
 te chang 	特長	c=1 d=0.126818 t=17022
 te dian 	特點	c=10 d=0.231284 t=17022
 te ding 	特定	c=2 d=0.116484 t=17022
 te gong 	特工	c=0 d=0.000603608 t=17022
 te gong dui 	特攻隊	c=0 d=0.0522046 t=17022
 te se 	特色	c=1 d=0.0261214 t=17022
-te shu 	特殊	c=3 d=1.77544 t=16889
+te shu 	特殊	c=3 d=0.913062 t=17022
 te xing 	特性	c=5 d=0.0839646 t=17022
 te zheng 	特徵	c=1 d=1.16825e-006 t=17022
 teng xun 	騰訊	c=2 d=0.0156076 t=17022
@@ -2931,18 +3084,18 @@ ti 	題	c=1 d=0.0773047 t=17022
 ti 	體	c=2 d=0.0016533 t=17022
 ti chu 	提出	c=12 d=0.0915757 t=17022
 ti dao 	提到	c=3 d=0.00625109 t=17022
-ti gao 	提高	c=2 d=0.025223 t=17022
-ti gong 	提供	c=16 d=0.529222 t=17022
-ti gong fang 	提供方	c=1 d=2.63248e-005 t=17022
+ti gao 	提高	c=2 d=0.637628 t=17022
+ti gong 	提供	c=16 d=1.7248 t=17022
+ti gong fang 	提供方	c=1 d=0.170333 t=17022
 ti huan 	替換	c=1 d=0.00588705 t=17022
 ti hui 	體會	c=1 d=4.14924e-005 t=17022
 ti jiao 	提交	c=5 d=0.293758 t=17022
-ti lian 	提煉	c=1 d=1 t=15808
+ti lian 	提煉	c=1 d=0.00231117 t=17022
 ti qian 	提前	c=6 d=1.45617 t=17022
-ti qu 	提取	c=1 d=1 t=16032
-ti xi 	體系	c=2 d=0.00404611 t=17022
+ti qu 	提取	c=1 d=0.00708341 t=17022
+ti xi 	體系	c=2 d=0.00472447 t=17022
 ti xian 	體現	c=3 d=0.00318278 t=17022
-ti xing 	提醒	c=1 d=1 t=16513
+ti xing 	提醒	c=1 d=0.0784731 t=17022
 ti zu qiu 	踢足球	c=1 d=0.527292 t=17022
 tian 	填	c=5 d=0.000323022 t=17022
 tian 	天	c=5 d=0.292298 t=17022
@@ -2954,7 +3107,7 @@ tian liang 	天量	c=0 d=0.00500366 t=17022
 tian liang de 	天量的	c=1 d=0.0502874 t=17022
 tian ma fan 	添麻煩	c=1 d=0.267135 t=17022
 tian mei 	天美	c=1 d=0.0359725 t=17022
-tian mu 	天目	c=4 d=3.10097 t=14825
+tian mu 	天目	c=4 d=5.25742e-005 t=17022
 tian pu xiao jie 	甜普小姐	c=1 d=0.227638 t=17022
 tian qi 	天氣	c=7 d=0.630097 t=17022
 tian shang 	填上	c=1 d=3.17618e-008 t=17022
@@ -2962,22 +3115,25 @@ tian shi 	天使	c=1 d=0.00136037 t=17022
 tian tian 	天天	c=7 d=0.108195 t=17022
 tian xiang 	天香	c=1 d=0.14808 t=17022
 tian xie 	填寫	c=3 d=0.257947 t=17022
-tiao 	調	c=2 d=1.60585e-005 t=17022
+tiao 	條	c=1 d=1 t=1009
+tiao 	調	c=2 d=0.00114769 t=17022
 tiao 	跳	c=1 d=0.647265 t=17022
+tiao cheng 	調成	c=1 d=1 t=59
 tiao gao 	調高	c=2 d=2.61965e-005 t=17022
 tiao jian 	條件	c=2 d=0.0125336 t=17022
-tiao jie 	調節	c=2 d=1.7827 t=15791
-tiao kong 	調控	c=3 d=1.58731 t=15790
+tiao jie 	調節	c=2 d=0.00378439 t=17022
+tiao kong 	調控	c=3 d=0.0033528 t=17022
 tiao li 	條例	c=1 d=0.150318 t=17022
 tiao mu 	條目	c=1 d=0.000157671 t=17022
 tiao shi 	調試	c=9 d=0.158618 t=17022
-tiao shi qi 	調試器	c=3 d=1.82067 t=16581
+tiao shi qi 	調試器	c=3 d=0.20073 t=17022
 tiao xuan 	挑選	c=1 d=0.000141955 t=17022
 tiao zheng 	調整	c=11 d=0.125556 t=17022
 tie zhi 	貼紙	c=1 d=0.249075 t=17022
+ting 	停	c=1 d=1 t=847
 ting dao 	聽到	c=1 d=2.86602e-005 t=17022
 ting liu 	停留	c=2 d=0.00835412 t=17022
-ting qi lai 	聽起來	c=1 d=1 t=16505
+ting qi lai 	聽起來	c=1 d=0.0753961 t=17022
 ting you 	挺有	c=0 d=0.0427415 t=17022
 ting you yong 	挺有用	c=1 d=0.429557 t=17022
 ting zhe 	聽着	c=1 d=0.0256042 t=17022
@@ -2995,6 +3151,7 @@ tong hua 	通話	c=4 d=0.650931 t=17022
 tong ji 	同濟	c=2 d=0.158188 t=17022
 tong ji 	統計	c=2 d=0.000197438 t=17022
 tong ji liang 	統計量	c=1 d=0.000206543 t=17022
+tong kuan 	同款	c=1 d=1 t=557
 tong pian 	通篇	c=1 d=1.05964e-005 t=17022
 tong shi 	同時	c=4 d=0.0968105 t=17022
 tong xin 	通信	c=1 d=0.327915 t=17022
@@ -3002,22 +3159,24 @@ tong xing zheng 	通行證	c=3 d=1.55762 t=17022
 tong xue 	同學	c=1 d=0.031273 t=17022
 tong xun 	通訊	c=1 d=0.329559 t=17022
 tong yang 	同樣	c=2 d=0.174645 t=17022
-tong yi 	同一	c=0 d=0.1 t=16867
+tong yi 	同一	c=0 d=0.0460704 t=17022
 tong yi 	同義	c=1 d=0.0531307 t=17022
-tong yi 	統一	c=4 d=0.00082154 t=17022
-tong yi zhang 	同一張	c=1 d=1 t=16868
+tong yi 	統一	c=4 d=0.603506 t=17022
+tong yi zhang 	同一張	c=1 d=0.463013 t=17022
 tong yong 	通用	c=2 d=0.19593 t=17022
-tou 	投	c=1 d=1 t=15648
-tou 	頭	c=2 d=0.0133665 t=17022
+tou 	投	c=1 d=0.00103848 t=17022
+tou 	頭	c=5 d=0.454755 t=17022
 tou bao 	投保	c=2 d=0.00391154 t=17022
 tou bu 	頭部	c=1 d=0.0884781 t=17022
-tou fa 	頭髮	c=1 d=1 t=15545
+tou fa 	頭髮	c=1 d=0.000620491 t=17022
 tou gao 	投稿	c=8 d=0.00365125 t=17022
 tou ming 	透明	c=4 d=1.0759 t=17022
 tou nao 	頭腦	c=0 d=0.0522046 t=17022
 tou nao te gong 	頭腦特工	c=1 d=0.00606634 t=17022
 tou nao te gong dui 	頭腦特攻隊	c=1 d=0.524663 t=17022
-tou tou 	偷偷	c=3 d=1.15722 t=16844
+tou ru 	投入	c=1 d=1 t=1348
+tou shang 	頭上	c=1 d=1 t=498
+tou tou 	偷偷	c=3 d=0.475219 t=17022
 tou wen jian 	頭文件	c=2 d=0.000113996 t=17022
 tou xiang 	頭像	c=1 d=0.0710054 t=17022
 tou ying yi 	投影儀	c=2 d=0.270138 t=17022
@@ -3028,6 +3187,7 @@ tu biao 	圖表	c=3 d=0.0791249 t=17022
 tu ceng 	塗層	c=1 d=0.205975 t=17022
 tu chu 	突出	c=3 d=0.037068 t=17022
 tu chuang 	圖牀	c=1 d=0.0420036 t=17022
+tu di 	土地	c=1 d=1 t=1232
 tu li 	圖例	c=1 d=0.0237541 t=17022
 tu pian 	圖片	c=18 d=3.48835 t=17022
 tu po 	突破	c=1 d=0.0337087 t=17022
@@ -3041,11 +3201,13 @@ tu zhang 	圖章	c=1 d=0.00802655 t=17022
 tuan 	團	c=2 d=0.98823 t=17022
 tuan dui 	團隊	c=5 d=0.0212829 t=17022
 tui 	推	c=3 d=0.277544 t=17022
+tui 	腿	c=1 d=1 t=1378
 tui 	退	c=6 d=0.0578443 t=17022
 tui ce 	推測	c=2 d=0.000495831 t=17022
+tui chu 	推出	c=2 d=1.94176 t=1148
 tui chu 	退出	c=3 d=1.46777e-007 t=17022
 tui dao 	推導	c=3 d=0.00191125 t=17022
-tui duan 	推斷	c=1 d=1 t=15837
+tui duan 	推斷	c=1 d=0.00267181 t=17022
 tui guang 	推廣	c=1 d=0.000147011 t=17022
 tui huo 	退貨	c=6 d=0.656774 t=17022
 tui jian 	推薦	c=28 d=0.134475 t=17022
@@ -3057,15 +3219,17 @@ tui song 	推送	c=7 d=0.00598359 t=17022
 tui xiu 	退休	c=1 d=4.69037e-006 t=17022
 tun li 	屯裏	c=0 d=0.00057417 t=17022
 tun li ren 	屯裏人	c=2 d=0.011599 t=17022
-tuo 	拖	c=2 d=1.65377 t=16987
+tuo 	拖	c=2 d=1.38827 t=17022
 tuo fu 	託福	c=1 d=0.00192083 t=17022
 tuo kuan 	拓寬	c=1 d=9.65934e-005 t=17022
 tuo la 	拖拉	c=1 d=0.00194013 t=17022
+tuo shui 	脫水	c=1 d=1 t=474
 tuo yun 	託運	c=1 d=0.138069 t=17022
 tuo zi 	坨子	c=0 d=0.00231676 t=17022
-wa 	挖	c=1 d=1 t=15944
+wa 	挖	c=1 d=0.00456197 t=17022
+wa 	蛙	c=1 d=1 t=753
 wa jue 	挖掘	c=2 d=6.12939e-007 t=17022
-wa zi 	襪子	c=1 d=1 t=14628
+wa zi 	襪子	c=1 d=6.33133e-006 t=17022
 wai 	外	c=3 d=0.305196 t=17022
 wai bao 	外包	c=9 d=0.00532608 t=17022
 wai bi 	外幣	c=1 d=0.01649 t=17022
@@ -3076,6 +3240,7 @@ wai lian 	外鏈	c=1 d=0.371577 t=17022
 wai mai 	外賣	c=1 d=0.506617 t=17022
 wai shi 	外事	c=1 d=0.000350903 t=17022
 wai yu 	外語	c=1 d=0.0898153 t=17022
+wan 	晚	c=1 d=1 t=171
 wan 	灣	c=1 d=0.0755799 t=17022
 wan 	玩	c=1 d=1.77834e-008 t=17022
 wan an 	晚安	c=2 d=0.484325 t=17022
@@ -3087,6 +3252,7 @@ wan quan 	完全	c=3 d=0.941765 t=17022
 wan shan 	完善	c=4 d=0.311923 t=17022
 wan shang 	晚上	c=1 d=0.00103848 t=17022
 wan sheng jie 	萬聖節	c=1 d=0.360595 t=17022
+wan wan 	彎彎	c=1 d=1 t=761
 wan yi 	萬一	c=1 d=0.0132336 t=17022
 wang 	忘	c=1 d=0.00565622 t=17022
 wang 	汪	c=1 d=0.937067 t=17022
@@ -3094,7 +3260,7 @@ wang 	王	c=32 d=1.55355 t=17022
 wang 	網	c=5 d=0.736891 t=17022
 wang fan 	往返	c=2 d=0.000347789 t=17022
 wang fei 	王菲	c=1 d=0.000949097 t=17022
-wang ge 	網格	c=4 d=0.00145173 t=17022
+wang ge 	網格	c=4 d=0.882497 t=17022
 wang ge ji suan 	網格計算	c=1 d=2.61935e-005 t=17022
 wang gou 	網購	c=1 d=0.153355 t=17022
 wang he 	王何	c=1 d=0.000889368 t=17022
@@ -3122,25 +3288,27 @@ wei 	未	c=3 d=0.641985 t=17022
 wei 	爲	c=17 d=0.632594 t=17022
 wei 	維	c=0 d=4.64291e-005 t=17022
 wei 	衛	c=3 d=0.650509 t=17022
-wei bo 	微博	c=1 d=1 t=14140
+wei bo 	微博	c=1 d=5.51844e-007 t=17022
+wei bo 	微薄	c=1 d=1 t=759
 wei bo 	韋伯	c=1 d=3.07383e-005 t=17022
 wei bu 	尾部	c=1 d=0.341298 t=17022
-wei ci 	爲此	c=1 d=1 t=14164
+wei ci 	爲此	c=1 d=6.22203e-007 t=17022
 wei dao 	味道	c=1 d=3.02807e-005 t=17022
+wei guan 	微觀	c=2 d=1.67706 t=364
 wei hu 	維護	c=4 d=0.00513832 t=17022
 wei lai 	未來	c=5 d=0.179964 t=17022
 wei le 	爲了	c=3 d=0.0280154 t=17022
 wei li 	爲例	c=1 d=0.0731678 t=17022
 wei mo jie 	維摩詰	c=1 d=0.000792752 t=17022
 wei nu 	爲奴	c=1 d=0.000788798 t=17022
-wei qi 	圍棋	c=7 d=0.965605 t=17022
+wei qi 	圍棋	c=8 d=1.00219 t=17022
 wei qu 	委屈	c=3 d=0.100228 t=17022
-wei shen me 	爲什麼	c=15 d=0.514057 t=17022
+wei shen me 	爲什麼	c=16 d=1.0068 t=17022
 wei shu 	位數	c=1 d=0.0112769 t=17022
 wei wan cheng 	未完成	c=4 d=0.16123 t=17022
 wei wei 	微微	c=4 d=0.0758058 t=17022
-wei xin 	微信	c=11 d=1.87989 t=17022
-wei xiu 	維修	c=4 d=0.388687 t=17022
+wei xin 	微信	c=12 d=1.87989 t=17022
+wei xiu 	維修	c=6 d=1.23341 t=17022
 wei yuan 	委員	c=1 d=0.0224829 t=17022
 wei zhe 	爲者	c=1 d=0.0243554 t=17022
 wei zhi 	位置	c=2 d=0.164474 t=17022
@@ -3150,64 +3318,73 @@ wei zhu 	爲主	c=1 d=0.0837432 t=17022
 wen 	問	c=3 d=1.4457 t=17022
 wen 	文	c=6 d=0.0374406 t=17022
 wen ben 	文本	c=3 d=0.00036393 t=17022
-wen dang 	文檔	c=12 d=0.599937 t=17022
+wen dang 	文檔	c=13 d=0.599937 t=17022
 wen ding 	穩定	c=3 d=0.000841773 t=17022
 wen he 	吻合	c=1 d=0.000283018 t=17022
 wen he 	溫和	c=1 d=0.000281606 t=17022
-wen hua 	文化	c=0 d=0.00269169 t=17022
-wen jian 	文件	c=19 d=3.80278 t=17022
+wen hua 	文化	c=1 d=0.00808895 t=17022
+wen jian 	文件	c=21 d=3.80278 t=17022
 wen jian jia 	文件夾	c=0 d=0.00227089 t=17022
 wen lan 	文瀾	c=0 d=0.0301194 t=17022
 wen lan zai xian 	文瀾在線	c=1 d=0.302704 t=17022
 wen ming shi 	文明史	c=1 d=0.000476044 t=17022
 wen ni 	問你	c=2 d=0.507108 t=17022
 wen rou 	溫柔	c=1 d=0.0086517 t=17022
-wen ti 	問題	c=64 d=0.998491 t=17022
+wen ti 	問題	c=74 d=0.998491 t=17022
 wen wen 	問問	c=6 d=0.647265 t=17022
-wen xian 	文獻	c=21 d=1.7702 t=17022
+wen xian 	文獻	c=28 d=1.7702 t=17022
 wen xian chuan di 	文獻傳遞	c=1 d=0.304221 t=17022
-wen zhang 	文章	c=9 d=0.946485 t=17022
+wen zhang 	文章	c=10 d=1 t=17022
 wen zhong 	文中	c=1 d=1.43036e-005 t=17022
 wen zhou 	溫州	c=1 d=2.46681e-005 t=17022
 wen zi 	文字	c=2 d=0.000352662 t=17022
-wo 	我	c=136 d=5.42281 t=17022
+wo 	我	c=173 d=5.42281 t=17022
 wo 	涴	c=1 d=1 t=17022
+wo 	窩	c=1 d=1 t=790
 wo da gai 	我大概	c=1 d=0.404542 t=17022
-wo de 	我的	c=5 d=0.604724 t=17022
+wo de 	我的	c=9 d=0.604724 t=17022
+wo fang fu 	我彷彿	c=1 d=1 t=729
 wo guo 	我國	c=4 d=0.0999305 t=17022
 wo ji de 	我記得	c=1 d=0.522046 t=17022
-wo ju 	萵苣	c=1 d=1 t=16059
+wo ju 	萵苣	c=1 d=1 t=17022
 wo kan zhong 	我看中	c=1 d=0.0267827 t=17022
 wo ma 	我媽	c=1 d=0.0518189 t=17022
-wo men 	我們	c=47 d=6.21297 t=17022
+wo men 	我們	c=71 d=6.21297 t=17022
 wo qu 	我去	c=1 d=0.00256704 t=17022
-wo shi 	我是	c=5 d=0.56836 t=17022
+wo shi 	我是	c=7 d=0.56836 t=17022
 wo shuo 	我說	c=0 d=0.00101529 t=17022
+wo xiang shuo 	我想說	c=1 d=1 t=17778
+wo xiang zhi dao 	我想知道	c=1 d=1 t=17885
 wo yao 	我要	c=1 d=0.50409 t=17022
-wo yi jing 	我已經	c=1 d=0.0413782 t=17022
-wo zhi dao 	我知道	c=1 d=1 t=16361
-wu 	武	c=2 d=1.81873 t=14803
+wo yi jing 	我已經	c=2 d=1.00062 t=17022
+wo zhi dao 	我知道	c=1 d=1 t=17022
+wu 	五	c=1 d=1 t=18539
+wu 	武	c=2 d=1.81873 t=17022
 wu 	污	c=2 d=1.60189e-006 t=17022
-wu 	烏	c=1 d=1 t=14654
+wu 	烏	c=1 d=1 t=17022
 wu 	無	c=11 d=1.15935 t=17022
 wu 	物	c=1 d=0.0115047 t=17022
 wu an 	武安	c=0 d=0.00153752 t=17022
 wu an guo 	武安國	c=2 d=0.0343257 t=17022
-wu fa 	無法	c=8 d=1.78558 t=17022
+wu cha yi 	無差異	c=1 d=1 t=137
+wu fa 	無法	c=10 d=1.78558 t=17022
 wu fa shou qu 	無法收取	c=1 d=0.904837 t=17022
 wu gen ju 	無根據	c=1 d=0.0284388 t=17022
+wu guo 	誤國	c=1 d=1 t=18227
 wu jiao 	五角	c=2 d=0.149338 t=17022
 wu jiao chang 	五角場	c=2 d=0.131756 t=17022
-wu kang 	武康	c=3 d=2.70004 t=14805
+wu kang 	武康	c=3 d=2.70004 t=17022
 wu ke 	吳克	c=2 d=0.805059 t=17022
 wu ke li li 	烏克麗麗	c=3 d=0.194357 t=17022
+wu li 	無力	c=1 d=1 t=1218
 wu li 	無理	c=1 d=0.186861 t=17022
 wu li 	物理	c=0 d=0.0167797 t=17022
 wu li zhi ren 	無理之人	c=1 d=0.174645 t=17022
 wu li zhi ren 	物理之人	c=1 d=0.168638 t=17022
 wu lian wang 	物聯網	c=1 d=2.38813e-006 t=17022
-wu lin 	武林	c=1 d=1 t=14631
-wu liu 	物流	c=10 d=0.321422 t=17022
+wu liao 	物料	c=1 d=1 t=19187
+wu lin 	武林	c=1 d=1 t=17022
+wu liu 	物流	c=12 d=0.321422 t=17022
 wu lun 	無論	c=2 d=0.0284645 t=17022
 wu nian 	五年	c=1 d=0.209088 t=17022
 wu qian 	五千	c=0 d=4.68957e-005 t=17022
@@ -3217,20 +3394,25 @@ wu ren 	無人	c=1 d=0.000345679 t=17022
 wu ru 	誤入	c=1 d=4.93169e-008 t=17022
 wu se qi 	五色旗	c=1 d=0.000665481 t=17022
 wu shan 	吳山	c=1 d=0.000713734 t=17022
-wu xian 	無限	c=3 d=0.658337 t=17022
+wu xian 	無限	c=4 d=0.658337 t=17022
 wu xian zhi bo 	無限直撥	c=2 d=0.620928 t=17022
 wu xian zhi bo 	無限直播	c=1 d=0.283654 t=17022
+wu xin 	無心	c=1 d=1 t=765
 wu xing 	五星	c=1 d=8.23255e-007 t=17022
+wu yong 	無用	c=1 d=1 t=1307
+wu zhuang 	武裝	c=1 d=1 t=1194
 xi 	媳	c=1 d=0.0372538 t=17022
-xi 	洗	c=1 d=1 t=14949
+xi 	洗	c=1 d=1 t=17022
 xi 	習	c=3 d=0.50274 t=17022
 xi 	西	c=5 d=0.0682212 t=17022
 xi gai 	膝蓋	c=5 d=0.319923 t=17022
 xi gu 	硒鼓	c=4 d=0.538171 t=17022
 xi guo 	洗過	c=1 d=0.207008 t=17022
+xi hu 	西湖	c=1 d=1.09501 t=450
 xi hu qu 	西湖區	c=1 d=0.00217658 t=17022
+xi hu wen hua 	西湖文化	c=1 d=1 t=451
 xi hua 	細化	c=2 d=0.00170362 t=17022
-xi huan 	喜歡	c=1 d=1 t=15122
+xi huan 	喜歡	c=1 d=7.48518e-005 t=17022
 xi jie 	細節	c=1 d=1.60468e-005 t=17022
 xi jin ping 	習近平	c=1 d=0.164474 t=17022
 xi jin qu 	吸進去	c=1 d=0.000164928 t=17022
@@ -3242,12 +3424,13 @@ xi shou 	洗手	c=2 d=0.462162 t=17022
 xi shu 	係數	c=1 d=0.00755912 t=17022
 xi shu 	稀疏	c=1 d=0.00937227 t=17022
 xi song 	稀鬆	c=1 d=0.343009 t=17022
-xi tang 	西塘	c=2 d=1.92774 t=14671
+xi tang 	西塘	c=2 d=1.51327e-005 t=17022
 xi tong 	系統	c=100 d=1.39758 t=17022
 xi wang 	希望	c=3 d=0.466572 t=17022
-xi wei 	細微	c=1 d=1 t=14936
+xi wei 	細微	c=1 d=2.95331e-005 t=17022
 xi xi 	西西	c=1 d=2.22093e-005 t=17022
-xi you 	西遊	c=1 d=1 t=14016
+xi you 	西遊	c=1 d=2.96862e-007 t=17022
+xi yue 	喜悅	c=1 d=1 t=958
 xi zang 	西藏	c=1 d=0.000617396 t=17022
 xia 	下	c=43 d=1.38449 t=17022
 xia 	夏	c=1 d=0.0992613 t=17022
@@ -3257,28 +3440,29 @@ xia ci 	下次	c=1 d=0.0228227 t=17022
 xia gang 	下崗	c=1 d=4.52904e-006 t=17022
 xia ge yue 	下個月	c=3 d=0.442594 t=17022
 xia lai 	下來	c=1 d=1.07029e-005 t=17022
-xia men 	廈門	c=1 d=1 t=15532
+xia men 	廈門	c=1 d=0.000581442 t=17022
 xia mian 	下面	c=2 d=0.0513033 t=17022
 xia qu 	下去	c=1 d=9.12037e-006 t=17022
-xia yi hang 	下一行	c=1 d=1 t=16632
+xia wu 	下午	c=1 d=1 t=859
+xia yi hang 	下一行	c=1 d=0.142274 t=17022
 xia zai 	下載	c=13 d=0.0546866 t=17022
 xian 	先	c=7 d=0.755784 t=17022
-xian 	弦	c=4 d=3.89732 t=16093
+xian 	弦	c=4 d=0.0374514 t=17022
 xian 	線	c=7 d=0.926638 t=17022
 xian 	險	c=4 d=0.357248 t=17022
 xian cun 	現存	c=1 d=0.000277414 t=17022
 xian dai 	現代	c=13 d=0.54885 t=17022
 xian dai zhi zao 	現代製造	c=2 d=0.0526289 t=17022
 xian de 	顯得	c=1 d=1.29424e-005 t=17022
-xian jie 	銜接	c=1 d=1 t=15904
+xian jie 	銜接	c=1 d=0.00373503 t=17022
 xian jin 	先進	c=2 d=0.000902577 t=17022
-xian jing 	仙境	c=0 d=0.1 t=14667
+xian jing 	仙境	c=0 d=7.69454e-007 t=17022
 xian qian 	先前	c=3 d=0.000666566 t=17022
-xian ran 	顯然	c=1 d=1 t=16235
+xian ran 	顯然	c=1 d=0.0195457 t=17022
 xian sheng 	先生	c=5 d=0.00266464 t=17022
 xian shi 	顯示	c=11 d=0.68406 t=17022
 xian shi ping 	顯示屏	c=1 d=0.135335 t=17022
-xian xiang 	現象	c=1 d=1 t=14490
+xian xiang 	現象	c=3 d=0.00754164 t=17022
 xian xue 	獻血	c=1 d=0.000391706 t=17022
 xian you 	現有	c=1 d=3.4059e-006 t=17022
 xian zai 	現在	c=20 d=1.67623 t=17022
@@ -3299,52 +3483,61 @@ xiang 	象	c=1 d=1.29112e-006 t=17022
 xiang 	鑲	c=1 d=0.0162445 t=17022
 xiang 	項	c=3 d=0.000181365 t=17022
 xiang bi 	相比	c=2 d=0.00054485 t=17022
-xiang dang 	相當	c=1 d=1 t=16524
-xiang dao 	嚮導	c=2 d=1.93239 t=14868
+xiang dang 	相當	c=1 d=0.08291 t=17022
+xiang dao 	嚮導	c=2 d=4.06203e-005 t=17022
 xiang deng 	相等	c=1 d=0.000452827 t=17022
 xiang dui 	相對	c=2 d=0.100761 t=17022
 xiang fa 	想法	c=3 d=0.0135886 t=17022
 xiang gang 	香港	c=5 d=0.106992 t=17022
 xiang guan 	相關	c=52 d=0.417641 t=17022
 xiang hao 	想好	c=1 d=0.00465413 t=17022
-xiang hu 	相互	c=1 d=0.0123389 t=17022
+xiang hu 	相互	c=2 d=0.0123389 t=17022
 xiang jian 	詳見	c=1 d=0.0405589 t=17022
 xiang liang 	向量	c=1 d=0.170333 t=17022
 xiang mu 	項目	c=66 d=3.76042 t=17022
 xiang mu ren wu 	項目任務	c=1 d=0.010358 t=17022
 xiang qing 	詳情	c=1 d=0.00759701 t=17022
-xiang qun 	象羣	c=1 d=1 t=14962
+xiang qun 	象羣	c=1 d=3.36331e-005 t=17022
 xiang sheng 	相聲	c=2 d=0.0210822 t=17022
 xiang shu 	詳述	c=1 d=0.628135 t=17022
 xiang su 	像素	c=1 d=1.08966 t=17022
 xiang su ren 	像素人	c=2 d=1.91683 t=17022
-xiang tong 	相同	c=1 d=0.185444 t=17022
+xiang tong 	相同	c=4 d=1.74348 t=17022
+xiang xi 	詳細	c=1 d=1 t=18047
+xiang xiang 	想想	c=1 d=1 t=742
 xiang xiang li 	想象力	c=1 d=1.92645e-008 t=17022
 xiang yang 	向陽	c=1 d=8.15063e-007 t=17022
-xiang yao 	想要	c=4 d=1.9252 t=16613
-xiang ying 	相應	c=4 d=0.285093 t=17022
+xiang yao 	想要	c=5 d=1.07065 t=17022
+xiang ying 	相應	c=5 d=1 t=17022
 xiang zhi dao 	想知道	c=1 d=0.494109 t=17022
-xiao 	小	c=10 d=0.594532 t=17022
+xiao 	小	c=12 d=0.594532 t=17022
 xiao 	校	c=1 d=7.4107e-005 t=17022
-xiao 	笑	c=9 d=3.91125 t=16850
+xiao 	笑	c=10 d=1.65509 t=17022
+xiao 	肖	c=4 d=3.93575 t=107
 xiao bai 	小白	c=1 d=0.0800583 t=17022
 xiao bai lou 	小白樓	c=2 d=0.00708341 t=17022
 xiao chao 	小抄	c=1 d=0.00343067 t=17022
 xiao che 	校車	c=4 d=0.0166569 t=17022
+xiao chou 	小丑	c=2 d=1.99005 t=18583
 xiao dian 	笑點	c=1 d=2.13937e-006 t=17022
 xiao du 	效度	c=2 d=0.000331614 t=17022
-xiao fei 	消費	c=1 d=0.0196437 t=17022
+xiao fei 	消費	c=2 d=1 t=17022
 xiao guo 	效果	c=4 d=0.721226 t=17022
+xiao hao 	消耗	c=1 d=1 t=174
 xiao he 	小鶴	c=1 d=0.0229371 t=17022
 xiao jie 	小結	c=5 d=0.0902655 t=17022
 xiao jie mei 	小姐妹	c=1 d=0.000227127 t=17022
 xiao lang hao 	小狼毫	c=1 d=0.562705 t=17022
 xiao lv 	效率	c=2 d=0.024972 t=17022
 xiao neng 	效能	c=3 d=1.25359e-006 t=17022
+xiao pen 	小盆	c=0 d=0.1 t=18955
+xiao pen you 	小盆有	c=1 d=1 t=18956
 xiao qi 	小憩	c=1 d=8.98612e-008 t=17022
+xiao qiao 	小巧	c=1 d=1 t=17748
 xiao qiu 	小球	c=0 d=9.78001e-005 t=17022
+xiao qu 	小區	c=1 d=1 t=19568
 xiao qu 	校區	c=5 d=0.203926 t=17022
-xiao shi 	小時	c=5 d=0.532592 t=17022
+xiao shi 	小時	c=7 d=0.532592 t=17022
 xiao shi 	消失	c=1 d=0.140858 t=17022
 xiao shi hou 	小時候	c=1 d=8.31529e-007 t=17022
 xiao shou 	銷售	c=3 d=1.65973e-006 t=17022
@@ -3353,32 +3546,38 @@ xiao si 	小思	c=0 d=0.0156453 t=17022
 xiao si 	笑死	c=1 d=0.000713734 t=17022
 xiao tui 	消退	c=1 d=0.0982736 t=17022
 xiao xiao 	小小	c=1 d=0.000169951 t=17022
-xiao xie 	小寫	c=1 d=1 t=16009
+xiao xie 	小寫	c=1 d=1 t=17022
+xiao xing xing 	小星星	c=1 d=1 t=901
 xiao xing xing 	小行星	c=1 d=9.14242e-005 t=17022
 xiao ying 	效應	c=2 d=0.119433 t=17022
+xiao yong 	效用	c=1 d=1 t=18830
+xiao you jian 	小郵件	c=1 d=1 t=594
+xiao yu 	小於	c=1 d=1 t=19838
 xiao yuan 	校園	c=1 d=0.00423234 t=17022
 xiao zhong 	小衆	c=1 d=0.66034 t=17022
+xiao zu 	小組	c=2 d=1.8781 t=166
 xie 	些	c=2 d=0.0112264 t=17022
-xie 	寫	c=14 d=0.937067 t=17022
+xie 	寫	c=18 d=1.03903 t=17022
 xie 	鞋	c=3 d=0.192769 t=17022
+xie fa 	寫法	c=1 d=1 t=17027
 xie fang cha 	協方差	c=1 d=0.167797 t=17022
 xie gang 	斜槓	c=1 d=0.0126512 t=17022
 xie gei 	寫給	c=1 d=0.637628 t=17022
 xie hui 	協會	c=3 d=0.000200065 t=17022
 xie la 	謝拉	c=1 d=0.00067217 t=17022
-xie tiao 	協調	c=1 d=1.64558e-007 t=17022
-xie tong 	協同	c=22 d=0.0953692 t=17022
-xie xie 	謝謝	c=16 d=0.992748 t=17022
+xie tiao 	協調	c=2 d=1 t=17022
+xie tong 	協同	c=25 d=1.99819 t=17022
+xie xie 	謝謝	c=17 d=1 t=17022
 xie yi 	協議	c=1 d=2.48601e-008 t=17022
 xie zai 	卸載	c=1 d=0.00427488 t=17022
 xie zai 	寫在	c=3 d=0.00436124 t=17022
 xie zhu 	協助	c=1 d=4.00721e-007 t=17022
 xie zi 	鞋子	c=3 d=1.3373 t=17022
-xie zuo 	協作	c=6 d=0.0218197 t=17022
+xie zuo 	協作	c=9 d=2.24815 t=17022
 xie zuo 	寫作	c=1 d=9.75642e-005 t=17022
 xin 	信	c=9 d=0.181613 t=17022
 xin 	心	c=2 d=0.0800583 t=17022
-xin 	新	c=9 d=0.987707 t=17022
+xin 	新	c=15 d=0.987707 t=17022
 xin feng 	新豐	c=1 d=0.144424 t=17022
 xin gu 	新股	c=1 d=0.00431784 t=17022
 xin jian 	新建	c=2 d=0.0249797 t=17022
@@ -3389,18 +3588,20 @@ xin li 	心理	c=2 d=0.410656 t=17022
 xin li 	心裏	c=0 d=0.00366992 t=17022
 xin li wei yuan 	心裏委員	c=2 d=0.408812 t=17022
 xin nian 	信念	c=1 d=0.0569831 t=17022
-xin nian 	新年	c=1 d=0.000837575 t=17022
+xin nian 	新年	c=3 d=0.207278 t=17022
 xin pian 	芯片	c=1 d=5.38311e-009 t=17022
 xin qing 	心情	c=1 d=0.261846 t=17022
 xin shou 	新手	c=1 d=0.105928 t=17022
 xin tuo 	信託	c=0 d=0.00271874 t=17022
 xin wen 	新聞	c=2 d=0.0258615 t=17022
-xin xi 	信息	c=29 d=1.17434 t=17022
+xin xi 	信息	c=37 d=1.17434 t=17022
 xin xi ban 	信息板	c=1 d=3.08924e-005 t=17022
 xin xi ban 	信息版	c=1 d=3.0585e-005 t=17022
 xin xi hua 	信息化	c=7 d=0.133989 t=17022
 xin xi liu 	信息流	c=1 d=0.0968105 t=17022
-xin yong 	信用	c=1 d=1 t=15919
+xin xin 	信心	c=1 d=1 t=19240
+xin xing 	新型	c=1 d=1 t=19593
+xin yong 	信用	c=2 d=1.00001 t=17022
 xin yong ka 	信用卡	c=4 d=0.0371231 t=17022
 xin yuan jie yi 	新垣結衣	c=1 d=0.0119742 t=17022
 xin zhi 	新知	c=1 d=1.35732e-006 t=17022
@@ -3409,59 +3610,66 @@ xing 	姓	c=1 d=0.0190631 t=17022
 xing 	性	c=4 d=0.00235786 t=17022
 xing 	行	c=6 d=0.625002 t=17022
 xing bu xing 	行不行	c=2 d=0.0776922 t=17022
-xing che 	行車	c=1 d=1 t=14722
-xing cheng 	形成	c=4 d=0.0459593 t=17022
+xing che 	行車	c=1 d=1 t=17022
+xing cheng 	形成	c=5 d=0.0459593 t=17022
 xing cheng 	行程	c=2 d=0.00210341 t=17022
 xing fang 	行房	c=1 d=0.000359786 t=17022
-xing fu 	幸福	c=1 d=1 t=14823
+xing fu 	幸福	c=1 d=1 t=17022
 xing hao 	型號	c=3 d=2.14771e-005 t=17022
 xing ji 	星際	c=3 d=0.00318922 t=17022
+xing mei 	星美	c=1 d=1 t=18946
 xing ming 	姓名	c=1 d=0.0322254 t=17022
-xing neng 	性能	c=1 d=0.324652 t=17022
+xing neng 	性能	c=2 d=1.00185 t=17022
 xing pian 	行騙	c=1 d=0.0317456 t=17022
 xing qiu 	星球	c=2 d=0.767206 t=17022
 xing qu 	興趣	c=1 d=0.126186 t=17022
 xing shi 	形式	c=3 d=0.163257 t=17022
 xing shi zou rou 	行屍走肉	c=2 d=0.0225549 t=17022
-xing wei 	行爲	c=2 d=0.0801395 t=17022
+xing wei 	行爲	c=5 d=0.0801395 t=17022
+xing yun 	幸運	c=1 d=1 t=715
 xing zhe 	行者	c=1 d=0.0247235 t=17022
-xing zhi 	性質	c=3 d=0.000119762 t=17022
+xing zhi 	性質	c=4 d=0.00383004 t=17022
 xiu ding 	修訂	c=1 d=0.0141931 t=17022
-xiu gai 	修改	c=11 d=0.769782 t=17022
-xiu lian 	修煉	c=1 d=1 t=15112
+xiu gai 	修改	c=15 d=0.769782 t=17022
+xiu li 	修理	c=1 d=1 t=19281
+xiu lian 	修煉	c=1 d=1 t=17022
 xiu xi 	休息	c=1 d=0.0731678 t=17022
-xiu xian 	休閒	c=3 d=0.631284 t=17022
+xiu xian 	休閒	c=4 d=0.631284 t=17022
 xu 	婿	c=1 d=0.0378169 t=17022
 xu 	徐	c=2 d=0.0232837 t=17022
-xu duo 	許多	c=3 d=0.231833 t=17022
-xu ni 	虛擬	c=5 d=0.878095 t=17022
-xu ni hua 	虛擬化	c=7 d=0.0827731 t=17022
+xu duo 	許多	c=6 d=1.50561 t=17022
+xu ni 	虛擬	c=10 d=2.06151 t=17022
+xu ni hua 	虛擬化	c=8 d=1 t=17022
 xu ni ji 	虛擬機	c=1 d=0.183599 t=17022
 xu qing 	徐青	c=1 d=0.00125578 t=17022
-xu qiu 	需求	c=16 d=0.0355434 t=17022
+xu qiu 	需求	c=22 d=1.49591 t=17022
 xu shu 	徐庶	c=1 d=5.85968e-007 t=17022
-xu yao 	需要	c=27 d=0.97531 t=17022
+xu yao 	需要	c=33 d=0.97531 t=17022
 xu yuan 	許願	c=1 d=0.146607 t=17022
-xuan 	旋	c=0 d=0.00880368 t=17022
+xuan 	懸	c=1 d=1 t=861
+xuan 	旋	c=1 d=1 t=17022
+xuan 	炫	c=2 d=1.39259 t=884
 xuan 	選	c=4 d=0.0216013 t=17022
 xuan ke 	選課	c=1 d=0.000305061 t=17022
 xuan pei 	選配	c=6 d=0.0376283 t=17022
 xuan qu 	選取	c=2 d=1.14295e-005 t=17022
 xuan shou 	選手	c=1 d=0.0141223 t=17022
-xuan xiang 	選項	c=3 d=6.44256e-005 t=17022
+xuan xiang 	選項	c=4 d=1.00005 t=17022
 xuan xiu 	選修	c=2 d=0.173507 t=17022
-xuan ze 	選擇	c=21 d=0.0108198 t=17022
-xuan zhong 	選中	c=1 d=1 t=14542
+xuan ze 	選擇	c=26 d=1.15898 t=17022
+xuan zhong 	選中	c=1 d=1 t=17022
 xuan zhuan 	旋轉	c=4 d=1.79528 t=17022
 xue 	學	c=10 d=0.980199 t=17022
+xue 	穴	c=2 d=1.98511 t=20050
 xue 	雪	c=1 d=0.831104 t=17022
 xue dao 	學到	c=1 d=0.0340475 t=17022
 xue ding e 	薛定諤	c=2 d=1.05795e-008 t=17022
 xue hao 	學號	c=2 d=2.66841e-008 t=17022
 xue hui 	學會	c=1 d=0.379083 t=17022
+xue kai qi 	薛凱琪	c=3 d=2.98506 t=18786
 xue ke 	學科	c=1 d=0.106992 t=17022
 xue nian 	學年	c=1 d=0.0898153 t=17022
-xue qi 	學期	c=4 d=0.00967232 t=17022
+xue qi 	學期	c=7 d=2.52678 t=17022
 xue qiu 	雪球	c=2 d=0.154124 t=17022
 xue sheng 	學生	c=2 d=0.392586 t=17022
 xue sheng hui 	學生會	c=1 d=0.0357931 t=17022
@@ -3470,215 +3678,245 @@ xue shu 	學術	c=15 d=1.61755 t=17022
 xue shu hui yi 	學術會議	c=1 d=0.00200924 t=17022
 xue tang 	學堂	c=1 d=8.9167e-005 t=17022
 xue wei 	學位	c=1 d=0.12938 t=17022
-xue xi 	學習	c=21 d=1.36474 t=17022
+xue xi 	學習	c=22 d=1.88285 t=17022
 xue xiao 	學校	c=5 d=0.356573 t=17022
 xue yuan 	學院	c=4 d=0.439191 t=17022
-xue zhe 	學者	c=1 d=6.70548e-005 t=17022
+xue zhe 	學者	c=2 d=1 t=17022
 xun 	尋	c=1 d=0.718924 t=17022
-xun 	潯	c=2 d=1.85642 t=14680
+xun 	潯	c=2 d=1.85642 t=17022
 xun 	訊	c=1 d=3.05164e-008 t=17022
 xun chang 	尋常	c=1 d=0.0259911 t=17022
 xun lei 	迅雷	c=4 d=0.391686 t=17022
 xun lian ying 	訓練營	c=1 d=0.106459 t=17022
 xun qiu 	尋求	c=2 d=0.0555762 t=17022
 xun su 	迅速	c=1 d=0.00162053 t=17022
-xun zhao 	尋找	c=1 d=5.64353e-006 t=17022
-ya 	亞	c=1 d=0.0257325 t=17022
-ya 	呀	c=3 d=0.628135 t=17022
+xun zhao 	尋找	c=3 d=0.0420309 t=17022
+ya 	亞	c=2 d=0.0526167 t=17022
+ya 	呀	c=5 d=0.628135 t=17022
 ya 	雅	c=1 d=0.181772 t=17022
+ya 	鴨	c=1 d=1 t=18884
+ya chi 	牙齒	c=1 d=1 t=18588
 ya hu 	雅虎	c=1 d=0.955997 t=17022
-ya jin 	押金	c=1 d=1 t=14642
+ya jin 	押金	c=1 d=1 t=17022
 ya jin sai 	亞錦賽	c=2 d=0.18189 t=17022
-ya li sang na 	亞利桑那	c=1 d=1 t=15914
-ya ma xun 	亞馬遜	c=4 d=0.503647 t=17022
+ya li sang na 	亞利桑那	c=1 d=1 t=17022
+ya ma xun 	亞馬遜	c=6 d=0.503647 t=17022
 ya shua 	牙刷	c=1 d=5.18454e-008 t=17022
-ya suo 	壓縮	c=2 d=0.109154 t=17022
+ya suo 	壓縮	c=3 d=1 t=17022
 ya suo bao 	壓縮包	c=1 d=0.0217096 t=17022
 yan 	嚴	c=1 d=0.000788798 t=17022
+yan 	延	c=1 d=1 t=20178
 yan 	演	c=3 d=0.0101529 t=17022
-yan 	煙	c=1 d=1 t=14690
+yan 	煙	c=1 d=1 t=17022
 yan 	眼	c=2 d=0.628141 t=17022
-yan 	豔	c=1 d=1 t=14812
+yan 	言	c=1 d=1 t=893
+yan 	豔	c=1 d=1 t=17022
 yan chang hui 	演唱會	c=1 d=0.00606634 t=17022
 yan du 	研讀	c=1 d=0.00219846 t=17022
-yan fa 	研發	c=1 d=1.24071e-008 t=17022
-yan hua 	演化	c=26 d=0.919452 t=17022
+yan fa 	研發	c=2 d=1 t=17022
+yan hua 	演化	c=34 d=0.919452 t=17022
 yan hua 	煙花	c=1 d=4.03704e-006 t=17022
 yan huo 	焰火	c=1 d=0.00114197 t=17022
 yan jian 	眼瞼	c=1 d=0.0944202 t=17022
 yan jiao 	眼角	c=1 d=0.00677172 t=17022
-yan jing 	眼鏡	c=2 d=0.0717197 t=17022
-yan jiu 	研究	c=77 d=1.97375 t=17022
+yan jing 	眼睛	c=1 d=1 t=17480
+yan jing 	眼鏡	c=3 d=0.289074 t=17022
+yan jiu 	研究	c=94 d=1.97375 t=17022
 yan jiu sheng 	研究生	c=12 d=0.759642 t=17022
 yan jiu suo 	研究所	c=13 d=0.236828 t=17022
 yan liu 	煙柳	c=1 d=2.4305e-007 t=17022
 yan lun 	言論	c=1 d=0.0285814 t=17022
 yan pi 	眼皮	c=0 d=0.0640824 t=17022
+yan qing 	延慶	c=0 d=0.1 t=20173
 yan qiu 	眼球	c=0 d=0.00280154 t=17022
 yan se 	顏色	c=5 d=0.655371 t=17022
 yan shi 	嚴實	c=1 d=0.0539337 t=17022
-yan shi 	演示	c=1 d=0.0229666 t=17022
+yan shi 	演示	c=2 d=0.20548 t=17022
 yan shi wen dang 	演示文檔	c=1 d=0.0212797 t=17022
+yan shuo 	演說	c=1 d=1 t=19873
 yan yi 	演繹	c=2 d=0.00152335 t=17022
 yan zheng 	驗證	c=10 d=0.0690271 t=17022
-yan zhi 	研製	c=2 d=1.43285e-007 t=17022
+yan zhi 	研製	c=3 d=1 t=17022
+yang 	楊	c=1 d=1 t=19023
 yang 	氧	c=1 d=0.927743 t=17022
 yang 	陽	c=2 d=1.22229 t=17022
 yang 	養	c=1 d=0.65377 t=17022
 yang ben 	樣本	c=2 d=3.56485e-005 t=17022
+yang cheng 	養成	c=1 d=1 t=19538
 yang ji 	樣機	c=3 d=3.31122e-007 t=17022
 yang qi 	氧氣	c=2 d=0.646461 t=17022
 yang shi 	樣式	c=1 d=0.0426384 t=17022
 yang wei 	陽痿	c=1 d=0.0220377 t=17022
 yang zi 	樣子	c=3 d=0.806541 t=17022
-yao 	瑤	c=0 d=0.1 t=14667
-yao 	要	c=59 d=2.80066 t=17022
+yao 	瑤	c=0 d=0.1 t=17022
+yao 	要	c=74 d=2.80066 t=17022
 yao 	遙	c=3 d=0.090718 t=17022
 yao bu 	要不	c=1 d=2.26033e-006 t=17022
-yao bu yao 	要不要	c=0 d=0.1 t=14553
-yao bu yao qing 	要不要請	c=1 d=1 t=14554
+yao bu yao 	要不要	c=0 d=0.1 t=17022
+yao bu yao qing 	要不要請	c=1 d=1 t=17022
+yao dao 	要到	c=1 d=1 t=547
 yao gun 	搖滾	c=1 d=5.34243e-008 t=17022
-yao lin xian jing 	瑤琳仙境	c=1 d=1 t=14668
-yao me 	要麼	c=2 d=1.98511 t=16813
+yao lin xian jing 	瑤琳仙境	c=1 d=1 t=17022
+yao me 	要麼	c=2 d=1.98511 t=17022
 yao qing 	邀請	c=3 d=0.341768 t=17022
-yao qiu 	要求	c=5 d=0.649302 t=17022
+yao qiu 	要求	c=6 d=1 t=17022
 yao qu 	要去	c=1 d=0.38868 t=17022
-yao shi 	要是	c=2 d=0.00932553 t=17022
+yao shi 	要是	c=3 d=0.0409353 t=17022
 yao shi 	鑰匙	c=1 d=0.251579 t=17022
-yao su 	要素	c=2 d=1.9802 t=15868
-ye 	也	c=19 d=1.64372 t=17022
+yao su 	要素	c=2 d=1.9802 t=17022
+yao zuo 	要做	c=1 d=1 t=18327
+ye 	也	c=27 d=1.64372 t=17022
 ye 	夜	c=1 d=0.00157264 t=17022
-ye 	業	c=2 d=1.00514 t=15896
+ye 	業	c=3 d=0.495698 t=17022
 ye 	葉	c=0 d=0.0927743 t=17022
 ye 	頁	c=1 d=0.449329 t=17022
 ye jing sheng 	葉競生	c=1 d=0.0131019 t=17022
 ye jiu shi 	也就是	c=1 d=8.67704e-008 t=17022
 ye liang chen 	葉良辰	c=1 d=0.932394 t=17022
-ye ma 	頁碼	c=2 d=1.98511 t=15991
+ye ma 	頁碼	c=2 d=1.98511 t=17022
+ye mian 	頁面	c=1 d=1 t=17624
 ye shi 	也是	c=4 d=0.489192 t=17022
-ye wen 	葉問	c=1 d=1 t=16063
+ye wen 	葉問	c=1 d=1 t=17022
 ye wu 	業務	c=5 d=0.887615 t=17022
 ye wu liu cheng 	業務流程	c=1 d=0.802519 t=17022
 ye wu liu cheng tu 	業務流程圖	c=1 d=0.97531 t=17022
 ye xiao 	夜宵	c=1 d=0.00719046 t=17022
-ye xiao 	夜校	c=1 d=1 t=15328
-yi 	一	c=5 d=0.442803 t=17022
-yi 	以	c=13 d=0.147541 t=17022
-yi 	已	c=5 d=0.657047 t=17022
+ye xiao 	夜校	c=1 d=1 t=17022
+yi 	一	c=7 d=0.807065 t=17022
+yi 	以	c=18 d=0.147541 t=17022
+yi 	已	c=6 d=1 t=17022
 yi 	易	c=3 d=0.966257 t=17022
 yi 	益	c=4 d=0.422813 t=17022
-yi 	衣	c=3 d=0.0913572 t=17022
-yi 	軼	c=2 d=1.99005 t=14135
+yi 	翼	c=1 d=1.07045 t=19907
+yi 	衣	c=5 d=0.0913572 t=17022
+yi 	軼	c=2 d=1.99005 t=17022
 yi 	醫	c=1 d=0.219808 t=17022
 yi ba 	一八	c=0 d=0.00403566 t=17022
-yi ba 	一把	c=1 d=4.12855e-005 t=17022
+yi ba 	一把	c=2 d=0.806574 t=17022
 yi ba jiu qi 	一八九七	c=1 d=0.0405589 t=17022
 yi ban 	一半	c=2 d=0.000986115 t=17022
-yi ban 	一般	c=7 d=0.0971493 t=17022
+yi ban 	一般	c=10 d=0.936419 t=17022
+yi bei 	一倍	c=1 d=1 t=18895
+yi bei 	以備	c=1 d=1 t=17286
 yi bei zi 	一輩子	c=1 d=0.000575656 t=17022
 yi bian 	一遍	c=1 d=0.0305746 t=17022
-yi bian 	以便	c=1 d=1 t=16182
+yi bian 	以便	c=1 d=1 t=17022
 yi bu 	一部	c=1 d=0.00051312 t=17022
-yi chang 	異常	c=8 d=0.390628 t=17022
+yi chang 	異常	c=9 d=1 t=17022
+yi chou 	一籌	c=1 d=1 t=18608
 yi chuan 	遺傳	c=3 d=0.494109 t=17022
+yi ci 	一次	c=1 d=1 t=17178
 yi ci shi 	依次是	c=1 d=0.612626 t=17022
 yi cun 	一寸	c=1 d=0.373439 t=17022
-yi dian 	一點	c=5 d=0.144332 t=17022
+yi dao 	移到	c=1 d=1 t=17465
+yi dian 	一點	c=6 d=0.144332 t=17022
 yi dian dian 	一點點	c=1 d=0.453845 t=17022
-yi ding 	一定	c=4 d=0.0497871 t=17022
-yi dong 	移動	c=4 d=0.597501 t=17022
+yi ding 	一定	c=7 d=0.0497871 t=17022
+yi dong 	移動	c=6 d=0.597501 t=17022
 yi dong ying pan 	移動硬盤	c=1 d=0.00763509 t=17022
 yi duan 	一段	c=1 d=0.0195457 t=17022
 yi fa 	一發	c=1 d=2.29449e-006 t=17022
 yi fang mian 	一方面	c=2 d=1.87435 t=17022
 yi fang wan yi 	以防萬一	c=1 d=0.000608204 t=17022
 yi fei 	已非	c=0 d=6.55685e-007 t=17022
-yi feng 	一封	c=1 d=1 t=14168
-yi fu 	衣服	c=3 d=0.139288 t=17022
-yi ge 	一個	c=28 d=1.97044 t=17022
+yi feng 	一封	c=1 d=1 t=17022
+yi fu 	衣服	c=4 d=0.139288 t=17022
+yi ge 	一個	c=41 d=1.97044 t=17022
 yi gen 	一根	c=1 d=3.17564e-006 t=17022
 yi gou 	異構	c=3 d=0.066205 t=17022
 yi gou xing 	異構性	c=1 d=2.2049e-008 t=17022
-yi hang 	一行	c=1 d=0.728135 t=16631
+yi hang 	一行	c=1 d=0.728135 t=17022
 yi hao 	一號	c=1 d=0.00644146 t=17022
 yi he 	一盒	c=1 d=0.715338 t=17022
+yi he yuan 	頤和園	c=1 d=1 t=756
 yi hou 	以後	c=2 d=0.0149956 t=17022
-yi hui 	一會	c=1 d=1 t=16293
+yi hui 	一會	c=1 d=1 t=17022
+yi hui er 	一會兒	c=2 d=1.0773 t=544
 yi ji 	一季	c=1 d=0.00100779 t=17022
-yi ji 	以及	c=8 d=0.179066 t=17022
-yi jia 	一加	c=4 d=0.26982 t=17022
+yi ji 	以及	c=11 d=0.179066 t=17022
+yi jia 	一加	c=5 d=1.00028 t=17022
 yi jia 	一家	c=0 d=0.0162838 t=17022
 yi jia 	溢價	c=1 d=0.985112 t=17022
-yi jia 	衣架	c=1 d=1 t=14627
+yi jia 	衣架	c=1 d=1 t=17022
 yi jia fang shi 	一家方式	c=1 d=0.163654 t=17022
 yi jian 	意見	c=1 d=0.000675539 t=17022
 yi jian mei 	一剪梅	c=1 d=0.00159641 t=17022
-yi jing 	已經	c=23 d=1.06991 t=17022
+yi jing 	已經	c=24 d=1.14193 t=17022
 yi jiu 	一九	c=0 d=0.00407622 t=17022
 yi jiu 	已久	c=1 d=1.5037e-005 t=17022
 yi jiu liu san 	一九六三	c=1 d=0.0409665 t=17022
 yi ju 	依據	c=5 d=0.0328764 t=17022
-yi juan 	一捲	c=1 d=1 t=14250
-yi kai shi 	一開始	c=1 d=1 t=15394
-yi kuai 	一塊	c=1 d=1 t=16927
+yi juan 	一捲	c=1 d=1 t=17022
+yi kai shi 	一開始	c=1 d=1 t=17022
+yi kuai 	一塊	c=3 d=0.621885 t=17022
 yi lai 	一來	c=1 d=0.0884781 t=17022
 yi lai 	以來	c=1 d=0.000413853 t=17022
+yi lai 	依賴	c=2 d=1.98511 t=327
 yi lan 	一欄	c=1 d=0.226502 t=17022
+yi liao zhi wai 	意料之外	c=1 d=1 t=18165
 yi mo yi yang 	一模一樣	c=1 d=0.0269169 t=17022
+yi nian 	一年	c=1 d=1 t=1290
+yi nian si ji 	一年四季	c=1 d=1 t=1374
 yi nu 	易怒	c=2 d=0.0255597 t=17022
 yi pian 	一片	c=0 d=6.14317e-005 t=17022
-yi pian 	一篇	c=1 d=1 t=14998
+yi pian 	一篇	c=1 d=1 t=17022
 yi pian tu 	一片土	c=1 d=0.000617396 t=17022
 yi qi 	一期	c=3 d=1.02998e-005 t=17022
-yi qi 	一起	c=2 d=0.726149 t=17022
-yi qi chi 	一起吃	c=1 d=1 t=14099
+yi qi 	一起	c=3 d=0.726149 t=17022
+yi qi chi 	一起吃	c=1 d=1 t=17022
 yi qian 	以前	c=1 d=0.00189223 t=17022
-yi qie 	一切	c=3 d=0.126186 t=17022
+yi qie 	一切	c=4 d=1.00069 t=17022
 yi quan 	一拳	c=1 d=4.12925e-007 t=17022
-yi ran 	依然	c=1 d=1 t=15121
+yi ran 	依然	c=1 d=1 t=17022
 yi ren 	一人	c=1 d=0.814647 t=17022
 yi sheng 	醫生	c=2 d=0.00110344 t=17022
-yi shi 	意識	c=1 d=1 t=15076
+yi shi 	意識	c=1 d=1 t=17022
 yi shu 	藝術	c=1 d=0.491644 t=17022
-yi si 	意思	c=9 d=0.65332 t=17022
+yi si 	意思	c=13 d=1.00001 t=17022
 yi si lan 	伊斯蘭	c=1 d=5.42317e-008 t=17022
+yi si shi 	意思是	c=1 d=1 t=17689
 yi tao 	一套	c=3 d=5.00537e-006 t=17022
+yi ti 	一提	c=1 d=1 t=19564
 yi ti 	議題	c=2 d=9.83636e-005 t=17022
 yi ti hua 	一體化	c=4 d=9.52555e-007 t=17022
-yi wai 	意外	c=0 d=0.1 t=16842
+yi wai 	意外	c=0 d=0.1 t=17022
 yi wan 	一晚	c=1 d=0.011109 t=17022
 yi wei 	一位	c=1 d=0.0871609 t=17022
-yi wei zhe 	意味着	c=3 d=2.67944 t=16734
+yi wei zhe 	意味着	c=3 d=2.67944 t=17022
 yi wu 	一五	c=0 d=0.00411719 t=17022
-yi xia 	一下	c=14 d=0.21914 t=17022
+yi xi hua 	一席話	c=1 d=1 t=18267
+yi xia 	一下	c=19 d=0.398809 t=17022
 yi xia 	以下	c=4 d=0.000192269 t=17022
-yi xie 	一些	c=15 d=0.579842 t=17022
-yi yang 	一樣	c=4 d=0.0448245 t=17022
-yi yi 	意義	c=4 d=0.513446 t=17022
+yi xie 	一些	c=27 d=0.811468 t=17022
+yi yang 	一樣	c=12 d=0.156517 t=17022
+yi yi 	意義	c=6 d=1 t=17022
 yi you 	已有	c=7 d=0.186374 t=17022
+yi yu 	一語	c=1 d=1 t=18266
 yi yuan 	醫院	c=1 d=0.000500451 t=17022
-yi zhang 	一張	c=6 d=0.87435 t=17022
-yi zhi 	一直	c=3 d=0.0335406 t=17022
+yi zhang 	一張	c=7 d=1.00001 t=17022
+yi zhi 	一直	c=5 d=1.00001 t=17022
 yi zhi 	一致	c=4 d=0.0569866 t=17022
 yi zhi 	一隻	c=2 d=0.0146253 t=17022
 yi zhi 	移植	c=1 d=0.102284 t=17022
 yi zhi de 	一致的	c=1 d=0.0668703 t=17022
-yi zhong 	一種	c=3 d=0.637628 t=17022
+yi zhi fu 	翼支付	c=1 d=1 t=19908
+yi zhi shou 	一隻手	c=1 d=1 t=18383
+yi zhong 	一種	c=7 d=1.15803 t=17022
 yi zuo 	一座	c=1 d=0.00043587 t=17022
 yi zuo cheng shi 	一座城市	c=1 d=0.000443861 t=17022
 yin 	因	c=1 d=0.609571 t=17022
-yin 	銀	c=1 d=0.0812682 t=17022
-yin 	音	c=1 d=1 t=15541
+yin 	銀	c=2 d=1 t=17022
+yin 	音	c=1 d=1 t=17022
 yin cang 	隱藏	c=2 d=0.00216183 t=17022
 yin chu 	引出	c=1 d=0.00687406 t=17022
 yin dao 	引導	c=7 d=0.122456 t=17022
 yin gong 	因公	c=1 d=0.000170803 t=17022
-yin hang 	銀行	c=2 d=0.0587209 t=17022
+yin hang 	銀行	c=3 d=1 t=17022
 yin hang ka 	銀行卡	c=1 d=0.0117959 t=17022
 yin li 	引理	c=1 d=3.32984e-005 t=17022
 yin ru 	引入	c=1 d=0.0265162 t=17022
 yin se 	銀色	c=1 d=0.102797 t=17022
-yin su 	因素	c=1 d=1 t=14396
+yin su 	因素	c=1 d=1.98478e-006 t=17022
 yin wei 	因爲	c=6 d=0.379083 t=17022
 yin yan 	引言	c=4 d=0.000555408 t=17022
 yin yong 	引用	c=4 d=0.116436 t=17022
@@ -3687,15 +3925,15 @@ yin yue 	音樂	c=1 d=0.00565622 t=17022
 yin yue ting 	音樂廳	c=1 d=3.35577e-008 t=17022
 yin zhang 	印章	c=1 d=0.00887071 t=17022
 yin zi 	印子	c=1 d=0.00891518 t=17022
-yin zi 	因子	c=2 d=1.97531 t=14234
-ying 	應	c=1 d=2.34124e-008 t=17022
+yin zi 	因子	c=2 d=1.7441e-006 t=17022
+ying 	應	c=1 d=0.215456 t=17022
 ying 	英	c=2 d=0.0169076 t=17022
 ying dui 	應對	c=1 d=0.332871 t=17022
 ying gai 	應該	c=17 d=0.410087 t=17022
 ying gai shuo 	應該說	c=1 d=3.21532e-005 t=17022
 ying jian 	硬件	c=6 d=0.335114 t=17022
 ying li mo shi 	盈利模式	c=1 d=0.00600598 t=17022
-ying pan 	硬盤	c=13 d=0.770464 t=17022
+ying pan 	硬盤	c=13 d=1.68316 t=17022
 ying wen 	英文	c=2 d=0.00198925 t=17022
 ying xiang 	影響	c=7 d=0.00016826 t=17022
 ying xiao 	營銷	c=3 d=3.47208e-007 t=17022
@@ -3703,9 +3941,9 @@ ying xiao lian 	營銷鏈	c=2 d=5.46915e-007 t=17022
 ying yong 	應用	c=56 d=1.30021 t=17022
 ying yu 	英語	c=6 d=0.314223 t=17022
 yong 	用	c=38 d=0.714525 t=17022
-yong 	詠	c=1 d=1 t=16065
+yong 	詠	c=1 d=0.00835412 t=17022
 yong bu dao 	用不到	c=1 d=0.000572785 t=17022
-yong chun 	永春	c=1 d=1 t=16064
+yong chun 	永春	c=1 d=0.00831246 t=17022
 yong dao 	用到	c=1 d=0.00425356 t=17022
 yong fa 	用法	c=1 d=3.37202e-006 t=17022
 yong heng 	永恆	c=3 d=0.108609 t=17022
@@ -3721,19 +3959,19 @@ you 	右	c=1 d=0.0640824 t=17022
 you 	有	c=58 d=3.13208 t=17022
 you 	由	c=11 d=0.0066377 t=17022
 you 	郵	c=1 d=0.00404611 t=17022
-you bi yao 	有必要	c=1 d=0.000558643 t=17022
+you bi yao 	有必要	c=1 d=0.514274 t=17022
 you bian 	右邊	c=1 d=0.0238732 t=17022
 you dao 	有道	c=1 d=0.366045 t=17022
 you dao le 	有到了	c=1 d=0.00680566 t=17022
 you de 	有的	c=1 d=0.591555 t=17022
 you dian 	有點	c=2 d=0.243694 t=17022
 you guan 	有關	c=5 d=0.938651 t=17022
-you hua 	優化	c=24 d=0.282943 t=17022
+you hua 	優化	c=24 d=1.59003 t=17022
 you hua 	油畫	c=1 d=0.0845849 t=17022
 you jian 	右鍵	c=1 d=2.449e-008 t=17022
 you jian 	郵件	c=8 d=0.954337 t=17022
 you ke 	遊客	c=1 d=0.0765355 t=17022
-you ke neng 	有可能	c=2 d=1.50916 t=16443
+you ke neng 	有可能	c=2 d=0.0834551 t=17022
 you kong 	有空	c=1 d=0.00771183 t=17022
 you liang 	優良	c=1 d=0.00887071 t=17022
 you mei you 	有沒有	c=5 d=0.388569 t=17022
@@ -3759,7 +3997,7 @@ you yong 	有用	c=2 d=0.0227745 t=17022
 you yu 	由於	c=3 d=0.00477505 t=17022
 you yuan 	有源	c=0 d=0.00880368 t=17022
 you yuan you xuan 	有源有旋	c=1 d=0.0884781 t=17022
-you zhi 	優質	c=1 d=1 t=15797
+you zhi 	優質	c=1 d=0.00218749 t=17022
 you zhu yu 	有助於	c=2 d=0.0253494 t=17022
 yu 	域	c=1 d=0.000338834 t=17022
 yu 	宇	c=4 d=0.00350929 t=17022
@@ -3775,7 +4013,7 @@ yu fa 	語法	c=1 d=3.18332e-005 t=17022
 yu huang 	玉皇	c=0 d=8.58778e-005 t=17022
 yu huang shan 	玉皇山	c=1 d=0.000863083 t=17022
 yu jin 	于禁	c=1 d=0.0658748 t=17022
-yu lan 	預覽	c=1 d=1 t=16396
+yu lan 	預覽	c=1 d=0.0437178 t=17022
 yu men 	鬱悶	c=1 d=0.000699601 t=17022
 yu mi 	玉米	c=1 d=0.000703108 t=17022
 yu ming 	域名	c=1 d=9.00631e-005 t=17022
@@ -3784,6 +4022,7 @@ yu qi da dao 	預期達到	c=1 d=0.0241131 t=17022
 yu quan 	玉泉	c=7 d=0.203637 t=17022
 yu quan xiao qu 	玉泉校區	c=4 d=0.0523868 t=17022
 yu ren ma tou 	愚人碼頭	c=1 d=0.00554422 t=17022
+yu she 	預設	c=2 d=1.99005 t=1321
 yu shui 	雨水	c=1 d=0.71177 t=17022
 yu shui 	魚水	c=1 d=0.0483156 t=17022
 yu suan 	預算	c=1 d=0.00543443 t=17022
@@ -3813,6 +4052,7 @@ yuan qi fa 	元啓發	c=1 d=4.25428e-005 t=17022
 yuan su 	元素	c=0 d=0.00146253 t=17022
 yuan tong 	圓通	c=2 d=1.03684 t=17022
 yuan tu 	原圖	c=1 d=0.213312 t=17022
+yuan wen jian 	源文件	c=1 d=1 t=1236
 yuan wen ti 	元問題	c=1 d=1.91652e-006 t=17022
 yuan xian 	原先	c=1 d=0.29523 t=17022
 yuan xing 	原型	c=14 d=0.218712 t=17022
@@ -3824,6 +4064,7 @@ yue 	越	c=4 d=3.65618 t=17022
 yue di 	月底	c=0 d=0.0404542 t=17022
 yue di qian 	月底前	c=1 d=0.40657 t=17022
 yue du 	閱讀	c=5 d=0.0136366 t=17022
+yue du qi 	閱讀器	c=1 d=1 t=1140
 yue shu 	約束	c=10 d=5.35444e-005 t=17022
 yue yu 	粵語	c=1 d=0.0185924 t=17022
 yun 	雲	c=14 d=1.16438 t=17022
@@ -3849,7 +4090,7 @@ yun xing 	運行	c=14 d=1.00141 t=17022
 yun ying 	運營	c=6 d=0.126818 t=17022
 yun ying shang 	運營商	c=1 d=0.110803 t=17022
 yun yong 	運用	c=3 d=0.891366 t=17022
-yun zhi zao 	雲製造	c=82 d=1.77651 t=17022
+yun zhi zao 	雲製造	c=82 d=2.10204 t=17022
 yun zi yuan 	雲資源	c=1 d=0.00980366 t=17022
 yun zuo 	運作	c=8 d=1.69799 t=17022
 yun zuo mo shi 	運作模式	c=1 d=0.00554422 t=17022
@@ -3860,7 +4101,7 @@ za zhi 	雜誌	c=3 d=0.0108613 t=17022
 zai 	再	c=12 d=0.865066 t=17022
 zai 	在	c=112 d=3.52698 t=17022
 zai chu 	再出	c=1 d=9.87998e-006 t=17022
-zai ci 	在此	c=1 d=1 t=16615
+zai ci 	在此	c=1 d=0.13068 t=17022
 zai du 	在讀	c=3 d=0.358915 t=17022
 zai fa 	再發	c=1 d=0.141564 t=17022
 zai lai 	再來	c=1 d=0.0314298 t=17022
@@ -3869,39 +4110,45 @@ zai mei guo 	在美國	c=1 d=0.151829 t=17022
 zai na 	在哪	c=1 d=0.205975 t=17022
 zai na li 	在哪裏	c=1 d=0.276651 t=17022
 zai wai 	在外	c=1 d=0.000187825 t=17022
+zai xia 	在下	c=1 d=1 t=1433
 zai xian 	在線	c=2 d=0.0302306 t=17022
+zai yu 	在於	c=1 d=1 t=1339
 zan mei 	讚美	c=1 d=0.0183156 t=17022
 zan men 	咱們	c=2 d=0.0115411 t=17022
-zan shi 	暫時	c=1 d=0.000200439 t=17022
-zan ting 	暫停	c=6 d=5.30854 t=16616
+zan shi 	暫時	c=2 d=1.00006 t=17022
+zan ting 	暫停	c=6 d=5.30854 t=17022
 zan wu 	暫無	c=1 d=0.891366 t=17022
 zang 	髒	c=1 d=0.00134683 t=17022
-zao 	早	c=1 d=0.465334 t=17022
+zao 	早	c=2 d=1.00001 t=17022
 zao cheng 	造成	c=1 d=0.0332068 t=17022
+zao jiu 	早就	c=1 d=1 t=794
 ze 	則	c=1 d=4.09805e-006 t=17022
 ze 	擇	c=3 d=3.26137e-005 t=17022
 ze hui 	則會	c=2 d=1.58987e-005 t=17022
 ze shi 	則是	c=1 d=4.29704e-005 t=17022
-zen 	怎	c=1 d=0.0466538 t=17022
-zen me 	怎麼	c=23 d=1.02947 t=17022
+zen 	怎	c=2 d=0.0466538 t=17022
+zen me 	怎麼	c=27 d=1.02947 t=17022
 zen me ding 	怎麼訂	c=1 d=0.00098783 t=17022
 zen me shang wang 	怎麼上網	c=1 d=0.414783 t=17022
 zen me xie 	怎麼寫	c=1 d=0.272532 t=17022
-zen yang 	怎樣	c=1 d=0.00194986 t=17022
-zeng 	增	c=2 d=1.02472 t=16650
+zen yang 	怎樣	c=3 d=0.0717002 t=17022
+zeng 	增	c=2 d=1.02472 t=17022
 zeng 	贈	c=1 d=0.0105145 t=17022
 zeng gao 	增高	c=1 d=0.158025 t=17022
-zeng jia 	增加	c=1 d=0.0122773 t=17022
+zeng jia 	增加	c=2 d=1 t=17022
 zeng zhi shui 	增值稅	c=1 d=0.00442715 t=17022
 zha 	炸	c=1 d=7.90975e-007 t=17022
 zhai 	窄	c=1 d=7.96861e-006 t=17022
-zhai yao 	摘要	c=3 d=0.603506 t=17022
+zhai yao 	摘要	c=4 d=1.00087 t=17022
 zhan 	站	c=7 d=0.915256 t=17022
+zhan kai 	展開	c=4 d=1.06888 t=18814
 zhan sheng 	戰勝	c=1 d=0.980199 t=17022
-zhan shi 	展示	c=3 d=0.00202943 t=17022
+zhan shi 	展示	c=8 d=1.77516 t=17022
+zhan shu 	戰術	c=1 d=1 t=863
+zhan wang 	展望	c=1 d=1 t=18344
 zhan yong 	佔用	c=1 d=0.00146632 t=17022
 zhan zheng 	戰爭	c=1 d=0.0015415 t=17022
-zhang 	張	c=3 d=0.546659 t=17022
+zhang 	張	c=4 d=0.546659 t=17022
 zhang 	章	c=2 d=0.00909528 t=17022
 zhang 	長	c=3 d=0.0213612 t=17022
 zhang ai 	障礙	c=1 d=0.366045 t=17022
@@ -3911,74 +4158,83 @@ zhang hu 	賬戶	c=1 d=5.40825e-005 t=17022
 zhang liao 	張遼	c=1 d=0.0642483 t=17022
 zhang wo 	掌握	c=1 d=0.0166557 t=17022
 zhang xue you 	張學友	c=1 d=0.000678925 t=17022
-zhao 	找	c=3 d=0.0174163 t=17022
+zhao 	找	c=4 d=0.0227585 t=17022
 zhao 	照	c=1 d=0.375311 t=17022
 zhao 	趙	c=1 d=0.00559994 t=17022
 zhao ban 	照搬	c=1 d=1.54949e-005 t=17022
 zhao bu dao 	找不到	c=1 d=0.189191 t=17022
+zhao cha 	找碴	c=1 d=1 t=1024
+zhao cha 	找茬	c=1 d=1 t=1025
 zhao dao 	找到	c=4 d=0.438235 t=17022
-zhao pian 	照片	c=11 d=1.03082 t=17022
+zhao pian 	照片	c=12 d=1.03082 t=17022
 zhao qi 	找起	c=1 d=1.81834e-005 t=17022
 zhao sheng 	招生	c=2 d=7.64568e-008 t=17022
 zhao shi 	肇事	c=1 d=0.00334597 t=17022
-zhao zhao 	找找	c=2 d=0.0014018 t=17022
+zhao zhao 	找找	c=3 d=1 t=17022
 zhe 	着	c=1 d=0.0365162 t=17022
-zhe 	者	c=3 d=0.0217309 t=17022
-zhe 	這	c=13 d=2.94296 t=17022
+zhe 	者	c=5 d=1.97159 t=17022
+zhe 	這	c=20 d=2.94296 t=17022
 zhe ben 	這本	c=1 d=4.96839e-007 t=17022
 zhe bi 	這筆	c=1 d=0.0131675 t=17022
 zhe bian 	這邊	c=1 d=0.715338 t=17022
 zhe bu 	這部	c=1 d=0.00047843 t=17022
-zhe da 	浙大	c=10 d=2.38096 t=17022
+zhe bu fen 	這部份	c=1 d=1 t=17617
+zhe da 	浙大	c=12 d=2.38096 t=17022
 zhe da jiao shou 	浙大教授	c=1 d=0.0119145 t=17022
 zhe da lu 	浙大路	c=5 d=0.0294211 t=17022
-zhe er 	這兒	c=1 d=1 t=16448
-zhe ge 	這個	c=33 d=4.91223 t=17022
-zhe jiang 	浙江	c=20 d=1.69351 t=17022
+zhe er 	這兒	c=1 d=1 t=17022
+zhe ge 	這個	c=71 d=4.91223 t=17022
+zhe jiang 	浙江	c=23 d=1.69351 t=17022
 zhe jiang da xue 	浙江大學	c=43 d=1.30932 t=17022
 zhe jiang hang zhou 	浙江杭州	c=1 d=0.0216013 t=17022
 zhe jiang sheng 	浙江省	c=4 d=0.0034835 t=17022
 zhe jiu 	這就	c=1 d=0.00178203 t=17022
-zhe jiu shi 	這就是	c=1 d=1 t=16365
+zhe jiu shi 	這就是	c=1 d=1 t=17022
+zhe ju 	這句	c=1 d=1 t=770
+zhe ke neng 	這可能	c=1 d=1 t=17779
 zhe kuai 	這塊	c=1 d=5.6865e-007 t=17022
 zhe kuan 	這款	c=2 d=0.0464212 t=17022
-zhe li 	這裏	c=2 d=1.03271 t=16861
+zhe li 	這裏	c=12 d=0.461712 t=17022
 zhe li mian 	這裏面	c=1 d=4.01758e-008 t=17022
 zhe liang ge 	這兩個	c=1 d=0.153355 t=17022
 zhe liang tian 	這兩天	c=1 d=0.683861 t=17022
-zhe me 	這麼	c=11 d=1.30834 t=17022
+zhe me 	這麼	c=14 d=1.9618 t=17022
 zhe me kuai 	這麼快	c=1 d=0.00748391 t=17022
 zhe me sao 	這麼騷	c=1 d=0.00748391 t=17022
 zhe me zuo 	這麼做	c=1 d=3.30581e-008 t=17022
 zhe men 	這門	c=3 d=0.319401 t=17022
 zhe pian 	這篇	c=3 d=3.72137e-005 t=17022
-zhe shi 	這是	c=24 d=1.60429 t=17022
+zhe shi 	這是	c=35 d=1.60429 t=17022
 zhe tiao 	這條	c=1 d=0.0257325 t=17022
-zhe xie 	這些	c=7 d=2.00371 t=17022
+zhe xie 	這些	c=19 d=2.00371 t=17022
 zhe xue 	哲學	c=1 d=0.0112206 t=17022
-zhe yang 	這樣	c=12 d=0.410757 t=17022
-zhe zhang 	這張	c=1 d=1 t=16546
-zhe zhong 	這種	c=4 d=0.0833955 t=17022
+zhe yang 	這樣	c=13 d=1.15728 t=17022
+zhe zhang 	這張	c=1 d=1 t=17022
+zhe zhi shi 	這只是	c=1 d=1 t=1222
+zhe zhong 	這種	c=5 d=0.0833955 t=17022
 zhe zhong tian 	這種天	c=1 d=0.282239 t=17022
 zhen 	珍	c=1 d=0.0376283 t=17022
-zhen 	真	c=5 d=0.472385 t=17022
+zhen 	真	c=6 d=1.02226 t=17022
 zhen 	陣	c=1 d=0.013912 t=17022
 zhen dui 	針對	c=2 d=0.0157644 t=17022
+zhen hua 	真話	c=1 d=1 t=19296
 zhen ming 	真名	c=1 d=0.00111378 t=17022
 zhen shi 	真實	c=1 d=1.79127e-005 t=17022
-zhen shi 	真是	c=2 d=0.59345 t=17022
+zhen shi 	真是	c=4 d=1.00609 t=17022
+zhen xin 	真心	c=1 d=1 t=710
 zheng 	整	c=1 d=0.118245 t=17022
 zheng 	正	c=2 d=0.168638 t=17022
 zheng 	鄭	c=4 d=0.647265 t=17022
 zheng ba 	爭霸	c=3 d=0.00320521 t=17022
 zheng ce 	政策	c=1 d=0.00680566 t=17022
+zheng chang 	正常	c=1 d=1 t=17880
 zheng ge 	整個	c=1 d=2.88088e-007 t=17022
 zheng gui 	正規	c=1 d=0.00241755 t=17022
 zheng he 	整合	c=2 d=9.30462e-006 t=17022
 zheng jie 	正解	c=1 d=0.852144 t=17022
 zheng jing 	正經	c=1 d=2.00473e-006 t=17022
-zheng li 	整理	c=1 d=0.19593 t=17022
-zheng ming 	證明	c=4 d=0.00119954 t=17022
+zheng li 	整理	c=2 d=1.00002 t=17022
+zheng ming 	證明	c=5 d=1 t=17022
 zheng quan 	證券	c=5 d=0.912875 t=17022
 zheng que xing 	正確性	c=1 d=1.30432e-008 t=17022
 zheng shi 	正視	c=1 d=0.257947 t=17022
@@ -3986,51 +4242,62 @@ zheng shi 	證實	c=2 d=0.114551 t=17022
 zheng shu 	整數	c=1 d=2.32315e-005 t=17022
 zheng shu 	證書	c=1 d=0.522046 t=17022
 zheng tai 	正太	c=1 d=0.00927901 t=17022
-zheng ti 	整體	c=8 d=0.109359 t=17022
+zheng ti 	整體	c=9 d=0.109359 t=17022
+zheng ti da yu 	整體大於	c=1 d=1 t=215
 zheng ti zi 	正體字	c=1 d=3.28876e-006 t=17022
 zheng wei 	鄭衛	c=1 d=0.491644 t=17022
-zheng wen 	正文	c=1 d=0.425283 t=17022
-zheng zai 	正在	c=1 d=0.101266 t=17022
-zhi 	之	c=4 d=0.101266 t=17022
-zhi 	值	c=3 d=0.390871 t=17022
+zheng wen 	正文	c=2 d=1 t=17022
+zheng zai 	正在	c=3 d=1.86936 t=17022
+zhi 	之	c=5 d=1 t=17022
+zhi 	值	c=5 d=1.00021 t=17022
 zhi 	只	c=7 d=0.362402 t=17022
+zhi 	指	c=1 d=1 t=182
+zhi 	智	c=1 d=1 t=1295
 zhi 	直	c=2 d=0.498473 t=17022
-zhi 	知	c=2 d=0.9711 t=17022
-zhi 	紙	c=6 d=0.0215722 t=17022
+zhi 	知	c=3 d=0.9711 t=17022
+zhi 	稚	c=1 d=1 t=18443
+zhi 	紙	c=7 d=1 t=17022
 zhi 	至	c=2 d=0.024972 t=17022
-zhi 	致	c=1 d=0.00506703 t=17022
+zhi 	致	c=2 d=0.0332077 t=17022
 zhi 	質	c=1 d=0.637628 t=17022
+zhi an 	治安	c=2 d=1.99005 t=757
 zhi bao 	質保	c=3 d=0.24562 t=17022
+zhi biao 	指標	c=1 d=1 t=361
 zhi bo 	直博	c=4 d=0.814647 t=17022
 zhi bo 	直撥	c=1 d=0.366335 t=17022
-zhi bo 	直播	c=0 d=0.0282239 t=17022
-zhi chi 	支持	c=4 d=0.0876293 t=17022
+zhi bo 	直播	c=2 d=0.0642968 t=17022
+zhi chi 	支持	c=9 d=1.22651 t=17022
 zhi chi xia 	支持下	c=1 d=1.42715e-008 t=17022
 zhi chu 	指出	c=2 d=0.000542682 t=17022
 zhi ci 	致詞	c=1 d=0.165299 t=17022
 zhi da 	直達	c=1 d=0.000682328 t=17022
 zhi dao 	制導	c=5 d=0.0248475 t=17022
-zhi dao 	知道	c=2 d=0.789201 t=17022
+zhi dao 	指導	c=1 d=1 t=20030
+zhi dao 	知道	c=5 d=0.789201 t=17022
 zhi dao yi yi 	指導意義	c=1 d=0.000111109 t=17022
-zhi de 	值得	c=2 d=0.0804596 t=17022
+zhi de 	值得	c=3 d=1 t=17022
 zhi de shi 	指的是	c=1 d=0.00891518 t=17022
 zhi dian 	智典	c=4 d=3.10747 t=17022
 zhi ding 	制定	c=5 d=0.411424 t=17022
+zhi ding 	指定	c=1 d=1 t=1310
 zhi fu 	支付	c=4 d=0.106115 t=17022
 zhi fu bao 	支付寶	c=5 d=0.0922558 t=17022
 zhi guan 	直觀	c=3 d=3.97595e-005 t=17022
-zhi hou 	之後	c=2 d=0.421052 t=17022
+zhi guan zhong yao 	至關重要	c=1 d=1 t=19488
+zhi hou 	之後	c=6 d=2.9267 t=17022
 zhi jia ge 	芝加哥	c=1 d=0.408608 t=17022
-zhi jian 	之間	c=4 d=5.86426e-006 t=17022
-zhi jie 	直接	c=6 d=0.0324652 t=17022
+zhi jian 	之間	c=5 d=0.171188 t=17022
+zhi jie 	直接	c=8 d=1.17332 t=17022
 zhi jie bo da 	直接撥打	c=1 d=0.32628 t=17022
 zhi jing 	直徑	c=1 d=0.00612731 t=17022
 zhi lei 	之類	c=2 d=0.0109436 t=17022
+zhi li 	智利	c=2 d=1.99005 t=1298
 zhi liang 	質量	c=4 d=0.12768 t=17022
-zhi ming 	致命	c=1 d=2.47917e-005 t=17022
+zhi mao yi 	織毛衣	c=1 d=1 t=19913
+zhi ming 	致命	c=5 d=3.94062 t=17022
 zhi nan 	指南	c=1 d=0.113037 t=17022
 zhi neng 	只能	c=5 d=0.0565378 t=17022
-zhi neng 	智能	c=5 d=1.00021 t=17022
+zhi neng 	智能	c=11 d=1.00021 t=17022
 zhi neng 	職能	c=1 d=0.0134335 t=17022
 zhi neng shi 	只能是	c=1 d=0.000457378 t=17022
 zhi pai 	指派	c=6 d=0.018282 t=17022
@@ -4039,7 +4306,7 @@ zhi qian 	之前	c=4 d=0.10435 t=17022
 zhi ren 	之人	c=1 d=0.20449 t=17022
 zhi shang 	紙上	c=1 d=0.000420107 t=17022
 zhi shao 	至少	c=1 d=0.000101039 t=17022
-zhi shi 	只是	c=4 d=0.647527 t=17022
+zhi shi 	只是	c=4 d=0.915596 t=17022
 zhi shi 	知識	c=2 d=0.162995 t=17022
 zhi shi gong cheng 	知識工程	c=1 d=0.0285814 t=17022
 zhi shu 	指數	c=3 d=0.0284971 t=17022
@@ -4047,24 +4314,24 @@ zhi tiao 	紙條	c=1 d=0.241714 t=17022
 zhi xia 	之下	c=1 d=0.000547581 t=17022
 zhi xing 	執行	c=4 d=0.254107 t=17022
 zhi ya 	質押	c=1 d=0.108067 t=17022
-zhi yao 	只要	c=2 d=1.03321 t=16959
-zhi yi 	之一	c=1 d=1 t=16162
+zhi yao 	只要	c=2 d=0.754025 t=17022
+zhi yi 	之一	c=1 d=0.318224 t=17022
 zhi yin 	知音	c=3 d=0.674195 t=17022
 zhi yin nan mi 	知音難覓	c=1 d=0.618783 t=17022
 zhi yong 	只用	c=2 d=0.0692768 t=17022
 zhi you 	只有	c=3 d=0.292293 t=17022
 zhi yuan zhe 	志願者	c=1 d=0.217621 t=17022
-zhi zao 	製造	c=109 d=1.90169 t=17022
+zhi zao 	製造	c=109 d=2.13181 t=17022
 zhi zao ye 	製造業	c=2 d=0.13332 t=17022
 zhi zuo 	製作	c=1 d=2.02978e-005 t=17022
 zhong 	中	c=43 d=3.86951 t=17022
 zhong 	仲	c=1 d=0.000626727 t=17022
-zhong 	種	c=1 d=1.04909e-005 t=17022
+zhong 	種	c=1 d=0.29523 t=17022
 zhong 	腫	c=1 d=0.0948935 t=17022
 zhong 	重	c=3 d=0.00107243 t=17022
 zhong 	鍾	c=1 d=0.128735 t=17022
 zhong dian 	重點	c=4 d=0.895834 t=17022
-zhong duan 	中斷	c=2 d=1.96561 t=16138
+zhong duan 	中斷	c=2 d=0.0236546 t=17022
 zhong duo 	衆多	c=1 d=1.10574e-006 t=17022
 zhong guo 	中國	c=15 d=1.32253 t=17022
 zhong guo ren 	中國人	c=1 d=0.000343955 t=17022
@@ -4106,10 +4373,11 @@ zhu jiang 	主講	c=1 d=0.559898 t=17022
 zhu liu 	主流	c=2 d=0.000204699 t=17022
 zhu ru 	注入	c=1 d=0.00324708 t=17022
 zhu sheng chan 	主生產	c=2 d=8.47452e-006 t=17022
+zhu shi 	註釋	c=1 d=1 t=1313
 zhu su 	住宿	c=2 d=0.0412017 t=17022
 zhu ti 	主題	c=5 d=0.0187376 t=17022
 zhu yao 	主要	c=36 d=1.47925 t=17022
-zhu yi 	主意	c=1 d=1 t=16234
+zhu yi 	主意	c=1 d=0.0194482 t=17022
 zhu yi 	主義	c=2 d=0.0519882 t=17022
 zhu yi 	注意	c=1 d=0.000197455 t=17022
 zhu yi li 	注意力	c=1 d=0.0261214 t=17022
@@ -4153,7 +4421,7 @@ zhuo mu niao 	啄木鳥	c=1 d=0.00618889 t=17022
 zhuo shou 	着手	c=3 d=0.00661456 t=17022
 zi 	子	c=7 d=0.0750972 t=17022
 zi 	字	c=8 d=0.625002 t=17022
-zi 	自	c=1 d=1 t=15879
+zi 	自	c=1 d=0.00329615 t=17022
 zi chuan 	字串	c=1 d=0.0117959 t=17022
 zi dai 	自帶	c=2 d=0.0845849 t=17022
 zi dian 	字典	c=7 d=0.0543313 t=17022
@@ -4165,7 +4433,7 @@ zi fei 	自費	c=1 d=0.000112226 t=17022
 zi fu 	字符	c=1 d=0.50409 t=17022
 zi fu chuan 	字符串	c=2 d=6.47485e-005 t=17022
 zi hao 	字號	c=1 d=0.00640933 t=17022
-zi ji 	自己	c=10 d=0.293229 t=17022
+zi ji 	自己	c=10 d=0.307279 t=17022
 zi jin 	資金	c=1 d=5.38995e-007 t=17022
 zi jin liu 	資金流	c=1 d=2.08655e-006 t=17022
 zi liao 	資料	c=2 d=0.000109455 t=17022
@@ -4177,10 +4445,10 @@ zi shen 	自身	c=1 d=1.54575e-006 t=17022
 zi sheng 	自生	c=1 d=1.67449e-006 t=17022
 zi shi ying 	自適應	c=5 d=0.211189 t=17022
 zi ti 	字體	c=12 d=1.19587 t=17022
-zi xi 	仔細	c=1 d=1 t=16924
+zi xi 	仔細	c=1 d=0.612626 t=17022
 zi xue 	自學	c=1 d=0.425283 t=17022
 zi you 	自由	c=1 d=0.0603506 t=17022
-zi yuan 	資源	c=91 d=1.55667 t=17022
+zi yuan 	資源	c=91 d=3.46349 t=17022
 zi zhu 	自主	c=6 d=0.250702 t=17022
 zi zhu 	自助	c=1 d=0.000121572 t=17022
 zi zhu 	資助	c=6 d=0.791118 t=17022
@@ -4191,11 +4459,11 @@ zong de 	總的	c=3 d=0.0135687 t=17022
 zong gong 	總共	c=1 d=0.0274607 t=17022
 zong he 	綜合	c=7 d=0.2306 t=17022
 zong jia 	總價	c=1 d=7.73311e-006 t=17022
-zong jie 	總結	c=9 d=0.156542 t=17022
+zong jie 	總結	c=9 d=0.197899 t=17022
 zong shu 	綜述	c=5 d=0.000183656 t=17022
 zong ti 	總體	c=3 d=0.018043 t=17022
 zong xiang 	縱向	c=2 d=0.759572 t=17022
-zou 	走	c=3 d=0.00191126 t=17022
+zou 	走	c=3 d=0.414783 t=17022
 zou 	鄒	c=1 d=0.064894 t=17022
 zou ba 	走吧	c=2 d=0.00236719 t=17022
 zou ma 	走馬	c=1 d=0.212248 t=17022
@@ -4203,7 +4471,7 @@ zou qi 	走起	c=1 d=0.0072265 t=17022
 zou zhe 	走着	c=1 d=0.000225994 t=17022
 zou zou 	走走	c=1 d=0.286505 t=17022
 zu 	組	c=5 d=0.103404 t=17022
-zu che 	租車	c=2 d=1.96561 t=14640
+zu che 	租車	c=2 d=1.32145e-005 t=17022
 zu cheng 	組成	c=6 d=0.22313 t=17022
 zu eh 	組誒	c=1 d=6.09986e-009 t=17022
 zu he 	組合	c=6 d=0.0395575 t=17022
@@ -4213,9 +4481,10 @@ zu jian 	組件	c=6 d=2.30758e-006 t=17022
 zu jian 	組建	c=1 d=3.15218e-007 t=17022
 zu yao 	組要	c=1 d=1.90236e-007 t=17022
 zu zhi 	組織	c=7 d=0.0369041 t=17022
-zui 	最	c=3 d=0.0228272 t=17022
+zui 	最	c=3 d=0.331211 t=17022
 zui cha 	最差	c=1 d=0.000599149 t=17022
 zui chang 	最長	c=1 d=0.00101284 t=17022
+zui da 	最大	c=1 d=1 t=1356
 zui di ceng 	最底層	c=1 d=8.9413e-008 t=17022
 zui duan 	最短	c=2 d=0.008271 t=17022
 zui gao 	最高	c=1 d=2.09701e-006 t=17022
@@ -4223,7 +4492,7 @@ zui hao 	最好	c=3 d=0.0132999 t=17022
 zui hou 	最後	c=4 d=0.000152367 t=17022
 zui jia 	最佳	c=2 d=9.13906e-007 t=17022
 zui jin 	最近	c=2 d=0.704688 t=17022
-zui kuai 	最快	c=1 d=1 t=14788
+zui kuai 	最快	c=1 d=1.40906e-005 t=17022
 zui mei 	最美	c=1 d=5.9043e-008 t=17022
 zui xiao 	最小	c=1 d=0.000112788 t=17022
 zui xiao ge 	最小割	c=2 d=1.21269e-005 t=17022
@@ -4237,15 +4506,15 @@ zuo 	坐	c=4 d=0.00273722 t=17022
 zuo 	左	c=3 d=0.00160441 t=17022
 zuo bian 	左邊	c=2 d=0.084163 t=17022
 zuo chu 	作出	c=3 d=2.32002e-005 t=17022
-zuo chuan 	坐船	c=1 d=1 t=14669
+zuo chuan 	坐船	c=1 d=7.77187e-006 t=17022
 zuo fa 	做法	c=1 d=0.0800583 t=17022
 zuo hao 	做好	c=0 d=0.00387742 t=17022
 zuo hao le 	做好了	c=1 d=0.0389686 t=17022
-zuo shi 	做事	c=1 d=1 t=16450
+zuo shi 	做事	c=1 d=0.0572688 t=17022
 zuo wei 	作爲	c=9 d=0.219581 t=17022
 zuo wu 	佐烏	c=1 d=0.0434998 t=17022
-zuo xia jiao 	左下角	c=1 d=1 t=15946
-zuo xie 	做些	c=1 d=1 t=16485
+zuo xia jiao 	左下角	c=1 d=0.00460782 t=17022
+zuo xie 	做些	c=1 d=0.0682212 t=17022
 zuo ye 	作業	c=3 d=0.115903 t=17022
 zuo yong 	作用	c=4 d=0.0483156 t=17022
 zuo zhe 	作者	c=1 d=0.000248517 t=17022
