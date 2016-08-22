@@ -2,8 +2,9 @@
 #@/db_name	emoji.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	4
+#@/tick	5
 #@/user_id	sky_mac
-book,open;fu'hao`symbol 	📖	c=1 d=1 t=4
-sheng,hanzi;zi`kanji 	🈢	c=1 d=1 t=4
-smile,happy;biao'qing 	😊	c=2 d=1.98506 t=4
+book,open;fu'hao`symbol 	📖	c=1 d=1 t=5
+sheng,hanzi;zi`kanji 	🈢	c=1 d=1 t=5
+smile,happy;biao'qing 	😊	c=2 d=1.98506 t=5
+violin;yin'yue`music 	🎻	c=1 d=1 t=5
