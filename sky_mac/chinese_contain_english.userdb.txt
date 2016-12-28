@@ -2,6 +2,6 @@
 #@/db_name	chinese_contain_english.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	4
+#@/tick	7
 #@/user_id	sky_mac
-mac 	 Mac 	c=4 d=3.97017 t=4
+mac 	 Mac 	c=7 d=6.89613 t=7
