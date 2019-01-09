@@ -2,14 +2,18 @@
 # encoding: utf-8
 
 schema:
-  schema_id: luna_pinyin_fluency
-  name: 朙月拼音·語句流
-  version: "0.27"
+  schema_id: luna_pinyin
+  name: 朙月拼音
+  version: "0.24"
   author:
     - 佛振 <chen.sst@gmail.com>
   description: |
-    朙月拼音·語句流錄入！
-    以空格分詞、標點或回車上屏。
+    Rime 預設的拼音輸入方案。
+    參考以下作品而創作：
+      * CC-CEDICT
+      * Android open source project
+      * Chewing - 新酷音
+      * opencc - 開放中文轉換
   dependencies:
     - stroke
 
@@ -33,7 +37,7 @@ engine:
     - punctuator
     - selector
     - navigator
-    - fluency_editor
+    - express_editor
   segmentors:
     - ascii_segmentor
     - matcher
@@ -69,7 +73,6 @@ speller:
 
 translator:
   dictionary: luna_pinyin
-  prism: luna_pinyin_fluency
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -103,6 +106,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    number: '^[-+]?[0-9][.:0-9]*[%]?$'
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     reverse_lookup: "`[a-z]*'?$"

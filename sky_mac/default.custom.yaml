@@ -4,13 +4,8 @@
 
 patch:
   schema_list:
-    - schema: double_pinyin_flypy 
-    - schema: double_pinyin_flypy_fluency   # 新增「小鶴雙拼·語句流」
+    - schema: double_pinyin_flypy
     - schema: luna_pinyin
-    - schema: cangjie5
-    - schema: luna_pinyin_fluency
-    - schema: luna_pinyin_simp
-    - schema: luna_pinyin_tw
 
   key_binder/bindings:                      # 以方括号换页
     - when: paging

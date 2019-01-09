@@ -1,8 +1,9 @@
 distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
-distribution_version: 0.9.26.1
-install_time: "Wed Sep  9 23:15:41 2015"
-installation_id: "sky_mac"
-rime_version: 1.2.9
-
-sync_dir: '/Users/sky/GitRepos/Rime_etc'
+distribution_version: 0.10.0
+install_time: "Tue Jan  8 20:27:30 2019"
+installation_id: sky_mac
+rime_version: 1.3.2
+sync_dir: "/Users/sky/GitRepos/Rime_etc"
+rime_version: 1.3.2
+update_time: "Tue Jan  8 19:27:17 2019"

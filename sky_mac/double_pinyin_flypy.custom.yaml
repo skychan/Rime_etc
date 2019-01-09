@@ -3,3 +3,17 @@
 
 patch:
     translator/preedit_format: {}
+    switches:
+        - name: ascii_mode
+          reset: 0
+          states: [ 中文, English ]
+        - name: full_shape
+          states: [ 半角, 全角 ]
+        - name: simplification
+          reset: 1
+          states: [ 漢字, 汉字 ]
+
+        engine:
+        filters:
+            - simplifier  # 必要組件一
+            - uniquifier  # 必要組件二
