@@ -1,11 +1,13 @@
 var:
+  last_build_time: 1547026893
   option:
     simplification: true
-  previously_selected_schema: double_pinyin_flypy_fluency
+  previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1450235000
-    double_pinyin_flypy_fluency: 1457947643
-    emoji: 1441810931
-    luna_pinyin: 1442649711
+    double_pinyin_flypy: 1546753972
+    double_pinyin_flypy_fluency: 1521985380
+    emoji: 1521985363
+    flypyplus: 1505743674
+    luna_pinyin: 1546752202
     luna_pinyin_simp: 1450234916
     luna_pinyin_tw: 1441870386

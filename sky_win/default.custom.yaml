@@ -2,29 +2,26 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.9.30
   generator: "Rime::SwitcherSettings"
-  modified_time: "Wed Sep 09 23:01:56 2015"
+  modified_time: "Sun Mar 25 11:16:01 2018"
   rime_version: 1.1.2
 patch:
+  "style/color_scheme": starcraft
+  "ascii_composer/good_old_caps_lock": true
+  "ascii_composer/switch_key":
+    Caps_Lock: noop
+    Control_L: noop
+    Control_R: noop
+    Shift_L: inline_ascii
+    Shift_R: noop
+  "key_binder/bindings":
+    - {accept: bracketleft, send: Page_Up, when: paging}
+    - {accept: bracketright, send: Page_Down, when: has_menu}
   schema_list:
+    - {schema: flypy}
+    - {schema: flypyplus}
     - {schema: double_pinyin_flypy_fluency}
     - {schema: luna_pinyin}
     - {schema: luna_pinyin_simp}
     - {schema: luna_pinyin_tw}
     - {schema: double_pinyin_flypy}
-
-  key_binder/bindings:
-    - when: paging
-      accept: bracketleft
-      send: Page_Up
-    - when: has_menu
-      accept: bracketright
-      send: Page_Down
-
-  ascii_composer/good_old_caps_lock: true   # 中西文切换快捷键
-  ascii_composer/switch_key:
-    Caps_Lock: noop
-    Shift_L: inline_ascii
-    Shift_R: noop
-    Control_L: noop
-    Control_R: noop
-
+    - {schema: emoji}
